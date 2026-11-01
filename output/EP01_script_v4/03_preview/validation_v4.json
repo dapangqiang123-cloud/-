@@ -1,0 +1,212 @@
+{
+  "final_count": 14,
+  "all_9_16": true,
+  "files": [
+    {
+      "file": "EP01_01_scene_height_pain_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_01_scene_height_pain_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_02_compare_270_260_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_02_compare_270_260_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_03_diagram_thick_unit_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_03_diagram_thick_unit_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_04_scene_190mm_finish_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_04_scene_190mm_finish_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_05_diagram_perimeter_soffit_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_05_diagram_perimeter_soffit_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_06_scene_mansion_air_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_06_scene_mansion_air_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_07_card_brand_clean.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_07_card_brand_withtext.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    }
+  ],
+  "clean_withtext_pairs": [
+    {
+      "shot": "01",
+      "same_size": true,
+      "different_pixels_bbox": [
+        88,
+        299,
+        810,
+        1601
+      ]
+    },
+    {
+      "shot": "02",
+      "same_size": true,
+      "different_pixels_bbox": [
+        33,
+        75,
+        909,
+        238
+      ]
+    },
+    {
+      "shot": "03",
+      "same_size": true,
+      "different_pixels_bbox": [
+        75,
+        75,
+        867,
+        1595
+      ]
+    },
+    {
+      "shot": "04",
+      "same_size": true,
+      "different_pixels_bbox": [
+        52,
+        1070,
+        528,
+        1439
+      ]
+    },
+    {
+      "shot": "05",
+      "same_size": true,
+      "different_pixels_bbox": [
+        56,
+        159,
+        848,
+        1598
+      ]
+    },
+    {
+      "shot": "06",
+      "same_size": true,
+      "different_pixels_bbox": [
+        160,
+        618,
+        782,
+        1585
+      ]
+    },
+    {
+      "shot": "07",
+      "same_size": true,
+      "different_pixels_bbox": [
+        255,
+        581,
+        825,
+        1668
+      ]
+    }
+  ],
+  "vent_qc": {
+    "01": "通过",
+    "02": "通过，左右两侧均为纯横百叶",
+    "03": "通过",
+    "04": "首轮出现转角第二格栅，淘汰；重跑通过",
+    "05": "通过",
+    "06": "通过"
+  }
+}

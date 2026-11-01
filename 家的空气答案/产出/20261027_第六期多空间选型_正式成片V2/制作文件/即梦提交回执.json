@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_304gqs0249",
+        "submitId": "1ea9bb8a-fa0b-4d92-a864-fa0165f39f48",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "59552df8-fb4b-4365-9ca9-4ec7604408d6"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_0khhqvghbk",
+        "submitId": "36807501-f180-45be-8d7c-766bd19cee98",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "2dfa36f6-8fa6-4b52-918f-8e9e791061ac"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "requestId": "20261028020145F88B8154D9C39F111CDF"
+  }
+}

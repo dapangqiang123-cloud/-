@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "historyId": "158de1d2-3aca-40b6-9522-f183ed68cde3",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "CLAUDE.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "DESIGN.md": {
+      "hash": "b5201a390574d1a1ca2c9f5b56681c94a7f2005f3f0b423ee70d76102e54c308",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/b5/b5201a390574d1a1ca2c9f5b56681c94a7f2005f3f0b423ee70d76102e54c308"
+    },
+    "assets/gsap.min.js": {
+      "hash": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/c1/c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "a4007d00663b78cc429b676c98fd6d7c7a80bb63763bb9dd36d54f1210bef5bd",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/a4/a4007d00663b78cc429b676c98fd6d7c7a80bb63763bb9dd36d54f1210bef5bd"
+    },
+    "meta.json": {
+      "hash": "e874e72fe029eca64a1a27d36e6dda8096709b9b1f12e3fb7d233844a9119744",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/e8/e874e72fe029eca64a1a27d36e6dda8096709b9b1f12e3fb7d233844a9119744"
+    },
+    "package.json": {
+      "hash": "28248dee5ea4c82a4dde9c33f886a678c14398503aac1649b81c3c8758e254be",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/158de1d2-3aca-40b6-9522-f183ed68cde3/blobs/28/28248dee5ea4c82a4dde9c33f886a678c14398503aac1649b81c3c8758e254be"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": {
+      "revision": null,
+      "id": "450a7083-277b-4e43-bc2b-72bfa082648c"
+    },
+    "revisions": {},
+    "unversioned": [
+      {
+        "id": "450a7083-277b-4e43-bc2b-72bfa082648c",
+        "scope": "project",
+        "report": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期_C3一拖多按需开_无字动画/HyperFrames工程/.hyperframes/artifacts/checks/450a7083-277b-4e43-bc2b-72bfa082648c.json",
+        "metadata": {
+          "ok": true,
+          "browserSkipped": false,
+          "options": {
+            "samples": 9,
+            "at": [
+              0.6,
+              2.4,
+              4.2,
+              5.95,
+              7.4
+            ],
+            "atTransitions": false,
+            "maxIssues": 80,
+            "collapseStatic": true,
+            "tolerance": 2,
+            "timeout": 3000,
+            "contrast": false,
+            "strict": false,
+            "snapshots": false,
+            "browserGpuMode": "auto"
+          }
+        },
+        "createdAt": 1793160087226,
+        "contentHash": "4db8776a1d5cfa510c438a3376a6bcc85dac066999b681db8d4d0272f6103983",
+        "revision": null,
+        "inputFingerprint": "0d8b9683087124765f8ba51deeff2e21e250ceab3af57cd10ce1b47f913d5a5b",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "b1759cb3-1bb0-40ee-bf0e-b2b476a23c48",
+      "completedAt": 1793160144774,
+      "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期_C3一拖多按需开_无字动画/C3一拖多_各屋按需开_无字_1080x1920_8s.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

@@ -1,0 +1,15 @@
+{
+  "method": "built-in image_gen edit",
+  "text": [
+    "秋雨连绵 湿凉渐起",
+    "潮意悄然入室 舒适不该将就"
+  ],
+  "format": "PNG",
+  "width": 1866,
+  "height": 843,
+  "alpha": true,
+  "alpha_min": 0,
+  "alpha_max": 255,
+  "native_alpha_preserved": true,
+  "preview_only": "预览_灰底.png"
+}

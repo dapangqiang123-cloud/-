@@ -1,0 +1,35 @@
+{
+  "version": "EP01_grille_v2",
+  "final_png_count": 11,
+  "modified_assets": [
+    "EP01_01",
+    "EP01_02",
+    "EP01_03",
+    "EP01_05",
+    "EP01_07"
+  ],
+  "vent_spec": "吊顶内嵌横向长条格栅风口；细长矩形；内部均匀横向细百叶；无单黑线；无竖向格栅；无方形百叶。",
+  "reference_policy": {
+    "vent_images": "前4张只参考风口构造。",
+    "decor_images": "第5至10张只提取暖白、木色、自然光、中古松弛感，不复制具体户型、家具组合或陈设。"
+  },
+  "retries": {
+    "EP01_02": "首轮过疏，重跑1次后通过。",
+    "EP01_07": "3次模型编辑仍过疏；最终仅在既有风口窄带内进行确定性9叶片局部绘制。"
+  },
+  "text_rule": "EP01_03与EP01_07的withtext均从修正后的clean重新叠字；未独立生成背景。",
+  "original_preserved": "/output/EP01/ 保留未覆盖。",
+  "files": [
+    "EP01_00_card_Q_layengao_clean.png",
+    "EP01_00_card_Q_layengao_withtext.png",
+    "EP01_01_scene_livingroom_heightscale_clean.png",
+    "EP01_02_scene_livingroom_clean.png",
+    "EP01_03_diagram_biandiao_section_clean.png",
+    "EP01_03_diagram_biandiao_section_withtext.png",
+    "EP01_05_scene_finished_open_livingdining_clean.png",
+    "EP01_06_card_maidian_190mm_clean.png",
+    "EP01_06_card_maidian_190mm_withtext.png",
+    "EP01_07_scene_grand_ending_clean.png",
+    "EP01_07_scene_grand_ending_withtext.png"
+  ]
+}

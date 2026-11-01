@@ -1,0 +1,120 @@
+{
+  "jobKey": "tresor-c2-lifestyle-type-20261023",
+  "canvasId": "bd64d565-c12e-48a8-964c-329468718425",
+  "items": {
+    "lounge": {
+      "imageResourceId": "3ec90765-613c-45b0-9e12-e858766f7253",
+      "imageImportSubmitId": "60852b92-eba8-4db3-afe4-08471eccdf30",
+      "videoSubmitId": "84fac4a1-59a0-4f09-8f76-ae880b3e593d",
+      "videoRuns": 1,
+      "imageNodeId": "node_nwt7vhzgap",
+      "videoNodeId": "node_eyyaa6vcrf",
+      "dispatchState": "accepted",
+      "resources": [
+        {
+          "resourceId": "ce1b2651-067f-4b30-b5e6-ec8c447d1196"
+        }
+      ],
+      "terminalStatus": "success",
+      "recordedCreditsAmount": 36
+    },
+    "dining": {
+      "imageResourceId": "c515ec35-2a0c-4fd3-8d26-871c44d62cbc",
+      "imageImportSubmitId": "6dc3a8e6-6a6e-4fad-bce6-13b22c353e3a",
+      "videoSubmitId": "13b1454b-3f41-4931-9e96-60c5008b9069",
+      "videoRuns": 1,
+      "imageNodeId": "node_1k65sdg814",
+      "videoNodeId": "node_rzm7gfwwrn",
+      "dispatchState": "accepted",
+      "resources": [
+        {
+          "resourceId": "af1673e8-ec42-4663-917e-501812f70096"
+        }
+      ],
+      "terminalStatus": "success",
+      "recordedCreditsAmount": 36
+    }
+  },
+  "constraints": {
+    "dreaminaCreditCeilingTotal": 500,
+    "videoModel": "seedance_2.0_fast_vip",
+    "resolution": "720p",
+    "runsPerVideo": 1,
+    "durationPerVideo": 6,
+    "videoCount": 2,
+    "imageSource": "built-in image_gen"
+  },
+  "userAuthorization": "2026-10-23：全部即梦合计不超过500积分，每条AI视频只生成一次；Seedance2.0 Fast 720p；用户要求自主做完。",
+  "quote": {
+    "items": [
+      {
+        "nodeId": "node_eyyaa6vcrf",
+        "maxCredits": 36
+      },
+      {
+        "nodeId": "node_rzm7gfwwrn",
+        "maxCredits": 36
+      }
+    ],
+    "totalMaxCredits": 72,
+    "draftVersion": 4,
+    "confirmable": true,
+    "confirmationRequired": true
+  },
+  "quoteRequestId": "202610230205022CE368A0D5D0C929DBEA",
+  "authorizedCreditCeilingThisBatch": 72,
+  "submission": {
+    "items": [
+      {
+        "nodeId": "node_eyyaa6vcrf",
+        "submitId": "84fac4a1-59a0-4f09-8f76-ae880b3e593d",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "ce1b2651-067f-4b30-b5e6-ec8c447d1196"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_rzm7gfwwrn",
+        "submitId": "13b1454b-3f41-4931-9e96-60c5008b9069",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "af1673e8-ec42-4663-917e-501812f70096"
+          }
+        ]
+      }
+    ]
+  },
+  "submissionRequestId": "20261023020503E6B0F7D45FF9800BF13E",
+  "totalRecordedCreditsAmount": 72,
+  "generationComplete": true,
+  "editProject": "可编辑工程/index.html",
+  "finalMovie": "成片/璀璨C2_尽兴相聚_24秒测试片_V1.mp4",
+  "editorCheckPassed": true,
+  "editingState": "complete",
+  "finalArtifactVerified": true,
+  "finalSha256": "8c1e4cf553410ee3ad1e3d2e269d28923e986aa4aa238c1dad82c084dfcd719c",
+  "finalMediaFacts": {
+    "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/成片/璀璨C2_尽兴相聚_24秒测试片_V1.mp4",
+    "duration": 24.0,
+    "dimensions": [
+      1080,
+      1440
+    ],
+    "fps": "30/1",
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "audioDuration": 24.0,
+    "bytes": 13266216,
+    "imageChecks": [
+      "成片每2秒检查.jpg",
+      "横移_过程检查.jpg",
+      "两厅拉远_过程检查.jpg",
+      "产品转场_过程检查.jpg",
+      "片尾拉远_过程检查.jpg"
+    ],
+    "audioReview": "Audio track decoded successfully and measured; no claim of auditory audition."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_script": "/Users/weipeilong/Downloads/璀璨家的空气答案_层高篇脚本 (1).xlsx",
+  "episode": "EP01 层高篇",
+  "duration": "38s",
+  "aspect": "9:16",
+  "delivery_count": 14,
+  "global_style": "暖白矿物墙面、暖木、人字拼地板、中古现代混搭、自然侧光、克制暖光、真实居住感；不复制参考图具体户型与家具组合。",
+  "vent_lock": "靠墙局部吊顶竖向立面的横向细长矩形格栅；内部仅连续横向细百叶；无竖向格栅、方格、单黑缝、圆形风口或第二重复风口。",
+  "assets": [
+    {"shot": "01", "clean": "EP01_01_scene_height_pain_clean.png", "withtext": "EP01_01_scene_height_pain_withtext.png", "copy": "装中央空调，层高多少够用？"},
+    {"shot": "02", "clean": "EP01_02_compare_270_260_clean.png", "withtext": "EP01_02_compare_270_260_withtext.png", "copy": "2.7m + 更从容 / 2.6-2.7m｜机器选型很关键"},
+    {"shot": "03", "clean": "EP01_03_diagram_thick_unit_clean.png", "withtext": "EP01_03_diagram_thick_unit_withtext.png", "copy": "普通机型：占用 20-30cm 层高"},
+    {"shot": "04", "clean": "EP01_04_scene_190mm_finish_clean.png", "withtext": "EP01_04_scene_190mm_finish_withtext.png", "copy": "璀璨中央空调｜薄至 190mm / 大幅减少吊顶压迫感", "note": "产品机身特写使用真实宣传片，AI仅提供完工空间。"},
+    {"shot": "05", "clean": "EP01_05_diagram_perimeter_soffit_clean.png", "withtext": "EP01_05_diagram_perimeter_soffit_withtext.png", "copy": "局部边吊 + 超薄内机 / 守住家中开阔感"},
+    {"shot": "06", "clean": "EP01_06_scene_mansion_air_clean.png", "withtext": "EP01_06_scene_mansion_air_withtext.png", "copy": "不牺牲层高，也有大宅空气感"},
+    {"shot": "07", "clean": "EP01_07_card_brand_clean.png", "withtext": "EP01_07_card_brand_withtext.png", "copy": "璀璨家的空气答案 / 懂空气，也懂家的尺度"}
+  ],
+  "compliance": [
+    "产品口径仅使用内机薄至190mm，不虚构具体产品外观。",
+    "不出现dB数值、App或语音控制、除醛百分比。",
+    "普通机型占用20-30cm只用于脚本中的泛行业对比，不套用为璀璨产品参数。",
+    "所有withtext均从同名clean底图叠字生成。"
+  ]
+}

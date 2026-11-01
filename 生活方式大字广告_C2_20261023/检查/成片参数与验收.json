@@ -1,0 +1,21 @@
+{
+  "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/成片/璀璨C2_尽兴相聚_24秒测试片_V1.mp4",
+  "duration": 24.0,
+  "dimensions": [
+    1080,
+    1440
+  ],
+  "fps": "30/1",
+  "videoCodec": "h264",
+  "audioCodec": "aac",
+  "audioDuration": 24.0,
+  "bytes": 13266216,
+  "imageChecks": [
+    "成片每2秒检查.jpg",
+    "横移_过程检查.jpg",
+    "两厅拉远_过程检查.jpg",
+    "产品转场_过程检查.jpg",
+    "片尾拉远_过程检查.jpg"
+  ],
+  "audioReview": "Audio track decoded successfully and measured; no claim of auditory audition."
+}

@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "historyId": "fb86cfee-59eb-4a7c-b6d5-d88c56a21583",
+  "currentRevision": "cab3df9e-2176-48a1-8fb9-22f7ebb55393",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "CLAUDE.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "DESIGN.md": {
+      "hash": "772514f14820e635d3769fb8b34feeae4a2b9d6db978fc7c4582223e4afc156e",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/77/772514f14820e635d3769fb8b34feeae4a2b9d6db978fc7c4582223e4afc156e"
+    },
+    "assets/body.woff2": {
+      "hash": "6969f6942a9886162989a391728ebf99b431c8347d2a72bb56d2a663890bb23c",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/69/6969f6942a9886162989a391728ebf99b431c8347d2a72bb56d2a663890bb23c"
+    },
+    "assets/logo.png": {
+      "hash": "3cc76be9ddcde50f074003a7369a59bfca199d3e3968da096eb9a0c0b23a278d",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/3c/3cc76be9ddcde50f074003a7369a59bfca199d3e3968da096eb9a0c0b23a278d"
+    },
+    "gsap.min.js": {
+      "hash": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/c1/c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "ef67149fd64838ebab86f177d3afd9cb1fd3b74a957436602e7f41ad13b1c31d",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/ef/ef67149fd64838ebab86f177d3afd9cb1fd3b74a957436602e7f41ad13b1c31d"
+    },
+    "meta.json": {
+      "hash": "1b78ae2d9ca6b864042154359a7e17ccf2704ca7fdd28757e3f5e9261fd36e6c",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/1b/1b78ae2d9ca6b864042154359a7e17ccf2704ca7fdd28757e3f5e9261fd36e6c"
+    },
+    "package.json": {
+      "hash": "4cee4326e604943abd2ea0e6cc0935f1b8f74803ff11c1f4086d7b4a93a9a3f7",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/4c/4cee4326e604943abd2ea0e6cc0935f1b8f74803ff11c1f4086d7b4a93a9a3f7"
+    },
+    "assets/c2.png": {
+      "hash": "090a75c9a5df77ca5959f98c28b782c7ab11c7a01af3fd5940726a100ef97ebb",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/09/090a75c9a5df77ca5959f98c28b782c7ab11c7a01af3fd5940726a100ef97ebb"
+    },
+    "assets/dining_alpha.mov": {
+      "hash": "ad0c6cf135891c69bcbd7120325c47ca5a0db31f7aa74843a094178c9c68e30e",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/ad/ad0c6cf135891c69bcbd7120325c47ca5a0db31f7aa74843a094178c9c68e30e"
+    },
+    "assets/enjoy.png": {
+      "hash": "9cf137ac156b298de0706ad68ef3ea7eb167c1359016c22fd323a9277eb1df38",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/9c/9cf137ac156b298de0706ad68ef3ea7eb167c1359016c22fd323a9277eb1df38"
+    },
+    "assets/gather.png": {
+      "hash": "e50245708b0415f13769e9ae54f543a7fc50f1dcf75c8eceb1ad3f666d3fe823",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/e5/e50245708b0415f13769e9ae54f543a7fc50f1dcf75c8eceb1ad3f666d3fe823"
+    },
+    "assets/lounge_alpha.mov": {
+      "hash": "bb5667060034d705a7726b2b6c43461c6e49cc8b30033fe2ef0488340ae302dd",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/bb/bb5667060034d705a7726b2b6c43461c6e49cc8b30033fe2ef0488340ae302dd"
+    },
+    "assets/lounge_end.png": {
+      "hash": "98451d124deab6ead2c08612feb902b0d7ed260e5be6730bd24426f11e7ab267",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/98/98451d124deab6ead2c08612feb902b0d7ed260e5be6730bd24426f11e7ab267"
+    },
+    "assets/music.wav": {
+      "hash": "e4d34d80128267ee076473c7b386676e5c69f2667455e9fc53592e1c349d0087",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/e4/e4d34d80128267ee076473c7b386676e5c69f2667455e9fc53592e1c349d0087"
+    },
+    "assets/dining_end.png": {
+      "hash": "a352aabec876705e99fbb35e93d164f733013dbd301454e93e77eb83e0feff2d",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/a3/a352aabec876705e99fbb35e93d164f733013dbd301454e93e77eb83e0feff2d"
+    },
+    "assets/enjoy_occluder.png": {
+      "hash": "9cf137ac156b298de0706ad68ef3ea7eb167c1359016c22fd323a9277eb1df38",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/9c/9cf137ac156b298de0706ad68ef3ea7eb167c1359016c22fd323a9277eb1df38"
+    },
+    "assets/numbers.ttf": {
+      "hash": "d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/d7/d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0"
+    }
+  },
+  "revisions": {
+    "4fb420c5-f605-431a-bb35-c2db32903b75": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792692918719,
+      "endedAt": 1792692918720,
+      "files": {
+        "assets/dining_alpha.mov": {
+          "before": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/f7/f769090ef97562ec7d1955702ddf4f589cb520a7f0e38c28fa977fda35b6b82d",
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/6b/6ba477ff61b722fac890b31f71134c93d3e64c985d45ef949a61bd52a0ad2811"
+        }
+      }
+    },
+    "be438e82-bf47-414f-af2d-f20a2b122ba0": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792692941432,
+      "endedAt": 1792692941456,
+      "files": {
+        "assets/dining_alpha.mov": {
+          "before": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/6b/6ba477ff61b722fac890b31f71134c93d3e64c985d45ef949a61bd52a0ad2811",
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/ad/ad0c6cf135891c69bcbd7120325c47ca5a0db31f7aa74843a094178c9c68e30e"
+        },
+        "assets/dining_end.png": {
+          "before": null,
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/a3/a352aabec876705e99fbb35e93d164f733013dbd301454e93e77eb83e0feff2d"
+        }
+      }
+    },
+    "94f4ed16-16ce-45cd-9bcd-a615b11a7d8e": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792693007156,
+      "endedAt": 1792693007163,
+      "files": {
+        "assets/enjoy_occluder.png": {
+          "before": null,
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/9c/9cf137ac156b298de0706ad68ef3ea7eb167c1359016c22fd323a9277eb1df38"
+        },
+        "assets/numbers.ttf": {
+          "before": null,
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/d7/d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0"
+        }
+      }
+    },
+    "0a84b7ab-dafc-4566-9636-8e1bb115f37b": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792693031100,
+      "endedAt": 1792693031100,
+      "files": {
+        "index.html": {
+          "before": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/f1/f1905016f503f0983344091e6972805454cef862efd08ff0c28b9ce98ee939dd",
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/7c/7c59c97ad1c5375de5fb0b2cc86678bc6427101658de39b6ccfd140cb7d7cb37"
+        }
+      }
+    },
+    "cab3df9e-2176-48a1-8fb9-22f7ebb55393": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792693153993,
+      "endedAt": 1792693153993,
+      "files": {
+        "index.html": {
+          "before": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/7c/7c59c97ad1c5375de5fb0b2cc86678bc6427101658de39b6ccfd140cb7d7cb37",
+          "after": "/Users/weipeilong/.cache/hyperframes/history/fb86cfee-59eb-4a7c-b6d5-d88c56a21583/blobs/ef/ef67149fd64838ebab86f177d3afd9cb1fd3b74a957436602e7f41ad13b1c31d"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": {
+      "revision": "cab3df9e-2176-48a1-8fb9-22f7ebb55393",
+      "id": "5e756d07-7eda-43d0-b04b-72c4c8644e58"
+    },
+    "revisions": {
+      "94f4ed16-16ce-45cd-9bcd-a615b11a7d8e": [
+        {
+          "id": "e45613f9-14dc-4126-9531-629a3d314006",
+          "scope": "project",
+          "metadata": {
+            "ok": false,
+            "browserSkipped": true,
+            "options": {
+              "samples": 9,
+              "at": [
+                2,
+                7.5,
+                13.5,
+                19.5,
+                23
+              ],
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792693008015,
+          "contentHash": "d1e6ad410e9059e81929034264bba4dae74ae6c85ad2fcd032dea3f4aeb44fa9",
+          "revision": "94f4ed16-16ce-45cd-9bcd-a615b11a7d8e",
+          "inputFingerprint": "4a67c3611c4d1634449c072fc125c0c5574047f90caac2959edcca8b9e4ee0cc",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "d8177461-b6fb-4f59-984b-afe6c49ee446"
+        }
+      ],
+      "0a84b7ab-dafc-4566-9636-8e1bb115f37b": [
+        {
+          "id": "3ff9788d-35d1-4088-9993-1006ce56a497",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "at": [
+                2,
+                5.5,
+                7.5,
+                11.6,
+                13.5,
+                17.2,
+                19.5,
+                21.5,
+                23
+              ],
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792693110804,
+          "contentHash": "72f1c5f942ceda6a2964892fe9d7baea4e96d19c544c4ea17f5101ff3906ff8e",
+          "revision": "0a84b7ab-dafc-4566-9636-8e1bb115f37b",
+          "inputFingerprint": "285d24b89f91af1ce2d198e73e392b961fa5d7ec391794006cb870e15c5b9c25",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "d8177461-b6fb-4f59-984b-afe6c49ee446"
+        }
+      ],
+      "cab3df9e-2176-48a1-8fb9-22f7ebb55393": [
+        {
+          "id": "5e756d07-7eda-43d0-b04b-72c4c8644e58",
+          "scope": "scoped",
+          "report": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/可编辑工程/.hyperframes/artifacts/checks/5e756d07-7eda-43d0-b04b-72c4c8644e58.json",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "scope": {
+              "range": [
+                10.8,
+                24
+              ],
+              "hiddenFindings": 0,
+              "notes": [
+                "Static lint and unscoped runtime failures remain project-wide.",
+                "Whole-timeline motion assertions, frozen-sweep detection and craft warnings are skipped for range checks."
+              ]
+            },
+            "options": {
+              "samples": 9,
+              "range": [
+                10.8,
+                24
+              ],
+              "at": [
+                11.6,
+                13.5,
+                17.2,
+                19.5,
+                21.5,
+                23
+              ],
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792693157534,
+          "contentHash": "d1317577c6970047f364fa99f46cb7667f50112767bf958b625135351242d7f1",
+          "revision": "cab3df9e-2176-48a1-8fb9-22f7ebb55393",
+          "inputFingerprint": "9e4762b46bb26ded9d3f1880f5528487c3f5bc53b7f874cb8a89370e43906a41",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": [
+      {
+        "id": "2335f356-10b1-48e8-8cc9-bc56b6589f56",
+        "scope": "project",
+        "report": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/可编辑工程/.hyperframes/artifacts/checks/2335f356-10b1-48e8-8cc9-bc56b6589f56.json",
+        "metadata": {
+          "ok": false,
+          "browserSkipped": true,
+          "options": {
+            "samples": 9,
+            "at": [
+              2,
+              7.5,
+              13.5,
+              19.5,
+              23
+            ],
+            "atTransitions": false,
+            "maxIssues": 80,
+            "collapseStatic": true,
+            "tolerance": 2,
+            "timeout": 3000,
+            "contrast": true,
+            "strict": false,
+            "snapshots": false,
+            "browserGpuMode": "auto"
+          }
+        },
+        "createdAt": 1792692919139,
+        "contentHash": "48af3ecaba69cdc7b23d3a48c006b26cbac71a69f0e2e871242aeb50837ead1c",
+        "revision": null,
+        "inputFingerprint": "5e614436ba58dc1364d11936e74bd396ed9e08f2f67ba5c6644affc54b0ca847",
+        "inputScope": "local-project-files",
+        "attribution": "inputs-changed"
+      }
+    ]
+  },
+  "snapshots": {
+    "latest": {
+      "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+      "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-4"
+    },
+    "revisions": {
+      "be438e82-bf47-414f-af2d-f20a2b122ba0": [
+        {
+          "scope": "full",
+          "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-0",
+          "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/检查/版式快照/frame-00-at-2s.png",
+          "time": 2,
+          "metadata": {
+            "width": 1080,
+            "height": 1440,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792692949565,
+          "contentHash": "13dd047fc7a2cdc8f6ab8700c135294d11456bfdaa44e016f56afa41dc60ef58",
+          "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+          "inputFingerprint": "e6fa644902746eb339874cd463d1eb08edf8a22a5766002ba4b46aa5546146c7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-1",
+          "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/检查/版式快照/frame-01-at-7.5s.png",
+          "time": 7.5,
+          "metadata": {
+            "width": 1080,
+            "height": 1440,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792692949565,
+          "contentHash": "223afe96dc67476e75e52397dbfa898a5a1149f8b484b5210b6af3366c209e17",
+          "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+          "inputFingerprint": "e6fa644902746eb339874cd463d1eb08edf8a22a5766002ba4b46aa5546146c7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-2",
+          "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/检查/版式快照/frame-02-at-13.5s.png",
+          "time": 13.5,
+          "metadata": {
+            "width": 1080,
+            "height": 1440,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792692949565,
+          "contentHash": "65b7c6919b62e3c0e442f662ede9eb3204670d3d8da0e4d6f65b7580f8a8fbc9",
+          "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+          "inputFingerprint": "e6fa644902746eb339874cd463d1eb08edf8a22a5766002ba4b46aa5546146c7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-3",
+          "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/检查/版式快照/frame-03-at-19.5s.png",
+          "time": 19.5,
+          "metadata": {
+            "width": 1080,
+            "height": 1440,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792692949565,
+          "contentHash": "96d14cff666acc4ae8e490f48d59fc8be2ebd1aca71ce7a80e5cd9fb943a6a10",
+          "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+          "inputFingerprint": "e6fa644902746eb339874cd463d1eb08edf8a22a5766002ba4b46aa5546146c7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6608fd02-6b1d-4b46-9eb4-cf94aac43138-4",
+          "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/检查/版式快照/frame-04-at-23s.png",
+          "time": 23,
+          "metadata": {
+            "width": 1080,
+            "height": 1440,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792692949565,
+          "contentHash": "fa035f4ec030ee62cf6d58cd7a8f8398c018848ab4501aeedfe55be82721aa59",
+          "revision": "be438e82-bf47-414f-af2d-f20a2b122ba0",
+          "inputFingerprint": "e6fa644902746eb339874cd463d1eb08edf8a22a5766002ba4b46aa5546146c7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "d8177461-b6fb-4f59-984b-afe6c49ee446",
+      "completedAt": 1792693306747,
+      "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/成片/璀璨C2_尽兴相聚_24秒测试片_V1.mp4",
+      "status": "completed",
+      "revision": "cab3df9e-2176-48a1-8fb9-22f7ebb55393"
+    },
+    "retainedRevisions": [
+      "cab3df9e-2176-48a1-8fb9-22f7ebb55393"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

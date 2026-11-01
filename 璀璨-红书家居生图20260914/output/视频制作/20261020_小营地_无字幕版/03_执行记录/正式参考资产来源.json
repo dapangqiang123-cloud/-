@@ -1,0 +1,55 @@
+{
+  "note": "从用户正式原始资产复制，源文件未更改。新要求：通过LibTV的@参考同时锁定角色、环境、产品。外机仅归档，不在室内镜头调用。",
+  "assets": [
+    {
+      "name": "ENV_客餐厅母图.png",
+      "source": "/var/folders/nz/ln59_g0j4jz7dpl9yp1xqz5c0000gn/T/codex-clipboard-5a120b2d-0f11-4f77-8b0c-33fd0c163c83.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/ENV_客餐厅母图.png"
+    },
+    {
+      "name": "ENV_秋雨山湖外景.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF0GHZEGZY97.info/已生成图像 1.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/ENV_秋雨山湖外景.png"
+    },
+    {
+      "name": "CHAR_爸爸三视图.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF5BMIDSW5TX.info/已生成图像 1.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/CHAR_爸爸三视图.png"
+    },
+    {
+      "name": "CHAR_妈妈三视图.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF4DQMO2HDPN.info/已生成图像 1.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/CHAR_妈妈三视图.png"
+    },
+    {
+      "name": "CHAR_男孩三视图.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF5AQRS07VE0.info/已生成图像 1.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/CHAR_男孩三视图.png"
+    },
+    {
+      "name": "CHAR_胖比熊三视图.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF5DRA4OIPHV.info/已生成图像 3.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/CHAR_胖比熊三视图.png"
+    },
+    {
+      "name": "PROD_白色线控器正面68.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF00EYBNGUAK.info/图1_正视_除湿68.0_预览.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/PROD_白色线控器正面68.png"
+    },
+    {
+      "name": "PROD_白色线控器侧面68.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MVF00EY8PGAPY.info/图2_透视_除湿68.0.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/PROD_白色线控器侧面68.png"
+    },
+    {
+      "name": "PROD_C3D白色外机正面.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MT2QQ1GS6B158.info/Image-20.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/PROD_C3D白色外机正面.png"
+    },
+    {
+      "name": "PROD_C3D白色外机侧面.png",
+      "source": "/Users/weipeilong/Pictures/常用视觉库.library/images/MRK9MYRU0JFB8.info/untitled-工作室-4.186.png",
+      "copy": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/00_正式原始参考资产/PROD_C3D白色外机侧面.png"
+    }
+  ]
+}

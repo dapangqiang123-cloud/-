@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "node": {
+      "nodeId": "node_5rbh2y403f",
+      "type": "video",
+      "title": "A02｜多房间系统覆盖·空间示意｜仅一次",
+      "tags": [],
+      "status": "empty",
+      "upstreamNodeIds": [],
+      "downstreamNodeIds": [],
+      "executionDependencyNodeIds": [],
+      "resources": [],
+      "generation": {
+        "mode": "t2v",
+        "prompt": "9秒9:16竖屏，高端家电品牌的建筑可视化广告，电影级真实材质、精细光线。一个整体的现代暖木公寓剖切模型，客餐厅、主卧、儿童房、书房可见，木材、米白织物、浅色石材，细节精致而克制，模型填满竖幅构图，绝不是图表UI。0–2秒镜头沿公寓外墙缓慢升高，屋顶像建筑展示模型一样整体向上隐去，露出各房间。2–7秒摄影机做非常小幅的环绕，同时沿天花隐蔽管道，一股细腻柔白流动示意逐步分支到四个房间的窄条风口，四处都有轻柔空气流动，表现系统覆盖；7–9秒摄影机稳定在优雅的三分之四俯视角，房间光线温暖，气流继续流动。纯粹建筑原理示意，不出现任何可识别品牌或机械内部结构。无文字、无数字、无标注、无logo、无边框、无任何UI、无卡通、无水管喷水、无大块发光色带。浅暖灰真实摄影棚背景、柔和环境阴影、产品电影品质。",
+        "model": "seedance_2.0_fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "outputCount": 1,
+        "durationSeconds": 9,
+        "references": [],
+        "promptParts": [
+          {
+            "kind": "text",
+            "text": "9秒9:16竖屏，高端家电品牌的建筑可视化广告，电影级真实材质、精细光线。一个整体的现代暖木公寓剖切模型，客餐厅、主卧、儿童房、书房可见，木材、米白织物、浅色石材，细节精致而克制，模型填满竖幅构图，绝不是图表UI。0–2秒镜头沿公寓外墙缓慢升高，屋顶像建筑展示模型一样整体向上隐去，露出各房间。2–7秒摄影机做非常小幅的环绕，同时沿天花隐蔽管道，一股细腻柔白流动示意逐步分支到四个房间的窄条风口，四处都有轻柔空气流动，表现系统覆盖；7–9秒摄影机稳定在优雅的三分之四俯视角，房间光线温暖，气流继续流动。纯粹建筑原理示意，不出现任何可识别品牌或机械内部结构。无文字、无数字、无标注、无logo、无边框、无任何UI、无卡通、无水管喷水、无大块发光色带。浅暖灰真实摄影棚背景、柔和环境阴影、产品电影品质。"
+          }
+        ],
+        "writebackSupported": true,
+        "writebackBlockers": []
+      },
+      "layout": {
+        "x": 0,
+        "y": 1178.8890000000001,
+        "width": 320,
+        "height": 568.889
+      },
+      "resourceObservedAtMs": 1792690870285
+    },
+    "mutation": {
+      "action": "create",
+      "savedDraftVersion": 4,
+      "effectiveGeneration": {
+        "mode": "t2v",
+        "model": "seedance2.0fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "durationSeconds": 9,
+        "outputCount": 1
+      }
+    }
+  },
+  "meta": {
+    "requestId": "20261023014110314E03134A726FD79442"
+  }
+}

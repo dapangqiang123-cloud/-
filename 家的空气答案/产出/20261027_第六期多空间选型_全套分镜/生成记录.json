@@ -1,0 +1,184 @@
+[
+  {
+    "id": "01",
+    "title": "开篇_装修选型",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-5a97ab7b-b72f-49c2-8e79-9a24a02edf8a.png",
+    "prompt": "Use case: ads-marketing. Generate ONE finished premium cinematic storyboard frame for Chinese home HVAC education series 家的空气答案, episode 6, shot 01 opening, vertical 9:16 full bleed, high resolution. Scene: a beautifully lived-in spacious contemporary Chinese apartment during autumn late afternoon, viewed from entry looking past walnut dining table toward cream linen sofa, large windows and quiet tree view, travertine floor accents, warm walnut cabinetry, subtle olive cushion, architectural depth. An East Asian couple aged 30 in quiet neutral clothes reviewing a floorplan at the dining table, candid natural gestures, sharp believable faces and hands, no posed smiles. Horizontal discreet recessed linear ceiling AC outlet integrated into soffit, no visible indoor or outdoor machine. Cinematic 35mm interior photography, tactile natural materials, crisp architecture, controlled contrast, rich warm light not sepia, real high-end residence not hotel. Upper left small understated text 璀璨中央空调 Q&A, central upper architecture remains visible. Only headline in lower third: 秋冬装修，中央空调怎么选？, tasteful white Chinese sans serif, readable, no card background. No infographic panels, no collage, no large poster heading, no fake logos, no watermark, no heavy blur. This is one real scene filling the entire frame.",
+    "file": "分镜图/01_开篇_装修选型.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "0-4s",
+    "vo": "秋冬装修，中央空调怎么选才适合你家？不同户型、不同需求，选之前先看这四点。"
+  },
+  {
+    "id": "02",
+    "title": "问题一_大客餐厅",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-bbf9b396-b86a-4a21-a801-eb9f7d0ae325.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Camera low near cream sofa looking along the generous integrated living and dining room toward a walnut table and autumn windows at the far end, spatial depth clearly readable, about 18m of long open-plan residence, continuous pale stone and warm timber floor, quiet offwhite curtains, single continuous slim ceiling outlet above near living area. No people. No airflow yet. Lower subtitle exactly: 客餐厅大空间，该怎么选？",
+    "file": "分镜图/02_问题一_大客餐厅.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "4-9s",
+    "vo": "Q1：针对客餐厅大空间，该怎么选？"
+  },
+  {
+    "id": "03",
+    "title": "判断一_风量与送风距离",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-3f5a79e2-8326-4290-bb51-7f9e0bbbc345.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Same warm walnut and ivory long integrated living-dining room, camera slightly elevated wide angle, near living room lower foreground and distant dining room upper background. Show precise elegant technical airflow visualization integrated into the 3D real space: numerous fine translucent pale ivory and faint ice-blue parallel streamlines originate ONLY at near ceiling linear supply slot, extend across entire living room into distant dining room, gently diffuse and remain clearly directional. Two thin subtle dimension guides follow perspective, no big UI. Small labels near the actual airflow read 送风风量 and 送风距离. Bottom subtitle exactly: 风量与送风距离，都要看. No smoke clouds or neon ribbons. Furniture and room clear through airflow.",
+    "file": "分镜图/03_判断一_风量与送风距离.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "9-17s",
+    "vo": "如果你家是客餐厅一体的大空间，匹数之外，更要看内机风量和送风距离，风送不远，只能局部冷热才是坑。"
+  },
+  {
+    "id": "04",
+    "title": "答案一_C2艺境18米送风",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-df0d376e-fe53-4b44-8442-b400a3d9d29b.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Product compositing storyboard: reference 1 is the official C2 outdoor unit, mandatory exact product source, preserve original single fan, mauve brown square cabinet, champagne rim and fan center, grille geometry, logo and proportions, do not redesign. A cinematic exterior-to-interior view of a modern residence: foreground left lower half shows this outdoor unit standing correctly OUTSIDE on stone service terrace, realistic small feet; behind a clean glass wall is a long warm ivory walnut living dining space with recessed ceiling supply slot, subtle thin airflow lines inside living space go to far dining room. Physically coherent exterior wall separates unit from interior. Product in sharp focus, landscape inside also legible. No freestanding showroom pedestal. Small restrained title above bottom: C2艺境. Bottom subtitle: 18m超远送风. No airflow emitted from the outdoor fan into the room; all indoor air starts at indoor vent.",
+    "file": "分镜图/04_答案一_C2艺境18米送风.png",
+    "size": [
+      940,
+      1673
+    ],
+    "time": "17-22s",
+    "vo": "璀璨客餐厅中央空调C2艺境，18米超远送风，全空间均匀冷热，更适合这类大空间用户。"
+  },
+  {
+    "id": "05",
+    "title": "问题二_全屋多空间",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-08963ac9-654a-41e1-82f1-0f92197b8f30.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Full-frame dramatic architectural cutaway of ONE continuous four-room upscale apartment, birds-eye 45 degree view, ultra-realistic materials and furniture, room layout physically sensible. Large open-plan living dining foreground, master bedroom back left, child's bedroom back right, study mid right. Continuous walls and corridors, no disconnected dollhouse blocks, no massive blank margins. Partial roof removed for explanation, ceiling perimeter and long linear AC slots retained. Two occupied rooms softly lit in warm daylight, unused study cooler and unlit; do NOT imply a temperature value. Plants and nearby trees connect to real building context. The apartment occupies 85% image. No external unit shown yet. Bottom subtitle: 全屋都想装，该怎么选？",
+    "file": "分镜图/05_问题二_全屋多空间.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "22-27s",
+    "vo": "Q2：全屋都想装中央空调，该怎么选？"
+  },
+  {
+    "id": "06",
+    "title": "判断二_各房独立运行",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-4fcf1c28-b41e-42c5-814c-c009ed22d99f.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Architectural engineering explanation inside ONE coherent realistically detailed apartment cutaway, fills portrait screen, camera 45-degree above. Official C3 coffee-brown double vertically stacked fan unit from reference 1 installed OUTSIDE at left service balcony, preserve exact appearance and two fans. Four spaces remain architecturally connected: living room lower left with family, main bedroom upper left, child's bedroom upper right, quiet empty study lower right. Thin paired copper refrigerant lines from outdoor unit branch through ceiling void to four small concealed ceiling indoor units above each room. THREE occupied rooms show fine gentle white supply flow at recessed vents; unoccupied study has no flow and slightly dimmer lighting. No temperature setpoints, no product exploded internals, no arbitrary big graphics. On-image small room labels 客厅 主卧 儿童房 书房. Small status 关闭 by study, bottom subtitle: 一台外机，各屋按需开. Beautiful physically coherent premium technical visualization.",
+    "file": "分镜图/06_判断二_各房独立运行.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "27-35s",
+    "vo": "如果你家多个房间都要装，先看各房间能不能独立控制。多空间多人群使用，产品的品质和稳定性将决定未来的生活舒适度。"
+  },
+  {
+    "id": "07",
+    "title": "答案二_C3知境多联机",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-0f927595-942a-4b72-84c8-f0ef533f21fc.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Hero product photography composite, official C3 double fan outdoor unit from reference 1 is the central hero on a real exterior service terrace of elegant apartment at late afternoon. Preserve exact reference coffee brown finish, TWO vertically stacked fans, gold rims, fan centers, feet, grille and brand mark, no redesign. Tall portrait hero angle, product occupies middle 55% and is tack sharp, white stone facade, behind and above tall window gives glimpse of several softly illuminated real rooms, warm interior distant but recognizable. No sci fi exploded compressor, no imaginary components. Product sits outdoors with credible installation clearance. Restrained small lower type: C3知境系列多联机. Below: 日系高品质压缩机 · 各屋按需开. No cards, no giant typography.",
+    "file": "分镜图/07_答案二_C3知境多联机.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "35-40s",
+    "vo": "璀璨中央空调C3知境系列多联机，配置日系高品质压缩机，动力强劲，一台外机带多台内机，稳定运行，各屋按需开。"
+  },
+  {
+    "id": "08",
+    "title": "问题三_老人孩子",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-d2661735-a7cb-4a63-8990-592c6fdc7186.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Intimate warm real family moment in a new elegant contemporary Chinese apartment: East Asian grandmother about 65 with natural gray hair wearing oatmeal cardigan sits comfortably on cream sofa reading picture book with granddaughter about 6 in pale olive knit; mother about 32 beside them arranging cushions, faces natural detailed and not fashion-model perfect. A new walnut built-in cabinet and pale timber furnishing are visible, no pollution effects yet. Composition medium wide at child's eye level, the three people central, clear face detail and correct hands. Warm morning daylight through floor-to-ceiling windows, crisp architectural surfaces, slim discreet ceiling vent in upper background. Bottom subtitle: 家里有老人孩子，该怎么选？ No fear or illness imagery.",
+    "file": "分镜图/08_问题三_老人孩子.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "40-45s",
+    "vo": "Q3：家里有老人孩子，该怎么选？"
+  },
+  {
+    "id": "09",
+    "title": "判断三_空气污染与净化",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-e6abda4a-1d48-402b-ac97-424491860160.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Elegant cinematic scientific conceptual visualization seamlessly within real empty warm home, scene foreground a new walnut cabinet and upholstered sofa, background reading corner with books and ceiling vent. Camera travels visually from cabinet toward supply air: sparse transparent macro symbolic particles suspended in a narrow diagonal zone above cabinet, three distinguishable particle groups with small precise leader labels 甲醛, PM2.5, 异味. Fine clean pale blue-white air streamlines from ceiling vent cross that zone, particles become sparse into clear air near reading corner, avoid claiming measurable literal molecular mechanism. Discreet tiny label 净化示意. These are restrained scientific visualization, not monster germs, giant glass bubbles, glitter, thick smoke or laser beams. Room and material texture fully visible. Bottom subtitle: 空气净化能力，是关键. No product or percentage claim.",
+    "file": "分镜图/09_判断三_空气污染与净化.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "45-54s",
+    "vo": "如果你家有老人孩子，这时拥有空气净化能力的中央空调就更为必要，要能同时应对甲醛、PM2.5、异味等常见污染物。"
+  },
+  {
+    "id": "10",
+    "title": "答案三_C3D健康模块",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-a7397d78-f6ac-4501-acbc-41c858f286a9.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Mandatory source reference: official white C3D double vertically stacked fan outdoor unit, keep precise white cabinet, champagne rings and hubs, black grille, TRESOR mark, proportions. Cinematic product-and-life composition through real architecture: white C3D unit in foreground on OUTDOOR stone service terrace, clearly separated by glass facade from quiet indoor reading corner where grandmother and child read together. Outdoor product crisp and primary 45% frame. INSIDE, fine pale clean-air streamlines begin at recessed ceiling INDOOR vent above family, not at outdoor machine. Three small elegant typographic pointers near indoor air read 除醛 除菌 除异味, no icon cards. Do NOT depict or invent physical Hi-nano module internals or claim outdoor fan purifies inside air. Small lower title: C3D系列. Lower subtitle: Hi-nano Ultra健康模块. Tiny auxiliary: 净化效果示意. Premium authentic photo composite.",
+    "file": "分镜图/10_答案三_C3D健康模块.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "54-60s",
+    "vo": "璀璨中央空调C3D系列，搭载Hi-nano Ultra健康模块，三重净化，能有效除醛、除菌、除异味。"
+  },
+  {
+    "id": "11",
+    "title": "问题四_秋冬关窗憋闷",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-aa1e02b6-4258-4405-ba89-43018550fc01.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. A candid moment in same warm walnut cream Chinese apartment at autumn dusk, camera close to CLOSED floor-to-ceiling window clearly showing shut handle and double glass reflection; amber autumn branches outside. Grandmother and child doing puzzle at table in midground, father reading and mother seated in background, ordinary mild stuffiness suggested by mother gently loosening sweater collar, no sickness, no exaggerated distress, no visible dirty smoke. Medium wide composition puts closed window latch foreground, people recognizable, recessed ceiling AC slot in background. Comfortable interior but still air, curtains hang still, slightly subdued daylight. Bottom subtitle: 秋冬常关窗，怕闷怎么办？",
+    "file": "分镜图/11_问题四_秋冬关窗憋闷.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "60-65s",
+    "vo": "Q4：秋冬季节易敏感怕憋闷，怎么选"
+  },
+  {
+    "id": "12",
+    "title": "判断四_不开窗持续换气",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-5ac915d7-dd5a-4e2e-b802-c1b0dd7857a3.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Beautiful physically coherent architectural SECTION through one apartment facade, room interior occupies right two-thirds and outdoor autumn trees left third. Large WINDOW IS CLOSED, glass pane visibly continuous. Separate fresh-air intake duct crosses the SOLID EXTERIOR WALL ABOVE THE WINDOW and routes within ceiling void to concealed ventilation unit then supply slot. Pale blue-white arrows along this dedicated duct bring outdoor air INTO room; a separate subtle warm gray exhaust path near upper ceiling returns stale indoor air outdoors through another wall port, arrows distinctly opposite, no paths through closed glass. Real warm living room with cream sofa and walnut table, a person reading comfortably. Fresh air dispersed from ceiling linear supply vent into room. Only small labels 室外新风 and 室内浊气 by respective paths, tiny 系统示意, subtitle: 不开窗，也能持续换新风. No invented efficiency numbers, no fake outdoor AC fan supplying fresh air, no cards. Precise engineering storytelling with cinematic photoreal materials.",
+    "file": "分镜图/12_判断四_不开窗持续换气.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "65-73s",
+    "vo": "如果你家秋冬常关窗，重点就要看新风换气能力，能不能不开窗，也持续把室外新鲜空气送进来。"
+  },
+  {
+    "id": "13",
+    "title": "答案四_Mini新风系统",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-107f68f3-94a9-408a-947e-920f3cfb50ca.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Mandatory source reference: official Mini ventilation unit, use exact charcoal-gray flattened rectangular ducted box with its original FOUR round side ports and pale TRESOR mark, preserve geometry and don't turn it into purifier or outdoor fan. A highly polished photoreal architectural section through apartment ceiling: top half ceiling void visibly opened only for explanation, exact official unit suspended horizontally with metal hangers and insulated ducts attached to its round ports, wholly ABOVE ceiling. Below ceiling is warm serene bedroom with ivory bed, walnut wall and long recessed linear fresh air vent. Fine translucent streamlines from ceiling supply vent into bedroom, fresh air concept, no fantasy internal filters. No product on floor. Unit in hero visibility and correctly concealed once ceiling reinstated. Small lower title: Mini新风系统. Lower subtitle exactly: 三层过滤 · 350m³/h新风量. Tiny label: 吊顶内安装示意. Maintain real geometry, leave room to see unit and room, no cards.",
+    "file": "分镜图/13_答案四_Mini新风系统.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "73-78s",
+    "vo": "璀璨Mini新风系统，具备三层过滤能力，PM2.5净化效率高端99%，350m³/h超大新风量，快速置换室内空气。"
+  },
+  {
+    "id": "14",
+    "title": "收口_四种需求四个答案",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-141ea37c-514b-4e77-955f-58ac96e792ac.png",
+    "prompt": "Use case: ads-marketing. ONE premium cinematic storyboard still, full-bleed portrait 9:16 high resolution, for 家的空气答案 episode 6. Photoreal sophisticated contemporary Chinese home, warm walnut, ivory linen, travertine, muted olive, natural autumn daylight with clear whites and rich shadows. Architectural photography, physically coherent geometry, sharp identifiable faces and product details, lived-in warmth. Discreet long horizontal ceiling AC slots only in interiors, never outdoor HVAC units in living rooms. No generic dashboard cards, no PPT layout, no collage, no poster border, no giant heading, no watermark, no logo overlay. Scene fills frame. Typography only explicitly specified below, restrained white sans serif with subtle shadow in lower safe area. Final brand product lineup, a single coherent premium architectural showroom scene, warm limestone gallery open to autumn garden in upper background, subtle stepped continuous limestone display floor for brand exhibition clearly not working residential installation. Use FOUR official input product references exactly once each: source1 short square brown SINGLE FAN C2 at lower left, source2 tall brown TWO VERTICAL FANS C3 center-left back, source3 tall white TWO VERTICAL FANS C3D center-right back, source4 flat dark Mini fresh air box with four round ports lower right on low integral stone shelf for display. Preserve exact fan counts, colors, grille patterns, proportions and original brand marks. All FOUR products fully visible with clear separation, no one overlapping a fan of another, not substitute generic units. Product cluster lower 65% of portrait, realistic studio highlights, sunlight shadows, gallery tasteful rather than empty white e-commerce image. Upper center modest Chinese title: 璀璨中央空调. Below smaller 2-line statement: 让每一种舒适 / 都选得恰到好处. No other texts, no fake extra logos, no particles or UI, no household operation implied.",
+    "file": "分镜图/14_收口_四种需求四个答案.png",
+    "size": [
+      941,
+      1672
+    ],
+    "time": "78-84s",
+    "vo": "不同空间，不同家庭，自然有不同答案。\n璀璨中央空调，让每一种舒适，都选得恰到好处。"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "S01",
+    "title": "雨落山居",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜1.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S01_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 4,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "submitted_at": "2026-10-10 03:30 Asia/Shanghai",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "technical_failure_count": 3,
+    "retry_count": 3,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S01_技术失败后简化提示词.txt",
+    "last_submitted_at": "2026-10-10T16:00:21.741448+08:00",
+    "attempts": [
+      {
+        "number": 1,
+        "task_id": "20261010033003277184666",
+        "status": "技术失败"
+      },
+      {
+        "number": 2,
+        "task_id": "20261010155003616234666",
+        "status": "技术失败"
+      },
+      {
+        "number": 3,
+        "status": "技术失败",
+        "prompt_version": "技术失败后简化提示词",
+        "smart_expansion": false,
+        "task_id": "20261010155203267204666"
+      },
+      {
+        "number": 4,
+        "status": "成功（界面播放5秒）",
+        "mode": "全能参考",
+        "images": [
+          "分镜1",
+          "资产图-C3外机侧视图",
+          "资产图-C3外机正视图"
+        ],
+        "smart_expansion": false
+      }
+    ],
+    "generation_mode": "全能参考（用户最新指定）",
+    "first_failed_task_id": "20261010033003277184666",
+    "first_failure_message": "视频生成失败，积分将会在2小时内返还，请稍后重试",
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S01.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    }
+  },
+  {
+    "id": "S02",
+    "title": "雨润秋实",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜2.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S02_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 2,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S02_技术失败后简化提示词.txt",
+    "last_submitted_at": "2026-10-10T16:05:26.345449+08:00",
+    "technical_failure_count": 1,
+    "generation_mode": "全能参考（用户最新指定）",
+    "retry_count": 1,
+    "first_failed_task_id": "20261010155203167644666",
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S02.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    },
+    "attempts": [
+      {
+        "number": 1,
+        "task_id": "20261010155203167644666",
+        "status": "技术失败"
+      },
+      {
+        "number": 2,
+        "status": "成功",
+        "mode": "全能参考",
+        "references": [
+          "分镜2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "title": "雨窗微潮",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜3.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S03_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 1,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S03_技术失败后简化提示词.txt",
+    "generation_mode": "全能参考（用户最新指定）",
+    "last_submitted_at": "2026-10-10T16:07:30.038425+08:00",
+    "references": [
+      "分镜3",
+      "资产图-爸爸妈妈",
+      "资产图-客厅环境参考"
+    ],
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S03.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    }
+  },
+  {
+    "id": "S04",
+    "title": "自在玩耍",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜4.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S04_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 1,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S04_技术失败后简化提示词.txt",
+    "generation_mode": "全能参考（用户最新指定）",
+    "last_submitted_at": "2026-10-10T16:08:53.563737+08:00",
+    "references": [
+      "分镜4",
+      "资产图-儿童、小狗",
+      "资产图-客厅环境参考"
+    ],
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1246,
+          "height": 1662,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000"
+      }
+    },
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S04.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    }
+  },
+  {
+    "id": "S05",
+    "title": "舒适相伴",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜5.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S05_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 1,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S05_技术失败后简化提示词.txt",
+    "generation_mode": "全能参考（用户最新指定）",
+    "last_submitted_at": "2026-10-10T16:10:12.880061+08:00",
+    "references": [
+      "分镜5",
+      "资产图-爸爸妈妈",
+      "资产图-儿童、小狗",
+      "资产图-客厅环境参考"
+    ],
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1246,
+          "height": 1662,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000"
+      }
+    },
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S05.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    }
+  },
+  {
+    "id": "S06",
+    "title": "清新常伴·全景收束",
+    "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/素材资产/分镜6.png",
+    "prompt": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S06_提示词.txt",
+    "model": "Wan 3.0 Prime",
+    "aspect_ratio": "3:4",
+    "resolution": "1080p",
+    "preferred_duration_seconds": 5,
+    "audio": false,
+    "submission_count": 1,
+    "status": "成功，已下载并导入正式剪映时间线",
+    "retry_policy_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/生成重试规则.json",
+    "max_retries": 4,
+    "simplified_prompt_after_two_technical_failures": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/制作工具/S06_技术失败后简化提示词.txt",
+    "generation_mode": "全能参考（用户最新指定）",
+    "last_submitted_at": "2026-10-10T16:11:45.947725+08:00",
+    "references": [
+      "分镜6",
+      "资产图-爸爸妈妈",
+      "资产图-儿童、小狗",
+      "资产图-客厅环境参考",
+      "资产图-线控器外观",
+      "资产图-线控器正面"
+    ],
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1246,
+          "height": 1662,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000"
+      }
+    },
+    "current_error": null,
+    "success_task_id": null,
+    "success_task_id_note": "成功任务ID未记录，不以失败任务ID代替",
+    "output_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/01_LibTV生成视频/S06.mp4",
+    "verified_media": {
+      "duration_seconds": 5,
+      "width": 1246,
+      "height": 1662,
+      "fps": 30,
+      "audio_tracks": 0
+    }
+  }
+]

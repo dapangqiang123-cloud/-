@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "node": {
+      "nodeId": "node_57hyqyrzg6",
+      "type": "video",
+      "title": "A01｜客餐厅长距离送风｜仅一次",
+      "tags": [],
+      "status": "empty",
+      "upstreamNodeIds": [
+        "node_sx95dhrd71"
+      ],
+      "downstreamNodeIds": [],
+      "executionDependencyNodeIds": [
+        "node_sx95dhrd71"
+      ],
+      "resources": [],
+      "generation": {
+        "mode": "first_last_frame",
+        "prompt": "高级家电品牌科普广告的连续镜头，9秒，9:16竖屏。严格保持首帧照片中真实客餐厅的格局、家具、墙面、木质沙发、窗外景色与天花风口位置，不改变建筑结构，不新增设备、人物或文字。0–2秒摄影机沿客餐厅中轴平稳前移，镜头轻轻抬向天花上的黑色细长空调送风口；2–7秒从真实风口产生少量极细、半透明的柔白气流轨迹，沿天花平稳向远端餐桌方向延伸，再柔和向下散开，表现风的输送与覆盖，流线有持续向前的运动，不是固定发光线，不是烟雾；7–9秒摄影机减速，完整呈现客餐厅，气流保持运动。物理可信，细腻自然摄影光线、真实木材石材，国际高端家电广告质感。气流只是轻量科普可视化，房间始终清晰可见。绝对不要蓝色激光、霓虹、界面、字幕、数字、logo、卡通、房间变形、切镜。",
+        "model": "seedance_2.0_fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "outputCount": 1,
+        "durationSeconds": 9,
+        "references": [
+          {
+            "kind": "node",
+            "id": "node_sx95dhrd71",
+            "type": "image",
+            "title": "A01客餐厅·静态分镜参考",
+            "writebackSupported": true
+          }
+        ],
+        "promptParts": [
+          {
+            "kind": "text",
+            "text": "高级家电品牌科普广告的连续镜头，9秒，9:16竖屏。严格保持首帧照片中真实客餐厅的格局、家具、墙面、木质沙发、窗外景色与天花风口位置，不改变建筑结构，不新增设备、人物或文字。0–2秒摄影机沿客餐厅中轴平稳前移，镜头轻轻抬向天花上的黑色细长空调送风口；2–7秒从真实风口产生少量极细、半透明的柔白气流轨迹，沿天花平稳向远端餐桌方向延伸，再柔和向下散开，表现风的输送与覆盖，流线有持续向前的运动，不是固定发光线，不是烟雾；7–9秒摄影机减速，完整呈现客餐厅，气流保持运动。物理可信，细腻自然摄影光线、真实木材石材，国际高端家电广告质感。气流只是轻量科普可视化，房间始终清晰可见。绝对不要蓝色激光、霓虹、界面、字幕、数字、logo、卡通、房间变形、切镜。"
+          }
+        ],
+        "writebackSupported": true,
+        "writebackBlockers": []
+      },
+      "layout": {
+        "x": 480,
+        "y": 530,
+        "width": 320,
+        "height": 568.889
+      },
+      "resourceObservedAtMs": 1792690869926
+    },
+    "mutation": {
+      "action": "create",
+      "savedDraftVersion": 3,
+      "effectiveGeneration": {
+        "mode": "first_last_frame",
+        "model": "seedance2.0fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "durationSeconds": 9,
+        "outputCount": 1
+      }
+    }
+  },
+  "meta": {
+    "requestId": "20261023014109A005E3DCE5CA3B0245D3"
+  }
+}

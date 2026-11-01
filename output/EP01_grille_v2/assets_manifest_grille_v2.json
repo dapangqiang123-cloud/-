@@ -1,0 +1,276 @@
+{
+  "_readme": "璀璨《璀璨家的空气答案》第1期·层高篇 — 资产批量生成清单。Codex读取本文件后批量出图。所有image_prompt为英文（模型可靠性）；on_image文字为中文（品牌）。文案以本文件为准，禁止Codex自行改写。",
+  "project": "cuican_air_answers",
+  "episode": "EP01",
+  "episode_title_cn": "装中央空调，层高到底要多少？",
+  "brand_spec": {
+    "palette": {
+      "coffee_dark": "#3B2F2C",
+      "coffee_alt": "#433538",
+      "gold": "#B8952A",
+      "fog_white": "#F0EDE8",
+      "text_muted": "#C9BFB6"
+    },
+    "fonts": {
+      "title_zh": "assets/fonts/title_zh.otf",
+      "latin": "Arial"
+    },
+    "video_size": [
+      1080,
+      1920
+    ],
+    "base_image_size": "1024x1536",
+    "image_model": "gpt-image-2",
+    "image_quality": "high",
+    "style_tokens": "high-end minimalist modern Chinese interior, editorial architectural photography, mood of COLMO / Architectural Digest (AD) / 观夏, warm restrained natural lighting, matte materials, palette of deep coffee brown + champagne gold + fog white, cinematic, shallow depth of field, photorealistic, refined, calm, premium, high detail",
+    "global_exclusions": [
+      "any wall-mounted air conditioner or split AC unit on the wall",
+      "any outdoor condenser / external AC unit",
+      "round or circular ceiling diffusers/vents (only slim LINEAR strip vents allowed)",
+      "wooden boardwalk (木栈道)",
+      "showroom display stand or product display platform (展示台)",
+      "any text, caption, watermark, logo, brand name, signage",
+      "clutter, oversaturation, HDR halo, low quality, distortion",
+      "square or rectangular louvers/diffusers",
+      "single black-line shadow-gap slot vent without visible grille blades",
+      "vertical grille bars / upright dividers inside the vent",
+      "square cells, checkerboard mesh, perforated diffuser, or square louvers"
+    ],
+    "exclusion_note": "gpt-image-2 has NO separate negative-prompt field. Append global_exclusions to every scene/diagram prompt as a natural sentence: 'Do not include: ...'",
+    "reference_images_default": [],
+    "vent_style_lock": {
+      "cn": "吊顶内嵌横向长条格栅风口 / 细长矩形 / 内部均匀横向细格栅或百叶条 / 与吊顶一体化融合 / 不要单一黑线式缝隙 / 不要竖向格栅 / 不要方形百叶",
+      "en": "recessed horizontal long-strip grille vent, slim elongated rectangular frame integrated flush with the ceiling, clearly visible closely packed evenly spaced fine horizontal louver blades running continuously along the long axis, NOT a single black shadow-gap slit, NO vertical grille bars or upright dividers, NO square cells, NO checkerboard mesh, NO square or rectangular diffuser louvers",
+      "apply_to": "每一张出现吊顶或出风口的图（EP01_01、EP01_02、EP01_03、EP01_05、EP01_07）均强制执行；内部百叶必须沿风口长边延伸并呈密集均匀横线。"
+    },
+    "reference_images_note": "风口参考使用用户本轮提供的前4张图片，仅参考长条矩形外框与内部横向细百叶结构；第5至10张仅参考暖白、木色、自然光与中古松弛感，不复制具体户型、家具组合或陈设。"
+  },
+  "output_rules": {
+    "folder_structure": "output/EP01/{01_base, 02_final, 03_contact}/",
+    "naming": "EP01_{shot}_{type}_{slug}_{variant}.png   (variant = withtext | clean)",
+    "scene_size_policy": "All delivered scenes and diagrams are native portrait 9:16 assets; do not create or retain a 3:2 base, and do not upscale or outpaint.",
+    "clean_variant_definition": "For text-bearing assets, 'clean' = the base image / card background WITHOUT any title/label text (chrome like brand frame/hairline may stay). 'withtext' = clean + text composited by code using brand fonts/colors.",
+    "must_produce_two_versions_when": "has_text == true",
+    "contact_sheet": "Build output/EP01/03_contact/contact_sheet.html — thumbnail grid of every output PNG with its filename + type, for one-page review."
+  },
+  "assets": [
+    {
+      "id": "EP01_00_card_Q_layengao",
+      "shot": "00",
+      "cn_name": "Q卡片头",
+      "type": "card",
+      "has_text": true,
+      "render_method": "code_render",
+      "aspect": "9:16",
+      "background": "coffee_dark",
+      "chrome": [
+        "top gold bar (full width, ~8px)",
+        "thin gold hairline above title"
+      ],
+      "elements": [
+        {
+          "role": "mark",
+          "content": "Q",
+          "color": "gold",
+          "font": "latin",
+          "size_px": 200,
+          "x": "12%",
+          "y": "20%",
+          "align": "left"
+        },
+        {
+          "role": "title",
+          "content": "装中央空调，",
+          "color": "fog_white",
+          "font": "title_zh",
+          "size_px": 96,
+          "x": "50%",
+          "y": "45%",
+          "align": "center"
+        },
+        {
+          "role": "title",
+          "content": "层高到底要多少？",
+          "color": "fog_white",
+          "font": "title_zh",
+          "size_px": 96,
+          "x": "50%",
+          "y": "53%",
+          "align": "center"
+        },
+        {
+          "role": "brand",
+          "content": "璀璨 TRÉSOR",
+          "color": "gold",
+          "font": "latin",
+          "size_px": 44,
+          "x": "50%",
+          "y": "88%",
+          "align": "center",
+          "pill_outline": true
+        }
+      ],
+      "image_prompt": null
+    },
+    {
+      "id": "EP01_01_scene_livingroom_heightscale",
+      "shot": "01",
+      "cn_name": "客厅+层高标尺底图",
+      "type": "scene",
+      "has_text": false,
+      "render_method": "image_only",
+      "aspect": "9:16",
+      "image_prompt": "Vertical 9:16 composition. Ultra high-end modern Chinese living-dining room at golden hour, floor-to-ceiling windows with soft daylight, fog-white walls, deep coffee-brown wood and champagne-gold metal accents, matte stone floor, minimalist designer sofa and low table, a single slim LINEAR recessed air vent flush into the ceiling, generous ceiling height, editorial interior photography in AD magazine / COLMO aesthetic, photorealistic, cinematic, shallow depth of field. Keep the LEFT third of the frame as clean calm negative space (for a graphic height-scale overlay added later).",
+      "reference_images": []
+    },
+    {
+      "id": "EP01_02_scene_livingroom_clean",
+      "shot": "02",
+      "cn_name": "客厅空镜（换机位）",
+      "type": "scene",
+      "has_text": false,
+      "render_method": "image_only",
+      "aspect": "9:16",
+      "image_prompt": "Vertical 9:16 composition. The same ultra high-end modern Chinese living-dining room, a different wider camera angle, calm and airy, fog-white and deep-coffee palette with champagne-gold accents, slim linear flush ceiling vent, warm restrained lighting, editorial AD aesthetic, photorealistic, cinematic. Leave ample clean negative space in the LOWER third for on-screen captions.",
+      "reference_images": []
+    },
+    {
+      "id": "EP01_03_diagram_biandiao_section",
+      "shot": "03",
+      "cn_name": "局部边吊剖面示意",
+      "type": "diagram",
+      "has_text": true,
+      "render_method": "image_then_text_overlay",
+      "aspect": "9:16",
+      "image_prompt": "Vertical 9:16 composition. Clean isometric 3D cutaway illustration of a modern living room ceiling corner: a localized perimeter ceiling bulkhead (soffit) runs along the wall concealing a slim horizontal ducted indoor unit and pipes, while the CENTRAL ceiling stays at full original height. Minimalist vector-style 3D render, deep coffee-brown + champagne gold + fog-white palette, soft studio lighting, plain fog-white background, premium infographic style, lots of clean space around the object for labels. Absolutely no text or labels in the image.",
+      "text_overlay": {
+        "labels": [
+          {
+            "content": "局部边吊",
+            "color": "gold",
+            "font": "title_zh",
+            "size_px": 56,
+            "anchor": "upper-left, pointing to the wall bulkhead",
+            "leader_line": true
+          },
+          {
+            "content": "原顶保留",
+            "color": "fog_white",
+            "font": "title_zh",
+            "size_px": 56,
+            "anchor": "center, pointing to the central ceiling",
+            "leader_line": true
+          },
+          {
+            "content": "层高线",
+            "color": "gold",
+            "font": "title_zh",
+            "size_px": 44,
+            "anchor": "right side, along a vertical gold measurement line",
+            "leader_line": true
+          }
+        ],
+        "note": "Positions are hints; Codex places labels with thin gold leader lines to the correct part of the rendered object. Keep restrained."
+      },
+      "reference_images": [],
+      "reference_images_note": "剖面图内机形状建议另补C2艺境内机产品图做参考（经销商展厅实拍素材中若有可用），当前未提供则用通用风管机比例代替"
+    },
+    {
+      "id": "EP01_05_scene_finished_open_livingdining",
+      "shot": "05",
+      "cn_name": "完工客餐厅空镜",
+      "type": "scene",
+      "has_text": false,
+      "render_method": "image_only",
+      "aspect": "9:16",
+      "image_prompt": "Vertical 9:16 composition. A finished high-end open-plan living-dining room emphasizing an airy sense of ceiling height, a slim flush LINEAR ceiling vent integrated seamlessly into a clean ceiling, champagne-gold warm evening light, fog-white and deep-coffee palette, spacious and calm, editorial AD aesthetic, photorealistic, cinematic. Emphasize the clean uninterrupted ceiling.",
+      "reference_images": []
+    },
+    {
+      "id": "EP01_07_scene_grand_ending",
+      "shot": "07",
+      "cn_name": "大宅收尾+片尾卡",
+      "type": "scene",
+      "has_text": true,
+      "render_method": "image_then_text_overlay",
+      "aspect": "9:16",
+      "image_prompt": "Vertical 9:16 composition. Grand luxury open living-dining room of a large residence at dusk, warm champagne-gold ambient light, a slim LINEAR air vent naturally integrated into the ceiling, elegant restrained decor, strong sense of scale and calm, editorial AD aesthetic, photorealistic, cinematic. Keep the LOWER-CENTER area darker and clean for an end title.",
+      "text_overlay": {
+        "labels": [
+          {
+            "content": "璀璨家的空气答案",
+            "color": "gold",
+            "font": "title_zh",
+            "size_px": 84,
+            "x": "50%",
+            "y": "78%",
+            "align": "center"
+          },
+          {
+            "content": "懂空气，也懂家的尺度",
+            "color": "fog_white",
+            "font": "title_zh",
+            "size_px": 48,
+            "x": "50%",
+            "y": "85%",
+            "align": "center"
+          }
+        ]
+      },
+      "reference_images": []
+    },
+    {
+      "id": "EP01_06_card_maidian_190mm",
+      "shot": "06",
+      "cn_name": "卖点插卡·190mm（可选）",
+      "type": "card",
+      "has_text": true,
+      "render_method": "code_render",
+      "optional": true,
+      "aspect": "9:16",
+      "background": "coffee_dark",
+      "chrome": [
+        "thin gold hairline under the main number"
+      ],
+      "elements": [
+        {
+          "role": "title",
+          "content": "薄至 190mm",
+          "color": "gold",
+          "font": "title_zh",
+          "size_px": 120,
+          "x": "50%",
+          "y": "46%",
+          "align": "center"
+        },
+        {
+          "role": "subtitle",
+          "content": "少占吊顶空间",
+          "color": "fog_white",
+          "font": "title_zh",
+          "size_px": 56,
+          "x": "50%",
+          "y": "56%",
+          "align": "center"
+        }
+      ],
+      "image_prompt": null,
+      "note": "可选插卡，用在真实产品片段上做卖点强调。不需要就跳过。"
+    }
+  ],
+  "compliance": {
+    "product_line": "C2艺境（190mm风管机）",
+    "rules": [
+      "本片落点仅C2艺境190mm，不得跨用其它产品线参数",
+      "全片只出线性风口，不出挂机/室外机/圆形风口",
+      "不得出现dB噪音数值、App/语音控制、除醛百分比",
+      "不得使用绝对化用词或杜撰技术名词"
+    ]
+  },
+  "revision": {
+    "version": "grille_v2",
+    "date": "2026-08-12",
+    "reason": "User replaced the earlier single-slot vent requirement with an integrated horizontal fine-grille vent based on supplied references.",
+    "source_manifest": "/Users/weipeilong/Downloads/assets_manifest.json"
+  }
+}

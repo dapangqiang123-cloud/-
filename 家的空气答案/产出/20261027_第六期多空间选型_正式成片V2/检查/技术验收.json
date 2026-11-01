@@ -1,0 +1,55 @@
+{
+  "final_with_text.mp4": {
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "avg_frame_rate": "30/1",
+          "duration": "84.000000",
+          "nb_frames": "2520"
+        }
+      ],
+      "format": {
+        "duration": "84.000000"
+      }
+    },
+    "decodePassed": true,
+    "bytes": 84515116,
+    "sha256": "0f6e81bd6e7d3dac07981b40e4b416e59aec35ed72711f29c521ac86dc4939d0"
+  },
+  "textless_plate.mp4": {
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "avg_frame_rate": "30/1",
+          "duration": "84.000000",
+          "nb_frames": "2520"
+        }
+      ],
+      "format": {
+        "duration": "84.000000"
+      }
+    },
+    "decodePassed": true,
+    "bytes": 91419554,
+    "sha256": "a8727b77f08805cc63f240b674baf41864f4c7ab5ebb4648348133eb7f183876"
+  },
+  "lastHalfSecondFrozen": {
+    "visuallyStationary": true,
+    "maxFrameMeanDifference0to255": 0.02192901234567901,
+    "note": "有损H.264编码会导致静止帧解码像素微小变化，按逐帧平均差校验"
+  }
+}

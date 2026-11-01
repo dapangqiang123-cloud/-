@@ -1,0 +1,139 @@
+{
+  "recordType": "历史初始计划，以下阻碍和未生成状态已过期，提示词不是最终提交凭据",
+  "supersededBy": "最终执行清单.json",
+  "status": "historical_plan_superseded_by_completed_delivery",
+  "requestedTask": "LibTV七镜生成后，在指定原剪映项目新增时间线，剪辑并配BGM，不加字幕",
+  "createdCanvas": {
+    "name": "璀璨C3D｜下雨天客厅小营地_20261020",
+    "url": "https://liblib.tv/canvas?spaceId=12207214&projectId=b3429c62a87f4083b1e8cd9e30e7d6e3",
+    "sourceBound": false,
+    "note": "预设默认汽车图片尚未成功替换，不可提交。Wan 3.0 Prime；3:4、1080P、5s、1个已在UI显示；智能扩写off。生成音频off尚未最终复核。"
+  },
+  "generation": {
+    "submitted": 0,
+    "downloads": 0,
+    "taskIds": [],
+    "creditsObserved": 8107,
+    "expectedPerShotCredits": 144,
+    "note": "144为UI显示估计，未消费；未提交任何任务。"
+  },
+  "jianying": {
+    "project": "璀璨C3知境｜秋日除湿篇_3比4",
+    "path": "/Users/weipeilong/Downloads/JianyingPro Drafts/璀璨C3知境｜秋日除湿篇_3比4",
+    "newTimeline": "时间线03",
+    "newTimelineId": "D1D0D8C0-AEB0-4C0C-AA90-07CFCB3D18C9",
+    "newTimelineStatus": "empty_created_via_UI",
+    "originalMainTimeline": "秋日除湿篇_正式成片",
+    "originalMainTimelineId": "A5BD8997-0DFB-450F-A370-18D7C866E747",
+    "note": "新时间线创建和旧时间线保留通过截图和只读project.json双重核验；未手工改写草稿数据。"
+  },
+  "bgm": {
+    "path": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/02_剪辑与配乐/BGM_温暖钢琴_19秒_淡入淡出.wav",
+    "source": "女主秋日宠物篇/剪映制作/音乐候选/01_温暖钢琴_SeedMusic30s.mp3",
+    "duration": 19,
+    "levelAdjustmentDB": -8,
+    "fadeIn": 0.3,
+    "fadeOut": 2,
+    "sampleRate": 48000,
+    "channels": 2,
+    "status": "prepared_not_imported_not_auditioned"
+  },
+  "blockers": [
+    "LibTV原生文件选择框路径可通过AX写入，但Return/Escape及确认/坐标操作未能正常完成上传，部分动作使路径退回根目录。",
+    "Edge浏览器创建tab及重新绑定连续超时，cua_repl内核重置；未建立可用网页控制替代路线。",
+    "剪映坐标操作间歇报noWindowsAvailable，默认布局恢复后可读取编辑器，尚未完成时间线重命名和素材导入。",
+    "S03已有手机操作素材的准确路径尚未确认；不以旧版除湿S03冒充手机镜头。",
+    "S04/S08当前首帧线控器比例偏长方形，正式视频使用前仍需校准首帧。"
+  ],
+  "totalPlannedDuration": 19,
+  "shots": [
+    {
+      "id": "S01",
+      "name": "秋雨入窗",
+      "timelineStart": 0,
+      "timelineEnd": 2,
+      "duration": 2,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S01_秋雨入窗.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n摄影机近乎固定，极缓慢向落地窗靠近。玻璃外侧两三颗雨珠缓慢汇合并沿玻璃下滑，窗外湖面保持细小雨纹，山间薄雾缓慢移动，湿润枫叶轻微晃动。保留首帧已有的少量玻璃边缘朦胧感，其余区域清晰。室内织物静止，无人物。"
+    },
+    {
+      "id": "S02",
+      "name": "窗边赏雨",
+      "timelineStart": 2,
+      "timelineEnd": 4.5,
+      "duration": 2.5,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S02_窗边赏雨.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n固定低机位。孩子维持坐在地毯上托下巴看向窗外的姿态，轻轻眨一次眼，肩膀随着自然呼吸略微放松，情绪克制。胖比熊坐在旁边，头部向滑落的雨珠缓慢偏转少许，身体不动。保持孩子五官、格纹衣着和小狗体型。人物不转头看镜头。"
+    },
+    {
+      "id": "S03",
+      "name": "妈妈手机开启除湿",
+      "timelineStart": 4.5,
+      "timelineEnd": 5.5,
+      "duration": 1,
+      "sourceImage": null,
+      "generationStatus": "existing_source_not_yet_resolved",
+      "generationDuration": null,
+      "prompt": null
+    },
+    {
+      "id": "S04",
+      "name": "白色除湿线控器",
+      "timelineStart": 5.5,
+      "timelineEnd": 7,
+      "duration": 1.5,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S04_白色除湿线控器.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n固定机位和焦点。白色璀璨线控器外框、墙面位置、厚度和真实尺度保持稳定，屏幕始终显示68.0%除湿界面，品牌标识、图标、风量条、文字和按键布局逐帧一致，不闪烁、不跳数。仅背景窗外有极轻微雨景变化，产品边缘清晰，无手部入画，只有一台线控器。"
+    },
+    {
+      "id": "S05",
+      "name": "湿意渐退",
+      "timelineStart": 7,
+      "timelineEnd": 9,
+      "duration": 2,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S05_湿意渐退.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n摄影机极缓慢向窗边推进。玻璃内侧维持清晰，外侧雨珠继续下滑，窗外秋雨、湖面细小雨纹和山间薄雾仍然保留。室内沙发、地毯、木石材质干爽自然，明暗稳定。无人物、无烟雾、无光束、无净化粒子；不把除湿表现成雨停或突然出现阳光。"
+    },
+    {
+      "id": "S06",
+      "name": "客厅小营地",
+      "timelineStart": 9,
+      "timelineEnd": 13,
+      "duration": 4,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S06_客厅小营地.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n固定低机位。孩子半趴在帐篷入口软垫上，一只手扶书，另一只手捏起一页书角缓慢翻过一页，纸页落稳后继续阅读，手指与纸张自然接触。胖比熊保持四脚着地，身体留在帐篷外，只轻轻把头向入口探近一点闻书边，然后停住。帐篷布料仅在接触处微动，家具与玩具保持原位置，无新道具，人物不看镜头。"
+    },
+    {
+      "id": "S07",
+      "name": "亲子互动",
+      "timelineStart": 13,
+      "timelineEnd": 16,
+      "duration": 3,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S07_亲子互动.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n摄影机近乎固定。爸爸坐在地毯上，把手中已经接触的那块积木缓慢放稳，松开后手指自然收回。孩子低头轻微调整自己的积木，与爸爸动作不同步。妈妈保持首帧中坐在沙发侧沿的状态，端着茶杯微调坐姿，视线自然落向孩子。比熊趴着呼吸，放松眨眼。人物保持身份、衣着、站位与自然重心，不看镜头、不同步微笑。"
+    },
+    {
+      "id": "S08",
+      "name": "清新全景收束",
+      "timelineStart": 16,
+      "timelineEnd": 19,
+      "duration": 3,
+      "sourceImage": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/分镜生图/20261020_第二篇除湿_首轮01/S08_清新全景收束.png",
+      "generationStatus": "not_submitted",
+      "generationDuration": 5,
+      "prompt": "3:4竖版，真实高端家居生活VLOG，35mm自然透视，轻微细腻胶片颗粒。严格保持输入首帧的身份、衣着、家具、帐篷、建筑和窗景。雨天阴云散射光，窗边偏亮、餐区适度偏暗，局部暖灯点缀；曝光白平衡稳定、肤色自然。单一连续镜头，无切镜，无字幕、无新增文字水印Logo，无多余人物、肢体或宠物，建筑直线与材质保持稳定。\n摄影机极缓慢后退少许，保留前景沙发和植物遮挡，形成自然视差。爸爸和孩子低头小幅摆弄积木，比熊安静趴着。妈妈在餐桌旁轻轻倾斜茶壶，一条短细透明连续水流由壶嘴准确落入茶杯，随后壶身轻轻回正。延续首帧已有的极淡半透明风幕缓慢漂向无人区域，四片小绿叶轻微漂移，数量不增加，不吹乱人物头发衣物和窗帘。右侧仅一台小白色线控器，68.0%界面与品牌按键稳定，顶部仅原有水平横百叶线性风口。人物不看镜头。"
+    }
+  ]
+}

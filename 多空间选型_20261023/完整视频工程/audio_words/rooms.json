@@ -1,0 +1,56 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 1750000,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2750000,
+    "duration": 4000000,
+    "text": "房间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7000000,
+    "duration": 3750000,
+    "text": "一起"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10875000,
+    "duration": 2375000,
+    "text": "用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15500000,
+    "duration": 4125000,
+    "text": "品质"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19875000,
+    "duration": 5750000,
+    "text": "和稳定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25625000,
+    "duration": 2250000,
+    "text": "性"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28125000,
+    "duration": 2000000,
+    "text": "更"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30125000,
+    "duration": 4375000,
+    "text": "重要"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "file": "01_秋渐深_雨添凉_复古橄榄绿.png",
+    "width": 1200,
+    "height": 541,
+    "originalHeadingColor": [
+      76,
+      47,
+      24
+    ],
+    "targetColor": [
+      94,
+      87,
+      56
+    ],
+    "targetHex": "#5e5738",
+    "referenceSampleCount": 6207,
+    "originalCorePixels": 17541,
+    "recoloredPixels": 19138,
+    "antialiasEdgePixels": 1597,
+    "alphaChanges": 0,
+    "outsideMaskChanges": 0,
+    "whiteChanges": 0,
+    "shadowChanges": 0,
+    "coreErrors": 0,
+    "verifiedWhitePixels": 221625,
+    "verifiedShadowPixels": 194536
+  },
+  {
+    "file": "02_智慧除湿_精准控温_复古橄榄绿.png",
+    "width": 1188,
+    "height": 550,
+    "originalHeadingColor": [
+      76,
+      47,
+      24
+    ],
+    "targetColor": [
+      94,
+      87,
+      56
+    ],
+    "targetHex": "#5e5738",
+    "referenceSampleCount": 6207,
+    "originalCorePixels": 22650,
+    "recoloredPixels": 25476,
+    "antialiasEdgePixels": 2826,
+    "alphaChanges": 0,
+    "outsideMaskChanges": 0,
+    "whiteChanges": 0,
+    "shadowChanges": 0,
+    "coreErrors": 0,
+    "verifiedWhitePixels": 232556,
+    "verifiedShadowPixels": 199336
+  },
+  {
+    "file": "03_璀璨中央空调C3D系列_复古橄榄绿.png",
+    "width": 1200,
+    "height": 523,
+    "originalHeadingColor": [
+      76,
+      47,
+      24
+    ],
+    "targetColor": [
+      94,
+      87,
+      56
+    ],
+    "targetHex": "#5e5738",
+    "referenceSampleCount": 6207,
+    "originalCorePixels": 23007,
+    "recoloredPixels": 26048,
+    "antialiasEdgePixels": 3041,
+    "alphaChanges": 0,
+    "outsideMaskChanges": 0,
+    "whiteChanges": 0,
+    "shadowChanges": 0,
+    "coreErrors": 0,
+    "verifiedWhitePixels": 232457,
+    "verifiedShadowPixels": 160402
+  }
+]

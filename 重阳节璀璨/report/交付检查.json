@@ -1,0 +1,61 @@
+{
+  "generation_count": 33,
+  "original_candidates": 32,
+  "extra_refinement": 1,
+  "selected_count": 13,
+  "png_readability": "all_passed",
+  "copies": [
+    {
+      "name": "shot01_watercolor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "shot02_watercolor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "livingroom_asset",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "outdoor_asset",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "grandpa_outdoor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "grandpa_indoor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "grandma_outdoor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "grandma_indoor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "granddaughter_indoor",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "shot03_realistic",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "shot04_realistic",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "shot05_transition",
+      "selected_copy_identical": true
+    },
+    {
+      "name": "shot06_family",
+      "selected_copy_identical": true
+    }
+  ]
+}

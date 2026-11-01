@@ -1,0 +1,119 @@
+{
+  "source": "/Users/weipeilong/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/weipeilong001_1cb6/temp/RWTemp/2026-10/164c83588a68be286819815c3df35d2d/多空间选型脚本.xlsx",
+  "sheet": "Sheet1",
+  "range": "A5:E18",
+  "rows": [
+    {
+      "row": 5,
+      "time": "0-4s",
+      "section": "开篇",
+      "visual": "高端住宅户型、吊顶、不同产品快速切换",
+      "voice": "中央空调怎么选才真正适合自己家？4个问题，帮你把需求理清楚。",
+      "screen_text": null
+    },
+    {
+      "row": 6,
+      "time": "4-9s",
+      "section": "问题①",
+      "visual": "AI大客餐厅户型，客厅、餐厅一体化空间",
+      "voice": "Q1：针对客餐厅大空间，该怎么选？",
+      "screen_text": null
+    },
+    {
+      "row": 7,
+      "time": "9-17s",
+      "section": null,
+      "visual": "气流从客厅送到餐厅，突出空间纵深",
+      "voice": "单一大空间别只看匹数，更要看内机风量和送风距离，风送不远，只能局部冷热才是坑。",
+      "screen_text": "送风风量  送风距离"
+    },
+    {
+      "row": 8,
+      "time": "17-22s",
+      "section": null,
+      "visual": "C2艺境产品+客餐厅实景",
+      "voice": "璀璨客餐厅中央空调C2艺境，18米超远送风，全空间均匀冷热，更适合这类大空间用户。",
+      "screen_text": "18m超远送风"
+    },
+    {
+      "row": 9,
+      "time": "22-27s",
+      "section": "问题②",
+      "visual": "AI三房/四房户型，不同房间依次亮起",
+      "voice": "Q2：全屋都想装中央空调，该怎么选？",
+      "screen_text": null
+    },
+    {
+      "row": 10,
+      "time": "27-35s",
+      "section": null,
+      "visual": "一台外机连接多个室内空间，不同房间分别运行",
+      "voice": "这时要看系统的综合能力和产品可靠性。多空间多人群使用，产品的品质和稳定性将决定未来的生活舒适度。",
+      "screen_text": "产品品质 决定 生活舒适度"
+    },
+    {
+      "row": 11,
+      "time": "35-40s",
+      "section": null,
+      "visual": "C3多联机+全屋生活场景",
+      "voice": "璀璨中央空调C3多联机，配置日系高品质压缩机，动力强劲，稳定运行；更搭载液冷科技，高温运行不宕机，为全家舒适护航！",
+      "screen_text": "日系核心压缩机 \n冷媒散热 高温不宕机"
+    },
+    {
+      "row": 12,
+      "time": "40-45s",
+      "section": "问题③",
+      "visual": "新家、老人、孩子等家庭场景，家具、柜体快速切换",
+      "voice": "Q3：家里有老人孩子，该怎么选？",
+      "screen_text": null
+    },
+    {
+      "row": 13,
+      "time": "45-54s",
+      "section": null,
+      "visual": "AI甲醛、细菌、异味粒子出现，被逐步净化",
+      "voice": "这时拥有空气净化能力的中央空调就更为必要，要能同时应对甲醛、PM2.5、异味等常见污染物。",
+      "screen_text": "空气净化能力是关键"
+    },
+    {
+      "row": 14,
+      "time": "54-60s",
+      "section": null,
+      "visual": "C3D+Hi-nano Ultra模块、净化动效",
+      "voice": "璀璨中央空调C3D系列，搭载Hi-nano Ultra健康模块，三重净化，能有效除醛、除菌、除异味。",
+      "screen_text": "Hi-nano Ultra健康模块\n除醛｜除菌｜除异味"
+    },
+    {
+      "row": 15,
+      "time": "60-65s",
+      "section": "问题④",
+      "visual": "秋冬家庭紧闭门窗，室内多人活动，空气略显闷",
+      "voice": "Q4：秋冬季节易敏感怕憋闷，怎么选",
+      "screen_text": null
+    },
+    {
+      "row": 16,
+      "time": "65-73s",
+      "section": null,
+      "visual": "室外新鲜空气进入室内，CO₂/空气焕新视觉示意",
+      "voice": "重点就要看新风换气能力，能不能不开窗，也持续把室外新鲜空气送进来。",
+      "screen_text": "持续新风换气很重要"
+    },
+    {
+      "row": 17,
+      "time": "73-78s",
+      "section": null,
+      "visual": "Mini新风系统+卧室/客厅空气流动素材",
+      "voice": "璀璨Mini新风系统，具备三层过滤能力，PM2.5净化效率高端99%，350m³/h超大新风量，快速置换室内空气。",
+      "screen_text": "母婴级舒适新风"
+    },
+    {
+      "row": 18,
+      "time": "78-84s",
+      "section": "收口",
+      "visual": "四款产品+高端住宅场景依次出现",
+      "voice": "不同空间，不同家庭，自然有不同答案。\n璀璨中央空调，让每一种舒适，都选得恰到好处。",
+      "screen_text": "璀璨中央空调\n让每一种舒适，都选得恰到好处"
+    }
+  ]
+}

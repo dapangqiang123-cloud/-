@@ -1,0 +1,272 @@
+[
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/mini新风全热交换系统产品宣传视频【纯净版】.mp4",
+    "filename": "mini新风全热交换系统产品宣传视频【纯净版】.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S060",
+    "bytes": 201372614,
+    "use": "优先核对60–65秒官方Mini主机与三层过滤片段",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "103.000000"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/C3D多联机户外场景素材.mp4",
+    "filename": "C3D多联机户外场景素材.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S061",
+    "bytes": 11478983,
+    "use": "C3D真实室外安装外观候选，禁室内与展示台",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        },
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "avg_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "4.041667"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/C3多联机出场素材.mp4",
+    "filename": "C3多联机出场素材.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S068",
+    "bytes": 990409,
+    "use": "官方视频候选：按本期主题选无脸、无字、真实住宅安装片段",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "5.041667"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/C3多联机外机拆机解构素材.mp4",
+    "filename": "C3多联机外机拆机解构素材.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S069",
+    "bytes": 5186642,
+    "use": "官方内部结构参考，须剔除棚拍/标注后方可选用",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 2560,
+          "height": 1440,
+          "avg_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "3.733333"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/Hi-nano Ultra 特写素材.MP4",
+    "filename": "Hi-nano Ultra 特写素材.MP4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S072",
+    "bytes": 195079935,
+    "use": "优先核对43–49秒Hi-nano真实模块特写；检查结构、字幕与底色",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        },
+        {
+          "codec_type": "video",
+          "width": 3996,
+          "height": 1080,
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "47.733333"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/璀璨C2艺境风管机+3D送风系列产品宣传视频【纯净版】.mp4",
+    "filename": "璀璨C2艺境风管机+3D送风系列产品宣传视频【纯净版】.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S122",
+    "bytes": 227702639,
+    "use": "大客餐厅、细长风口、送风与C2官方外观候选",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "176.280000"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/璀璨C2艺境风管机产品宣传视频【纯净版】.mov",
+    "filename": "璀璨C2艺境风管机产品宣传视频【纯净版】.mov",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S123",
+    "bytes": 765500713,
+    "use": "大客餐厅、细长风口、送风与C2官方外观候选",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        },
+        {
+          "codec_type": "video",
+          "width": 3840,
+          "height": 2160,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_type": "data",
+          "avg_frame_rate": "2500/100"
+        }
+      ],
+      "format": {
+        "duration": "122.000000"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/璀璨C3D多联机系列产品宣传视频【纯净版】.mp4",
+    "filename": "璀璨C3D多联机系列产品宣传视频【纯净版】.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S124",
+    "bytes": 387194580,
+    "use": "C3D白色双风扇及Hi-nano官方结构候选",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "150.360000"
+      }
+    }
+  },
+  {
+    "category": "产品视频",
+    "path": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/璀璨C3知境多联机系列产品宣传视频【纯净版】.mp4",
+    "filename": "璀璨C3知境多联机系列产品宣传视频【纯净版】.mp4",
+    "priority": "优先：产品宣传/片段；具体内容使用前核对",
+    "state": "待使用时检查内容",
+    "id": "S125",
+    "bytes": 387139586,
+    "use": "C3咖色双风扇/一拖多/压缩机候选",
+    "inspection": "仅文件存在及元数据盘点，未认定画面合格",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_type": "audio",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "150.360000"
+      }
+    }
+  }
+]

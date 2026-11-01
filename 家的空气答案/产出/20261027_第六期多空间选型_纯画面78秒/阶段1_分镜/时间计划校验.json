@@ -1,0 +1,25 @@
+{
+  "scope": "仅时间计划，未渲染媒体；不得冒充成片ffprobe验收",
+  "checks": [
+    {
+      "duration": 78,
+      "frames": 2340,
+      "shots": 32,
+      "contiguous": true
+    },
+    {
+      "duration": 81.2,
+      "frames": 2436,
+      "shots": 32,
+      "contiguous": true
+    },
+    {
+      "duration": 74.3,
+      "frames": 2229,
+      "shots": 32,
+      "contiguous": true
+    }
+  ],
+  "round_trip_to_78": true,
+  "invalid_duration_rejected": true
+}

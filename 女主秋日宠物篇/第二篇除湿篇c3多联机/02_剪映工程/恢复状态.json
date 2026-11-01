@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-10-10T18:48:42.410433+08:00",
+  "phase": "已导出，待用户试听验收",
+  "generation_complete": true,
+  "clips": 6,
+  "native_draft_name": "璀璨C3知境｜秋日除湿篇_3比4",
+  "native_draft_path": "/Users/weipeilong/Downloads/JianyingPro Drafts/10月10日",
+  "formal_timeline": "秋日除湿篇_正式成片",
+  "formal_timeline_pinned": true,
+  "native_backup": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/原生草稿备份_20261010",
+  "export_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/03_成片导出/璀璨C3_秋日除湿篇_成片.mp4",
+  "duration_seconds": 19.5,
+  "resolution": [
+    1080,
+    1440
+  ],
+  "fps": 30,
+  "decode_check": "通过，无解码错误",
+  "audio_review": "未完成听觉审查；已核对音轨、混音参数与导出音频，峰值-8.1dB",
+  "remaining": [
+    "用户实际试听与审美验收"
+  ],
+  "source_task": "本期执行任务.md"
+}

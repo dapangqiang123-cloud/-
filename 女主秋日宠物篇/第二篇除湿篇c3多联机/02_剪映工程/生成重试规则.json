@@ -1,0 +1,9 @@
+{
+  "approved_at": "2026-10-10T10:54:25.506655+08:00",
+  "source": "用户最新指令：技术失败可自行重试，失败两次后修改提示词，最多重试四次，仍失败放弃。",
+  "max_retries_per_shot": 4,
+  "max_total_submissions_per_shot": 5,
+  "prompt_review_after_total_technical_failures": 2,
+  "allow_regeneration_for_quality_only": false,
+  "note": "四次重试不包含首次提交。技术失败未证明提示词违规；第二次失败后先排查，再做保留画面要求的提示词简化。"
+}

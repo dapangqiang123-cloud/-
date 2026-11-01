@@ -1,0 +1,30 @@
+[aist#0:0/pcm_s16le @ 0x12f104e70] Guessed Channel Layout: stereo
+Input #0, wav, from '多空间选型_20261023/完整视频工程/audio/mix.wav':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:01:24.00, bitrate: 1536 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:19.00 bitrate=N/A speed=  38x    size=N/A time=00:00:38.70 bitrate=N/A speed=38.4x    size=N/A time=00:01:00.90 bitrate=N/A speed=40.3x    [Parsed_loudnorm_0 @ 0x12f0075a0] 
+{
+	"input_i" : "-16.19",
+	"input_tp" : "-1.79",
+	"input_lra" : "4.00",
+	"input_thresh" : "-26.67",
+	"output_i" : "-15.98",
+	"output_tp" : "-1.50",
+	"output_lra" : "3.60",
+	"output_thresh" : "-26.36",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.02"
+}
+[out#0/null @ 0x12f104840] video:0KiB audio:63000KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:24.00 bitrate=N/A speed=42.3x    

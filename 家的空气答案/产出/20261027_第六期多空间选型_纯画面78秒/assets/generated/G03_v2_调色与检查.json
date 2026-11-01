@@ -1,0 +1,12 @@
+{
+  "processing": "用户授权的代码统一调色：RGB单调曲线仅抬阴影，0→(12,9,7)，白点不变；不缩放、不锐化、不改建筑或设备；保留原生成图",
+  "source_file": "G03_三房剖切_首帧_v2_待确认.png",
+  "candidate_file": "G03_三房剖切_首帧_v2_咖色暗部_待确认.png",
+  "native_size": [
+    941,
+    1672
+  ],
+  "ungraded_pure_black_pixels": 15,
+  "graded_pure_black_pixels": 0,
+  "sha256": "7b01998d645f483364eb0af48dd331e0440e21905c047eec268b08ca0a9b24f3"
+}

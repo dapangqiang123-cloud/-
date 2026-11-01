@@ -1,0 +1,108 @@
+from pathlib import Path
+import shutil
+import subprocess
+
+ROOT=Path(__file__).resolve().parents[1]
+PROJECT=ROOT/'可编辑工程'
+ASSETS=PROJECT/'assets'
+ASSETS.mkdir(exist_ok=True)
+sources={
+ 'c2.png':ROOT/'素材/C2官方产品.png',
+ 'logo.png':ROOT/'素材/璀璨官方Logo.png',
+ 'enjoy.png':ROOT/'素材/03_尽兴字体设计.png',
+ 'gather.png':ROOT/'素材/04_相聚字体设计.png',
+ 'body.woff2':ASSETS/'body.woff2'}
+for name,p in sources.items():
+ if p.resolve()!=(ASSETS/name).resolve():shutil.copy2(p,ASSETS/name)
+shutil.copy2(ASSETS/'enjoy.png',ASSETS/'enjoy_occluder.png')
+if not (ASSETS/'numbers.ttf').exists():shutil.copyfile('/System/Library/Fonts/Supplemental/Arial Bold.ttf',ASSETS/'numbers.ttf')
+shutil.copy2(ROOT/'制作文件/DESIGN.md',PROJECT/'DESIGN.md')
+music=ROOT/'素材/已有轻爵士原始音乐.mp3'
+if not (ASSETS/'music.wav').exists():
+ subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(music),'-t','24','-af','loudnorm=I=-19:TP=-2:LRA=9,afade=t=in:st=0:d=0.35,afade=t=out:st=22:d=2','-ar','48000','-c:a','pcm_s16le',str(ASSETS/'music.wav')],check=True)
+
+html=r'''<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=1080,height=1440"><title>璀璨C2｜尽兴相聚</title><script src="gsap.min.js"></script>
+<style>
+@font-face{font-family:TresorText;src:url('assets/body.woff2') format('woff2');font-weight:100 900;font-display:block}
+@font-face{font-family:TresorNumber;src:url('assets/numbers.ttf') format('truetype');font-weight:100 900;font-display:block}
+*{box-sizing:border-box;margin:0;padding:0}html,body{width:1080px;height:1440px;overflow:hidden;background:#F7F5F1;color:#49362F;font-family:TresorText,sans-serif}
+#film{position:relative;width:1080px;height:1440px;overflow:hidden;background:#F7F5F1}
+#brand{position:absolute;z-index:90;left:58px;top:55px;width:251px;height:102px;background:#49362F;display:flex;align-items:center;justify-content:center}#brand img{width:229px;height:auto;display:block}
+#world{position:absolute;left:0;top:0;width:3440px;height:1440px;transform-origin:0 0}.stage{position:absolute;top:0;width:1080px;height:1440px}#living{left:0}#dining{left:1180px}#product{left:2360px}
+.kicker{position:absolute;top:232px;left:64px;font-size:43px;line-height:1.35;letter-spacing:2px;font-weight:400;white-space:nowrap}
+.word{position:absolute;left:-20px;top:360px;width:1120px;height:467px;object-fit:contain;z-index:2;transform-origin:center center}
+.people{position:absolute;left:0;top:550px;width:1080px;height:810px;z-index:4;transform-origin:50% 85%}.people img,.people video{position:absolute;inset:0;width:1080px;height:810px;object-fit:contain}.people img{z-index:0}.people video{z-index:1}
+.ground{position:absolute;left:65px;top:1277px;width:950px;height:52px;border-radius:50%;background:radial-gradient(ellipse,rgba(73,54,47,.16) 0%,rgba(73,54,47,.055) 42%,rgba(73,54,47,0) 72%);z-index:0}
+.scene-line{position:absolute;top:1354px;left:64px;font-size:31px;line-height:1.4;letter-spacing:3px;white-space:nowrap}#dining .word{top:344px}#dining .people{top:548px}
+#product .kicker{font-size:42px;top:235px}#c2-type{position:absolute;left:52px;top:338px;font-family:TresorNumber,sans-serif;font-size:350px;font-weight:900;line-height:.9;letter-spacing:-8px;color:#9A7D69;z-index:1}
+#product-hero{position:absolute;left:68px;top:626px;width:944px;height:700px;z-index:4;transform-origin:50% 80%}#product-hero svg{width:100%;height:100%;overflow:visible}
+#product-ground{position:absolute;left:132px;top:1232px;width:820px;height:82px;z-index:0;border-radius:50%;background:radial-gradient(ellipse,rgba(73,54,47,.18),rgba(73,54,47,0) 70%)}
+#product-proof{position:absolute;left:69px;top:1260px;z-index:8;font-size:50px;font-weight:600;white-space:nowrap}#product-tag{position:absolute;left:72px;top:1340px;z-index:8;font-size:31px;letter-spacing:2px;white-space:nowrap}
+#distance{position:absolute;z-index:20;left:65px;top:220px;opacity:0;transform-origin:0 0}#distance .number{font-family:TresorNumber,sans-serif;font-size:274px;line-height:.92;font-weight:900;letter-spacing:-13px;font-variant-numeric:tabular-nums}#distance .unit{font-size:135px;letter-spacing:-5px;margin-left:15px}#distance p{margin-top:16px;font-size:45px;line-height:1.3;letter-spacing:5px}
+#coverage{position:absolute;z-index:22;left:64px;top:1208px;font-size:57px;font-weight:600;letter-spacing:1px;opacity:0;white-space:nowrap}
+#closing{position:absolute;left:64px;top:1020px;z-index:50;opacity:0}#closing .headline{font-size:76px;font-weight:650;line-height:1.2;letter-spacing:-2px;white-space:nowrap}#closing .model{margin-top:32px;font-size:35px;font-weight:500;letter-spacing:3px}#closing .slogan{margin-top:65px;font-size:35px;letter-spacing:4px;color:#6A5143}
+#finish-line{position:absolute;left:64px;right:64px;top:970px;height:2px;background:#B59B87;transform-origin:left center;opacity:0;z-index:40}
+#foreground-word{position:absolute;z-index:60;left:1220px;top:264px;width:1750px;height:730px;object-fit:contain;pointer-events:none}
+</style></head><body>
+<div id="film" data-composition-id="c2-lifestyle" data-start="0" data-duration="24" data-width="1080" data-height="1440" data-fps="30">
+ <div id="brand"><img src="assets/logo.png" alt="璀璨中央空调官方标识"></div>
+ <div id="world" data-layout-allow-overflow="continuous camera across three physical stages">
+  <section id="living" class="stage" data-layout-allow-overlap="Oversized lettering physically behind keyed people">
+   <p id="living-kicker" class="kicker">把时间，留给相聚</p><img id="gather" class="word" src="assets/gather.png" alt="相聚立体字体设计"><div class="ground"></div>
+   <div id="living-people" class="people"><img src="assets/lounge_end.png" alt="客厅生活场景"><video id="living-first" class="clip" src="assets/lounge_alpha.mov" data-start="0" data-duration="6" data-track-index="1" muted playsinline></video><video id="living-reprise" class="clip" src="assets/lounge_alpha.mov" data-start="11" data-duration="6" data-track-index="3" muted playsinline></video></div>
+   <p class="scene-line">相伴的每一刻，都值得舒适</p>
+  </section>
+  <section id="dining" class="stage" data-layout-allow-overlap="Oversized lettering physically behind keyed people">
+   <p id="dining-kicker" class="kicker">从客厅，到餐厅</p><img id="enjoy" class="word" src="assets/enjoy.png" alt="尽兴立体字体设计"><div class="ground"></div>
+   <div id="dining-people" class="people"><img src="assets/dining_end.png" alt="餐厅生活场景"><video id="dining-first" class="clip" src="assets/dining_alpha.mov" data-start="5" data-duration="6" data-track-index="2" muted playsinline></video><video id="dining-reprise" class="clip" src="assets/dining_alpha.mov" data-start="11" data-duration="6" data-track-index="4" muted playsinline></video></div>
+   <p class="scene-line">舒适，不止一处</p>
+  </section>
+  <section id="product" class="stage" data-layout-allow-overlap="Official product in an abstract exhibition, never inside a real room">
+   <p id="product-name" class="kicker">璀璨C2艺境系列</p><p id="c2-type">C2</p><div id="product-ground"></div>
+   <div id="product-hero"><svg viewBox="1250 925 2000 1500" aria-label="璀璨C2风管机官方室外机展示"><image href="assets/c2.png" x="0" y="0" width="4000" height="3165"></image></svg></div>
+   <p id="product-proof">18米超远送风</p><p id="product-tag">一机轻松吹两厅</p>
+  </section>
+ </div>
+ <div id="distance" data-layout-allow-overlap="Foreground claim as camera pulls away from both lifestyle stages"><div class="number">18<span class="unit">m</span></div><p>超远送风</p></div>
+ <p id="coverage">一机轻松吹两厅</p><div id="finish-line"></div>
+ <div id="closing"><p class="headline">相聚尽兴，舒适随行</p><p class="model">璀璨客餐厅中央空调 C2艺境系列</p><p class="slogan">理想空气，源自璀璨</p></div>
+ <img id="foreground-word" src="assets/enjoy_occluder.png" alt="前景文字穿行">
+ <audio id="music" src="assets/music.wav" data-start="0" data-duration="24" data-track-index="5" data-volume="1" data-timeline-role="music"></audio>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});window.__timelines=window.__timelines||{};window.__timelines['c2-lifestyle']=tl;
+tl.from('#brand',{y:-20,opacity:0,duration:.65,ease:'power2.out'},.12);
+tl.from('#gather',{x:190,scale:1.12,opacity:0,duration:1.15,ease:'power3.out'},.18);
+tl.from('#living-people',{x:-85,scale:.94,opacity:0,duration:.95,ease:'sine.out'},.18);
+tl.from('#living-kicker',{y:18,opacity:0,duration:.7,ease:'expo.out'},.42);
+tl.to('#gather',{x:-28,duration:3.7,ease:'sine.inOut'},1.4);
+tl.to('#world',{x:-1180,duration:1.28,ease:'power3.inOut'},4.92);
+tl.from('#enjoy',{x:120,scale:1.08,duration:1.15,ease:'power2.out'},5.12);
+tl.from('#dining-people',{x:70,duration:1.5,ease:'sine.out'},5.15);
+tl.from('#dining-kicker',{x:35,opacity:0,duration:.7,ease:'expo.out'},5.72);
+tl.to('#enjoy',{x:-24,duration:3.7,ease:'sine.inOut'},6.5);
+tl.to('#world',{x:0,y:484,scale:.478,duration:1.6,ease:'power2.inOut'},10.8);
+tl.fromTo('#distance',{y:35,scale:.94,opacity:0},{y:0,scale:1,opacity:1,duration:.95,ease:'power3.out'},11.2);
+tl.fromTo('#coverage',{x:55,opacity:0},{x:0,opacity:1,duration:.8,ease:'expo.out'},12.1);
+tl.set('#living-kicker,#dining-kicker,.scene-line',{opacity:0},10.8);
+tl.to('#world',{y:465,duration:3.8,ease:'sine.inOut'},12.5);
+// The giant foreground glyph masks the continuous journey into the product stage.
+tl.to('#foreground-word',{x:-3250,duration:1.35,ease:'power3.inOut'},16.48);
+tl.to('#world',{x:-2360,y:0,scale:1,duration:1.5,ease:'power3.inOut'},16.55);
+tl.set('#distance',{opacity:0},17.05);tl.set('#coverage',{opacity:0},17.05);
+tl.from('#product-hero',{x:115,scale:1.08,duration:1.3,ease:'power2.out'},17.25);
+tl.from('#c2-type',{x:100,opacity:0,duration:1.1,ease:'expo.out'},17.1);
+tl.from('#product-name',{y:-28,opacity:0,duration:.9,ease:'sine.out'},17.8);
+tl.from('#product-proof',{y:26,opacity:0,duration:.8,ease:'power3.out'},18.4);
+tl.from('#product-tag',{x:38,opacity:0,duration:.8,ease:'expo.out'},18.65);
+tl.to('#product-hero',{x:-16,y:-12,duration:2.1,ease:'sine.inOut'},18.6);
+// The same world pulls back to reveal all three stages together.
+tl.to('#world',{x:58,y:428,scale:.28,duration:1.45,ease:'power2.inOut'},20.7);
+tl.set('#product-name,#product-proof,#product-tag',{opacity:0},20.7);
+tl.fromTo('#finish-line',{scaleX:0,opacity:0},{scaleX:1,opacity:1,duration:1.0,ease:'power3.out'},21.35);
+tl.fromTo('#closing',{y:28,opacity:0},{y:0,opacity:1,duration:1.0,ease:'expo.out'},21.5);
+tl.to('#world',{y:415,duration:1.6,ease:'sine.inOut'},22.2);
+</script></body></html>'''
+(PROJECT/'index.html').write_text(html)
+print('Built 24s C2 film; generated typography and official product remain independent editable layers.')

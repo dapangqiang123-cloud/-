@@ -1,0 +1,25 @@
+{
+  "skill": "san-shi-tu",
+  "version": "1.1.0",
+  "structure_validation": "passed",
+  "archive_validation": "passed",
+  "relative_references": "resolved",
+  "archive_files": [
+    "SKILL.md",
+    "agents/openai.yaml",
+    "references/family-examples.md",
+    "references/prompt-templates.md"
+  ],
+  "archive_sha256": "592c60f50d6e3c4c2d5dde40556766ff525c3255dbdb960ea37aa1435914ec35",
+  "reviewed_routes": [
+    "直接生成三视图：无母图也一次出板，不暗中生成母图",
+    "直接出板提示词：只给一段文字，不生图",
+    "先定脸：明确要求时才单独出母图",
+    "有参考：沿用清晰身份",
+    "多套服装：可用首张合格板维持身份",
+    "正侧背要求覆盖默认版式",
+    "退化回原始资产"
+  ],
+  "review_type": "人工规则检查与文件结构校验，未进行模型出图评测",
+  "chatgpt_import_tested": false
+}

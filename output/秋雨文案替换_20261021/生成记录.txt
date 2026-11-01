@@ -1,0 +1,16 @@
+执行方式：内置 image_gen 图像编辑。透明PNG保留生成原始透明通道，未做放大或锐化。
+参考：用户原始咖色与白色两行书法PNG。
+最终文案：
+秋雨连绵 湿凉渐起
+潮意悄然入室 舒适不该将就
+
+最终提示词：
+Use case: text-localization. Edit the attached transparent PNG Chinese calligraphy title asset. The reference is the visual style master. Replace ONLY its two lines of text with these exact new Chinese lines, preserving the same freehand Chinese running-cursive brush lettering style, character stroke personality, flowing tapered strokes, irregular natural brush rhythm, two-line composition, color arrangement, and soft offset brown drop shadows.
+
+EXACT TEXT:
+Line 1: 秋雨连绵 湿凉渐起
+Line 2: 潮意悄然入室 舒适不该将就
+
+Line 1 is large dark coffee brown calligraphy (#4C2F18 approximately), in the upper half. Line 2 is flowing white calligraphy below it. Both are handwritten in the same family of brush style seen in the reference, not a printed Kai/Song/Hei typeface. Preserve the long lively diagonal strokes and realistic brush shape, and the soft warm brown shadow behind the lettering. Adapt the spacing and glyph scale just enough to fit the longer text fully without cutting off any strokes. Keep each quoted line as ONE complete horizontal line. Keep the two phrase groups on each line separated by a small natural word space. Wide canvas aspect ratio about 1200:541, with transparent margins. All eight characters in the first line and all twelve characters in the second line must be correct, legible, and present. No old wording should remain.
+
+Output: ONE genuinely transparent PNG typography overlay. The brown rectangular/raw pixel regions shown around the reference are NOT design elements: render only the calligraphic letters and their soft transparent drop shadows. Background everywhere else must be fully transparent, no brown panel, no white background, no checkerboard baked in, no added objects, logos, border, frame, captions, or extra punctuation. Do not turn the text green. Preserve the original coffee-brown first line and white second line.

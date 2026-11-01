@@ -1,0 +1,99 @@
+{
+  "stage": "2",
+  "status": "first_G03_motion_sample_ready_awaiting_user_confirmation",
+  "stage1_confirmed": true,
+  "official_sources_unchanged": true,
+  "new_image_generations": 3,
+  "new_video_generations": 1,
+  "new_jimeng_credits": 24,
+  "renders": [
+    {
+      "attempt": 1,
+      "engine": "Blender Cycles Metal",
+      "size": [
+        1080,
+        1920
+      ],
+      "samples": 64,
+      "status": "failed_self_review",
+      "issues": [
+        "左侧木地板因错缝范围漏铺",
+        "胡桃木与石材色阶偏浅，整体简化沙盘感",
+        "尚未达到确认风格板的住宅广告质感"
+      ],
+      "path": "审阅帧/SH02_测试01/SH02_质量测试.png",
+      "technical_check": {
+        "dimensions": [
+          1080,
+          1920
+        ],
+        "format": "PNG",
+        "pure_RGB_zero_pixels": 0,
+        "minimum_channels": [
+          13,
+          7,
+          3
+        ],
+        "sha256": "82f6dc3bbae6ca8d8139a96a2bd5a3e0618f630f9576fd3ada0a2a690a829a84",
+        "note": "静帧技术检查不能证明质感或动态合格；无视频与ffprobe成片验收"
+      }
+    },
+    {
+      "attempt": 2,
+      "engine": "Blender Cycles Metal",
+      "size": [
+        1080,
+        1920
+      ],
+      "samples": 96,
+      "status": "failed_self_review",
+      "changes": [
+        "修复地板覆盖范围",
+        "加深胡桃木，厨房台面改深色石材",
+        "降低环境填光并明确窗侧自然光",
+        "增加轻微抹灰表面细节"
+      ],
+      "issues": [
+        "地板与木色问题已修正，但仍是简化建筑沙盘观感",
+        "家具形体与室内细节密度不足，亚麻/石材的摄影感不够",
+        "不能认定与已确认官方住宅参考具有同等商业质感"
+      ],
+      "path": "审阅帧/SH02_测试02/SH02_质量测试.png",
+      "technical_check": {
+        "dimensions": [
+          1080,
+          1920
+        ],
+        "format": "PNG",
+        "pure_RGB_zero_pixels": 0,
+        "minimum_channels": [
+          2,
+          0,
+          0
+        ],
+        "sha256": "9b8c906f95321724a75c18298c3d4adfa360d62b6a5db780418dfc44a189caaf",
+        "note": "静帧技术检查不能证明质感或动态合格；无视频与ffprobe成片验收"
+      }
+    }
+  ],
+  "next_gate": "用户验收这一套三房的动态质感后，继续其余五段代表样片；六段样片及全片均尚未完成",
+  "animation_rendered": false,
+  "remaining_five_samples_rendered": false,
+  "direction_confirmation": "用户明确选择A：保留剖切，ChatGPT首帧＋即梦，先验收一套三房；待首帧确认后才提交一次视频",
+  "candidate_keyframe": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v3_明亮米白浅木_待确认.png",
+  "native_keyframe_size": [
+    941,
+    1671
+  ],
+  "grading_note": "v3为重新生图改材质与光照，不是在暗图上做曝光拉升；未额外调色或锐化",
+  "latest_feedback": "用户否决v2过暗，不符合璀璨配色；v3已换米白、浅暖木和自然柔光",
+  "keyframe_user_confirmation": "用户回复可以，确认v3明亮米白浅木配色",
+  "jimeng_canvas": "https://jimeng.jianying.com/ai-tool/ai-canvas/f489d5e7-6118-4e17-8931-c9ae0f08c083",
+  "blocker": null,
+  "new_jimeng_authorized_credit_ceiling": 24,
+  "jimeng_budget_reserved_including_history": 540,
+  "note": "用户上传首帧后恢复，视频已受理，仍未验收或交付",
+  "credits_record_note": "资源记录creditsAmount24，不表示账户最终净结算已经核实",
+  "review_sample": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_4秒_1080x1920_30fps_无声_交审版.mp4",
+  "review_still": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_代表静帧.png"
+}

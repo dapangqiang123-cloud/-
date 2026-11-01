@@ -1,0 +1,56 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 4000000,
+    "text": "第二"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7875000,
+    "duration": 2375000,
+    "text": "全"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10250000,
+    "duration": 1250000,
+    "text": "屋"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11625000,
+    "duration": 1500000,
+    "text": "都"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13125000,
+    "duration": 2375000,
+    "text": "想"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15500000,
+    "duration": 2750000,
+    "text": "装"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20250000,
+    "duration": 1375000,
+    "text": "该"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21750000,
+    "duration": 2375000,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24125000,
+    "duration": 3375000,
+    "text": "选"
+  }
+]

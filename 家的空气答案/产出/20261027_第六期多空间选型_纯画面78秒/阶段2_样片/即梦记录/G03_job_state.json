@@ -1,0 +1,76 @@
+{
+  "jobKey": "tresor78_G03_bright_three_room_once",
+  "projectId": "f489d5e7-6118-4e17-8931-c9ae0f08c083",
+  "canvasName": "家的空气答案06｜78秒纯画面·明亮版样片",
+  "imageResourceId": "09a8e401-9e29-444d-bcd7-18a79274aaaf",
+  "imageImportSubmitId": "554c6247-c9df-4471-8b96-f37acf7c5737",
+  "imageUpdateId": "7914ec7c-fc10-4d80-bf65-85b1c2f0496d",
+  "videoUpdateId": "0ec31775-9b0a-4742-89ef-e4a4704f73b5",
+  "videoSubmitId": "7b2e8061-b6f8-4e18-b51c-764a91309f5f",
+  "model": "seedance_2.0_fast_vip",
+  "mode": "first_last_frame",
+  "resolution": "720p",
+  "ratio": "9:16",
+  "duration_seconds": 4,
+  "count": 1,
+  "imageFile": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v3_明亮米白浅木_待确认.png",
+  "status": "sample_and_still_ready_awaiting_user_motion_quality_confirmation",
+  "prior_budget_reservation": 516,
+  "total_budget": 600,
+  "remaining_before_this_submission": 84,
+  "video_generation_attempts": 1,
+  "references_videos_uploaded": 0,
+  "webUrl": "https://jimeng.jianying.com/ai-tool/ai-canvas/f489d5e7-6118-4e17-8931-c9ae0f08c083",
+  "uploadError": {
+    "code": "cli.upload_state_unknown",
+    "requiredAction": "human_intervention",
+    "requestId": "20261028145450677944CC4745AC28C66D"
+  },
+  "retry_action": "Do not reupload or change resource ID; query existing resource read-only",
+  "textUpdateId": "6d603b4b-3e40-4b0c-98c8-cce0ce03670d",
+  "last_read_only_query": {
+    "code": "service.6",
+    "requiredAction": "none",
+    "requestId": "2026102814555598C1C5B6F0BA3320B113",
+    "observation": "resource not found; does not prove orphan upload object absent"
+  },
+  "canvasNoteNodeId": "node_88f0sc26xg",
+  "canvas_note_saved": true,
+  "imageNodeId": "node_na52j7sq2x",
+  "userUploadedImageResourceId": "95ffaf3d-91e0-4eb0-a9a9-7e5b5f642fbc",
+  "userUploadNodeQueryRequestId": "20261028150158C3EAD33EAEA62D25BA7A",
+  "videoNodeId": "node_fsr3thrzj0",
+  "saveRequestId": "20261028150607639D56C10F54A525BDA3",
+  "verifiedUploadedImage": {
+    "size": [
+      941,
+      1671
+    ],
+    "meanAbsoluteRGBDifference": [
+      0,
+      0,
+      0
+    ],
+    "matchesApprovedSource": true,
+    "resourceId": "95ffaf3d-91e0-4eb0-a9a9-7e5b5f642fbc"
+  },
+  "authorized_credit_ceiling": 24,
+  "conservative_reserved_total": 540,
+  "creditConfirmRequestId": "2026102815083584AD9E7EC54EDB2201FC",
+  "runRequestId": "20261028150837615FA91595D49021D371",
+  "submittedResourceId": "68251d21-5b1c-46ef-9c8f-7c59ced4fd1e",
+  "operationRef": "7b2e8061-b6f8-4e18-b51c-764a91309f5f",
+  "lastWaitTimeoutRequestIds": [
+    "20261028151014125CFA27CF7C8021207D",
+    "20261028151159ADA4D6B9CBE43020FD5A"
+  ],
+  "selectedResourceId": "68251d21-5b1c-46ef-9c8f-7c59ced4fd1e",
+  "nominalResourceCreditsAmount": 24,
+  "settled_account_charge_verified": false,
+  "reviewSampleFile": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_4秒_1080x1920_30fps_无声_交审版.mp4",
+  "reviewStillFile": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_代表静帧.png",
+  "actual_source_has_audio_track": true,
+  "review_output_audio_tracks": 0,
+  "all_120_frames_pure_black_pixel_count": 0,
+  "completedNoteUpdateId": "e821b52d-49bd-46e1-b57d-a250931af65e"
+}

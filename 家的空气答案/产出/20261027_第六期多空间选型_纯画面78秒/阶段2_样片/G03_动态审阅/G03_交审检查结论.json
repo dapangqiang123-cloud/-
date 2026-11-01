@@ -1,0 +1,35 @@
+{
+  "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_4秒_1080x1920_30fps_无声_交审版.mp4",
+  "size_bytes": 3300314,
+  "sha256": "4a02ce23490bad11d801bbd8dd665916816071489f23341a0661ff0d4edc63a9",
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "avg_frame_rate": "30/1",
+        "nb_read_frames": "120"
+      }
+    ],
+    "format": {
+      "duration": "4.000000"
+    }
+  },
+  "all_120_frames_pure_black_pixel_count": 0,
+  "grading": "单调RGB阴影曲线：0→12/9/7，白点不变；无锐化、无结构改造",
+  "source_native_resolution": [
+    720,
+    1280
+  ],
+  "source_audio": "源文件附带AAC有声音轨，已完整移除；没有单独提交配音、音乐或音效任务",
+  "generation_attempts": 1,
+  "nominal_resource_credit_record": 24,
+  "conservative_budget_reserved_total": 540,
+  "budget_limit": 600,
+  "remaining_conservative": 60,
+  "status": "awaiting_user_motion_quality_confirmation"
+}

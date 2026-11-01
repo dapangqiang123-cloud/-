@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "operationRef": "13dce2bb-6f0b-4e8e-8898-59837523dab9",
+    "state": "succeeded",
+    "resources": [
+      {
+        "resourceId": "ae7d0c4b-ae73-4b86-926c-204fbdc24b7a",
+        "state": "succeeded"
+      }
+    ],
+    "submission": {
+      "state": "completed",
+      "resubmittable": false,
+      "adviceCode": "submission_accepted",
+      "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+    }
+  },
+  "meta": {
+    "requestId": "202610230153429F9108D2C51383CDC38D",
+    "operationRef": "13dce2bb-6f0b-4e8e-8898-59837523dab9"
+  }
+}

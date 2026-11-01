@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_57hyqyrzg6",
+        "submitId": "a21273c5-113f-435f-8e09-664dda704732",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "2baa8a37-2ab6-4c9f-bb9f-4bacb7b7f9d8"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_5rbh2y403f",
+        "submitId": "9e0bf29a-5d68-445a-a61e-62ec651b22f8",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "01bbfc04-2787-4ba3-86da-b777c28c9c15"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_h6dve3y28c",
+        "submitId": "5bd725b3-9f52-42b0-a63f-c1943144a6b2",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "f6f99a73-7dbd-4154-b75f-654b7ad86496"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_3rfpmv3zjf",
+        "submitId": "1b30d572-f592-472f-b6a3-34e21cb6136c",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "8c201092-56b3-419e-887e-85c0aaa9d2c5"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "requestId": "2026102301413387615239FC825C2A715A"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_fsr3thrzj0",
+        "submitId": "7b2e8061-b6f8-4e18-b51c-764a91309f5f",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "68251d21-5b1c-46ef-9c8f-7c59ced4fd1e"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "requestId": "20261028150837615FA91595D49021D371"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "duration": 8,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "subtitleBlank": [
+    0,
+    1355,
+    1080,
+    565
+  ],
+  "vo": "一台外机带多台内机，各屋按需开。",
+  "text": true,
+  "audio": false,
+  "jimengGenerations": 0,
+  "beats": [
+    {
+      "at": 0.16,
+      "action": "外机与四路内机建立"
+    },
+    {
+      "at": 0.85,
+      "action": "一台外机连接四路的管路生长"
+    },
+    {
+      "at": 1.95,
+      "action": "第一路启动"
+    },
+    {
+      "at": 2.5,
+      "action": "第二路启动"
+    },
+    {
+      "at": 3.05,
+      "action": "第三路启动"
+    },
+    {
+      "at": 3.6,
+      "action": "第四路启动"
+    },
+    {
+      "at": 4.65,
+      "action": "第二路关闭，其他保持运行"
+    },
+    {
+      "at": 5.35,
+      "action": "第四路关闭，第一三路继续"
+    },
+    {
+      "at": 6.05,
+      "action": "仅第四路重新启动，第二路保持关闭"
+    }
+  ],
+  "roomNames": [
+    "客厅",
+    "主卧",
+    "次卧",
+    "书房"
+  ],
+  "style": "C3原始外形参考，暖咖铅笔淡彩，满幅暖米杏底色",
+  "generationsThisRevision": 0,
+  "horizontalSafeMarginsPx": [
+    120,
+    120
+  ],
+  "outdoorTranslateX": 66,
+  "roomsTranslateX": -66,
+  "fanDirectionFrontView": "counterclockwise",
+  "fanRotationDegrees": [
+    -1100,
+    -1040
+  ]
+}

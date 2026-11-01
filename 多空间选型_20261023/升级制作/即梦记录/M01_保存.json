@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "node": {
+      "nodeId": "node_3rfpmv3zjf",
+      "type": "audio",
+      "title": "M01｜家的空气答案·温暖科技器乐84秒",
+      "tags": [],
+      "status": "empty",
+      "upstreamNodeIds": [],
+      "downstreamNodeIds": [],
+      "executionDependencyNodeIds": [],
+      "resources": [],
+      "generation": {
+        "mode": "music",
+        "prompt": "84秒纯器乐，高端中央空调品牌科普广告配乐。温暖、理性、现代、有呼吸感，约96BPM，轻柔电钢琴、细腻拨弦、圆润低音和克制的轻打击乐，低调电子空气质感。开头清晰简短，5秒起稳定流动节奏，每20秒有轻微层次变化支撑四个章节，最后6秒自然收束并留尾音。音色精致不过亮，为中文女声配音留出空间；不要人声、歌词、口哨、鸟叫、风声或其他拟音，不要史诗弦乐，不要大鼓冲击，不要舞曲高潮。",
+        "model": "seed_music_1.0",
+        "outputCount": 1,
+        "durationSeconds": 84,
+        "references": [],
+        "promptParts": [
+          {
+            "kind": "text",
+            "text": "84秒纯器乐，高端中央空调品牌科普广告配乐。温暖、理性、现代、有呼吸感，约96BPM，轻柔电钢琴、细腻拨弦、圆润低音和克制的轻打击乐，低调电子空气质感。开头清晰简短，5秒起稳定流动节奏，每20秒有轻微层次变化支撑四个章节，最后6秒自然收束并留尾音。音色精致不过亮，为中文女声配音留出空间；不要人声、歌词、口哨、鸟叫、风声或其他拟音，不要史诗弦乐，不要大鼓冲击，不要舞曲高潮。"
+          }
+        ],
+        "writebackSupported": true,
+        "writebackBlockers": []
+      },
+      "layout": {
+        "x": 0,
+        "y": 2476.6670000000004,
+        "width": 320,
+        "height": 320
+      },
+      "resourceObservedAtMs": 1792690871556
+    },
+    "mutation": {
+      "action": "create",
+      "savedDraftVersion": 6,
+      "effectiveGeneration": {
+        "mode": "music",
+        "model": "seed_music_1.0",
+        "durationSeconds": 84,
+        "outputCount": 1
+      }
+    }
+  },
+  "meta": {
+    "requestId": "20261023014111F6C3F1DED57A8C0004C3"
+  }
+}

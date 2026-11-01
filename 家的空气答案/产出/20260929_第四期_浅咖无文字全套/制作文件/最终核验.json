@@ -1,0 +1,143 @@
+{
+  "report": [
+    {
+      "key": "镜2_A",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 6,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#EEE4D8",
+        "#DAC8B7",
+        "#A58D78",
+        "#C2AC97",
+        "#F7F1E9",
+        "#8D7765",
+        "#FFFFFF"
+      ],
+      "checkOK": true,
+      "reused": false
+    },
+    {
+      "key": "镜2_B",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 6,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#A58D78",
+        "#F7F1E9",
+        "#C2AC97",
+        "#8D7765",
+        "#FFFFFF"
+      ],
+      "checkOK": true,
+      "reused": false
+    },
+    {
+      "key": "镜5_A",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 7,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#EEE4D8",
+        "#DAC8B7",
+        "#A58D78",
+        "#C2AC97",
+        "#F7F1E9",
+        "#8D7765",
+        "#FFFFFF"
+      ],
+      "checkOK": true,
+      "reused": true
+    },
+    {
+      "key": "镜5_B",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 7,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#A58D78",
+        "#F7F1E9",
+        "#C2AC97",
+        "#8D7765",
+        "#FFFFFF"
+      ],
+      "checkOK": true,
+      "reused": false
+    },
+    {
+      "key": "镜6_A",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 7,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#EEE4D8",
+        "#DAC8B7",
+        "#A58D78",
+        "#C2AC97",
+        "#F7F1E9",
+        "#8D7765"
+      ],
+      "checkOK": true,
+      "reused": false
+    },
+    {
+      "key": "镜6_B",
+      "text": "",
+      "images": 0,
+      "background": "rgb(244, 237, 228)",
+      "svgText": 0,
+      "width": 2160,
+      "height": 3840,
+      "fps": "60/1",
+      "duration": 7,
+      "colors": [
+        "#F4EDE4",
+        "#E4D6C7",
+        "#A58D78",
+        "#F7F1E9",
+        "#C2AC97",
+        "#8D7765"
+      ],
+      "checkOK": true,
+      "reused": false
+    }
+  ],
+  "errors": [],
+  "approvedSampleUnchanged": true,
+  "galleryVideoCount": 6
+}

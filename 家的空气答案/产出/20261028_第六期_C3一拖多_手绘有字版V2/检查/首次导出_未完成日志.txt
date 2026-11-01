@@ -1,0 +1,37 @@
+
+◆  Rendering HyperFrames工程 → /Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_手绘有字版V2/C3一拖多_手绘有字V2_1080x1920_8s.mp4
+   30fps · high · 2 workers
+   GPU: browser GPU (auto-detect)
+
+[?25l│
+◒  Checking browser[1G[J◇  Browser: cache
+[?25hLint runs at normal priority: A system error occurred: uv_os_setpriority returned EPERM (operation not permitted)
+
+  Lint: 0 error(s), 1 warning(s) — run with --lint-verbose for full output.
+  Continuing render despite lint issues. Use --strict to block errors.
+
+[INFO] [Render] Pipeline started {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","platform":"darwin","arch":"arm64","nodeVersion":"v24.14.0","fps":{"num":30,"den":1},"format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeout":300000,"browserTimeout":120000,"pageNavigationTimeout":60000,"playerReadyTimeout":45000}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"pipeline","status":"checkpoint","elapsedMs":8,"message":"started","format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeoutMs":300000,"pageNavigationTimeoutMs":60000,"playerReadyTimeoutMs":45000,"requestedWorkers":2}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"compile","status":"start","elapsedMs":12,"needsAlpha":false}
+  █░░░░░░░░░░░░░░░░░░░░░░░░  5%  Compiling composition
+@hf-progress {"code":"compile","pct":5}
+[INFO] Compiled composition metadata {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","entryFile":"index.html","staticDuration":8,"width":1080,"height":1920,"videoCount":0,"audioCount":0,"renderModeHints":{"recommendScreenshot":false,"reasons":[]}}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"compile","status":"end","elapsedMs":324,"durationMs":310,"needsAlpha":false}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"compile","status":"checkpoint","elapsedMs":324,"message":"composition metadata resolved","width":1080,"height":1920,"videoCount":0,"audioCount":0,"imageCount":0,"deviceScaleFactor":1,"forceScreenshot":false,"compositionHash":"69b1e50fdaae3439"}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"browser_probe","status":"start","elapsedMs":324,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"browser_probe","status":"end","elapsedMs":342,"durationMs":18,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"browser_probe","status":"checkpoint","elapsedMs":343,"message":"duration resolved","durationSeconds":8,"totalFrames":240,"compositionHash":"69b1e50fdaae3439","beginFrameStalled":false}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"video_extract","status":"start","elapsedMs":343,"videoCount":0}
+  ██░░░░░░░░░░░░░░░░░░░░░░░  10%  Extracting video frames
+@hf-progress {"code":"extract_video","pct":10}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"video_extract","status":"end","elapsedMs":343,"durationMs":0,"videoCount":0}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"video_extract","status":"checkpoint","elapsedMs":347,"message":"frames resolved","videoCount":0,"extractedVideoCount":0,"totalFramesExtracted":0,"maxFramesPerVideo":0,"avgFramesPerExtractedVideo":null,"vfrPreflightCount":null,"vfrPreflightMs":null,"cacheHits":null,"cacheMisses":null,"transientRetries":null,"minVideoFrameCoverageRatio":null,"authoredTimedClipCount":2}
+[INFO] [Render] No HDR sources detected, rendering SDR {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612"}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"hdr_detection","status":"checkpoint","elapsedMs":347,"message":"resolved","requestedHdrMode":"auto","effectiveHdr":"sdr","nativeHdrVideoCount":0,"nativeHdrImageCount":0}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"audio_process","status":"start","elapsedMs":347,"audioCount":0}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"audio_process","status":"end","elapsedMs":348,"durationMs":1,"audioCount":0}
+  █████░░░░░░░░░░░░░░░░░░░░  20%  Processing audio tracks
+@hf-progress {"code":"process_audio","pct":20}
+[INFO] [Render:trace] {"renderJobId":"e988f6db-8bb7-4385-ae7d-967b9a0a6612","phase":"file_server","status":"start","elapsedMs":348,"reused":false}
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Starting frame capture
+@hf-progress {"code":"start_browsers","pct":25}

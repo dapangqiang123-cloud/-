@@ -1,0 +1,230 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 4,
+    "findings": [
+      {
+        "code": "media_proxy_fallback",
+        "severity": "info",
+        "message": "[hyperframes] runtime_media_proxy_fallback: \"http://127.0.0.1:64932/assets/lounge_alpha.mov\" uses a codec (prores) this browser can't decode; auto-swapped to an authoring proxy for this preview only. Render output is unaffected.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "c2-lifestyle",
+          "data-start": "0",
+          "data-duration": "24",
+          "data-width": "1080",
+          "data-height": "1440",
+          "data-fps": "30"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1440
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:64932/",
+        "line": 1593
+      },
+      {
+        "code": "media_proxy_fallback",
+        "severity": "info",
+        "message": "[hyperframes] runtime_media_proxy_fallback: \"http://127.0.0.1:64932/assets/lounge_alpha.mov\" uses a codec (prores) this browser can't decode; auto-swapped to an authoring proxy for this preview only. Render output is unaffected.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "c2-lifestyle",
+          "data-start": "0",
+          "data-duration": "24",
+          "data-width": "1080",
+          "data-height": "1440",
+          "data-fps": "30"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1440
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:64932/",
+        "line": 1593
+      },
+      {
+        "code": "media_proxy_fallback",
+        "severity": "info",
+        "message": "[hyperframes] runtime_media_proxy_fallback: \"http://127.0.0.1:64932/assets/dining_alpha.mov\" uses a codec (prores) this browser can't decode; auto-swapped to an authoring proxy for this preview only. Render output is unaffected.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "c2-lifestyle",
+          "data-start": "0",
+          "data-duration": "24",
+          "data-width": "1080",
+          "data-height": "1440",
+          "data-fps": "30"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1440
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:64932/",
+        "line": 1593
+      },
+      {
+        "code": "media_proxy_fallback",
+        "severity": "info",
+        "message": "[hyperframes] runtime_media_proxy_fallback: \"http://127.0.0.1:64932/assets/dining_alpha.mov\" uses a codec (prores) this browser can't decode; auto-swapped to an authoring proxy for this preview only. Render output is unaffected.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "c2-lifestyle",
+          "data-start": "0",
+          "data-duration": "24",
+          "data-width": "1080",
+          "data-height": "1440",
+          "data-fps": "30"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1440
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:64932/",
+        "line": 1593
+      }
+    ]
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 1,
+    "findings": [
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 17.2,
+        "selector": "#c2-type",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 875.74,
+          "top": 521.39,
+          "right": 1145.46,
+          "bottom": 765.84,
+          "width": 269.72,
+          "height": 244.45
+        },
+        "containerSelector": "#foreground-word",
+        "text": "C2",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 0.11,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 875.74,
+          "y": 521.39,
+          "width": 269.72,
+          "height": 244.45
+        },
+        "firstSeen": 17.2,
+        "lastSeen": 17.2,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          17.2
+        ]
+      }
+    ],
+    "duration": 24,
+    "samples": [
+      11.6,
+      13.5,
+      17.2,
+      19.5,
+      21.5,
+      23
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 1,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      11.6,
+      13.5,
+      17.2,
+      19.5,
+      23
+    ],
+    "checked": 14,
+    "passed": 14
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "step": 0,
+    "samples": 0
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "scope": {
+    "range": [
+      10.8,
+      24
+    ],
+    "hiddenFindings": 0,
+    "notes": [
+      "Static lint and unscoped runtime failures remain project-wide.",
+      "Whole-timeline motion assertions, frozen-sweep detection and craft warnings are skipped for range checks."
+    ]
+  }
+}

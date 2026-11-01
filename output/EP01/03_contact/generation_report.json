@@ -1,0 +1,38 @@
+{
+  "episode": "EP01",
+  "final_png_count": 11,
+  "double_version_assets": [
+    "EP01_00",
+    "EP01_03",
+    "EP01_06",
+    "EP01_07"
+  ],
+  "vent_lock_assets": [
+    "EP01_01",
+    "EP01_02",
+    "EP01_03",
+    "EP01_05",
+    "EP01_07"
+  ],
+  "vent_retries": {
+    "EP01_03": 1
+  },
+  "vent_validation": "All accepted images show one continuous narrow slot without grille bars, square louvers, diffuser fins, or segmented modules.",
+  "size_policy": "All deliverables are native portrait 9:16 assets. Generated scenes/diagram remain at built-in native portrait resolution; cards are 1080x1920.",
+  "text_rule": "withtext files were composited locally from the corresponding clean pixels; no withtext background was independently generated.",
+  "font_note": "assets/fonts/title_zh.otf was not supplied; STHeiti Medium was used as the consistent Chinese title fallback.",
+  "source_manifest": "/Users/weipeilong/Downloads/assets_manifest.json",
+  "files": [
+    "EP01_00_card_Q_layengao_clean.png",
+    "EP01_00_card_Q_layengao_withtext.png",
+    "EP01_01_scene_livingroom_heightscale_clean.png",
+    "EP01_02_scene_livingroom_clean.png",
+    "EP01_03_diagram_biandiao_section_clean.png",
+    "EP01_03_diagram_biandiao_section_withtext.png",
+    "EP01_05_scene_finished_open_livingdining_clean.png",
+    "EP01_06_card_maidian_190mm_clean.png",
+    "EP01_06_card_maidian_190mm_withtext.png",
+    "EP01_07_scene_grand_ending_clean.png",
+    "EP01_07_scene_grand_ending_withtext.png"
+  ]
+}

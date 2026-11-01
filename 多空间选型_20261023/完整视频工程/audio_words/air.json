@@ -1,0 +1,74 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 2250000,
+    "text": "别"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3250000,
+    "duration": 1250000,
+    "text": "只"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4500000,
+    "duration": 2000000,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6625000,
+    "duration": 2125000,
+    "text": "匹"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8750000,
+    "duration": 3000000,
+    "text": "数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14625000,
+    "duration": 2625000,
+    "text": "还要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17250000,
+    "duration": 2125000,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19625000,
+    "duration": 3125000,
+    "text": "内机"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22875000,
+    "duration": 5000000,
+    "text": "风量"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28875000,
+    "duration": 1375000,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30375000,
+    "duration": 4125000,
+    "text": "送风"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34625000,
+    "duration": 4625000,
+    "text": "距离"
+  }
+]

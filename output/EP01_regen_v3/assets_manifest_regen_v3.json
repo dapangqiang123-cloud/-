@@ -1,0 +1,61 @@
+{
+  "_readme": "EP01 家居图全量重生 v3。以用户最新风口修正与装修参考要求为准；旧版保留但不作为本轮成品。",
+  "project": "cuican_air_answers",
+  "episode": "EP01",
+  "version": "regen_v3",
+  "date": "2026-08-12",
+  "brand_spec": {
+    "palette": {
+      "coffee_dark": "#3B2F2C",
+      "gold": "#B8952A",
+      "fog_white": "#F0EDE8"
+    },
+    "aspect": "9:16",
+    "quality": "native high resolution",
+    "style_direction": "暖白矿物墙面、樱桃木或胡桃木、人字拼暖木地板、低饱和中古与现代混搭、自然侧光、克制暖光、真实居住痕迹、高级但松弛。",
+    "originality_rule": "只提取参考图的抽象色彩、材质、光感与松弛感；不得复制任何具体户型、家具组合、墙面造型、陈设位置或标志性构图。"
+  },
+  "vent_style_lock": {
+    "placement_cn": "风口必须安装在靠墙局部吊顶或边吊的竖向立面/下垂前脸上，面对室内；不得画在大平顶的水平面上。",
+    "shape_cn": "一个吊顶内嵌横向长条格栅风口，细长矩形，与吊顶立面一体化融合。",
+    "blade_cn": "内部清晰可见约10至12条均匀、细密、连续的横向百叶；每一条都顺着风口长边从左到右延伸。",
+    "forbidden_cn": [
+      "任何竖向格栅、竖向分隔或立柱",
+      "方格、网格、棋盘格、方形或矩形散流器",
+      "单一黑线式缝隙风口",
+      "轨道灯或灯槽伪装成风口",
+      "同一画面出现第二个或重复风口",
+      "挂机、室外机、圆形风口"
+    ],
+    "apply_to": ["EP01_01", "EP01_02", "EP01_03", "EP01_05", "EP01_07"]
+  },
+  "assets": [
+    {"id": "EP01_00_card_Q_layengao", "type": "card", "variants": ["clean", "withtext"], "status": "沿用"},
+    {"id": "EP01_01_scene_livingroom_heightscale", "type": "scene", "variants": ["clean"], "status": "v3全新生成", "vent_lock": true},
+    {"id": "EP01_02_scene_livingroom", "type": "scene", "variants": ["clean"], "status": "v3全新生成", "vent_lock": true},
+    {"id": "EP01_03_diagram_biandiao_section", "type": "diagram", "variants": ["clean", "withtext"], "status": "沿用格栅修正版", "vent_lock": true},
+    {"id": "EP01_05_scene_finished_open_livingdining", "type": "scene", "variants": ["clean"], "status": "v3全新生成", "vent_lock": true},
+    {"id": "EP01_06_card_maidian_190mm", "type": "card", "variants": ["clean", "withtext"], "status": "沿用"},
+    {"id": "EP01_07_scene_grand_ending", "type": "scene", "variants": ["clean", "withtext"], "status": "v3全新生成；withtext由同一clean底图叠字", "vent_lock": true}
+  ],
+  "qc": {
+    "EP01_01": "通过：单一风口，位于吊顶竖向立面，仅横向细百叶。",
+    "EP01_02": "通过：单一风口，位于吊顶竖向立面，仅横向细百叶。",
+    "EP01_05": "通过：大平顶完整，单一风口位于远端吊顶立面，仅横向细百叶。",
+    "EP01_07": "首轮因远墙出现第二条疑似风口而淘汰；重跑版通过，只有一个合格风口。"
+  },
+  "output_rules": {
+    "final_folder": "output/EP01_regen_v3/02_final",
+    "contact_sheet": "output/EP01_regen_v3/03_contact/contact_sheet_regen_v3.png",
+    "scene_size_policy": "所有图片保持原生竖版9:16，不制作或沿用1024x1536底图，不放大、不外扩。",
+    "double_version_rule": "带字版必须从对应clean底图叠字得到，禁止独立生成背景。"
+  },
+  "compliance": {
+    "product_line": "C2艺境（190mm风管机）",
+    "rules": [
+      "本片落点仅C2艺境190mm，不跨用其他产品线参数",
+      "不得出现dB数值、App或语音控制、除醛百分比",
+      "不得使用绝对化用词或杜撰技术名词"
+    ]
+  }
+}

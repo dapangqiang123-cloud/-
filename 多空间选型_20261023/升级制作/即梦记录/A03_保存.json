@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "node": {
+      "nodeId": "node_h6dve3y28c",
+      "type": "video",
+      "title": "A03｜微距空气过滤·概念示意｜仅一次",
+      "tags": [],
+      "status": "empty",
+      "upstreamNodeIds": [],
+      "downstreamNodeIds": [],
+      "executionDependencyNodeIds": [],
+      "resources": [],
+      "generation": {
+        "mode": "t2v",
+        "prompt": "9秒9:16竖屏，国际高级家电品牌的微距科普广告，精细真实CG摄影，微距光学景深。画面是一片洁白的折叠式空气过滤材料，纸纤维纹理细密真实，连续整齐的折叠褶皱形成有设计感的曲面，背景深暖灰，柔和侧逆光。0–3秒镜头沿过滤材料的褶皱极慢掠过，逐渐看见空气中少量细小浅金灰尘颗粒向滤材流动；3–7秒镜头靠近纤维网的一个局部，粒径不同的尘粒被纤维拦截停留，细微柔白气流从纤维间隙继续穿过到另一侧，表现过滤因果；7–9秒摄影机顺着干净气流略微向前，亮部柔和，留下清透的呼吸感。仅为过滤概念示意，不出现真实设备、不展示化学反应、不显示除醛除菌、不承诺完全过滤。无文字、数字、logo、UI、箭头、霓虹、彩色光球、夸张激光、烟雾；清晰细节，高级自然材质。",
+        "model": "seedance_2.0_fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "outputCount": 1,
+        "durationSeconds": 9,
+        "references": [],
+        "promptParts": [
+          {
+            "kind": "text",
+            "text": "9秒9:16竖屏，国际高级家电品牌的微距科普广告，精细真实CG摄影，微距光学景深。画面是一片洁白的折叠式空气过滤材料，纸纤维纹理细密真实，连续整齐的折叠褶皱形成有设计感的曲面，背景深暖灰，柔和侧逆光。0–3秒镜头沿过滤材料的褶皱极慢掠过，逐渐看见空气中少量细小浅金灰尘颗粒向滤材流动；3–7秒镜头靠近纤维网的一个局部，粒径不同的尘粒被纤维拦截停留，细微柔白气流从纤维间隙继续穿过到另一侧，表现过滤因果；7–9秒摄影机顺着干净气流略微向前，亮部柔和，留下清透的呼吸感。仅为过滤概念示意，不出现真实设备、不展示化学反应、不显示除醛除菌、不承诺完全过滤。无文字、数字、logo、UI、箭头、霓虹、彩色光球、夸张激光、烟雾；清晰细节，高级自然材质。"
+          }
+        ],
+        "writebackSupported": true,
+        "writebackBlockers": []
+      },
+      "layout": {
+        "x": 0,
+        "y": 1827.7780000000002,
+        "width": 320,
+        "height": 568.889
+      },
+      "resourceObservedAtMs": 1792690870812
+    },
+    "mutation": {
+      "action": "create",
+      "savedDraftVersion": 5,
+      "effectiveGeneration": {
+        "mode": "t2v",
+        "model": "seedance2.0fast_vip",
+        "ratio": "9:16",
+        "resolution": "720p",
+        "durationSeconds": 9,
+        "outputCount": 1
+      }
+    }
+  },
+  "meta": {
+    "requestId": "20261023014110521619EE1C55C9CEA455"
+  }
+}

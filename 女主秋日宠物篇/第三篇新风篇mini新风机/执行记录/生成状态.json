@@ -1,0 +1,145 @@
+{
+  "canvas": "https://liblib.tv/canvas?spaceId=10731542&projectId=5c62c4d62338436083c83ca13901a89c",
+  "model": "Wan 3.0 Prime",
+  "shots": {
+    "S01": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-6UuW2weMnv",
+      "duration_requested": 4,
+      "refs": [
+        "分镜1.png",
+        "哥哥妹妹.png",
+        "户外环境图.png"
+      ],
+      "original_filename": "S01_哥哥妹妹落叶.mp4",
+      "bytes": 21401624,
+      "mode": "全能参考",
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S02": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-4HOJSLqu2f",
+      "duration_requested": 4,
+      "refs": [
+        "分镜2.png",
+        "哥哥妹妹.png",
+        "户外环境图.png"
+      ],
+      "mode": "全能参考",
+      "original_filename": "S02_秋日别墅.mp4",
+      "bytes": 20640028,
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S03": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-ogxoo0rYsm",
+      "duration_requested": 4,
+      "refs": [
+        "分镜3.png",
+        "哥哥妹妹.png",
+        "爸爸妈妈资产.png",
+        "客厅环境图.png"
+      ],
+      "mode": "全能参考",
+      "original_filename": "S03_回到室内.mp4",
+      "bytes": 16683796,
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S04": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-pxim49wxqa",
+      "duration_requested": 4,
+      "refs": [
+        "分镜4.png",
+        "爸爸妈妈资产.png",
+        "客厅环境图.png"
+      ],
+      "mode": "全能参考",
+      "original_filename": "S04_手机开启新风.mp4",
+      "bytes": 16155940,
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S05": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-L12Xq5T6p0",
+      "duration_requested": 4,
+      "refs": [
+        "分镜5.png",
+        "客厅环境图.png",
+        "爸爸妈妈资产.png",
+        "哥哥妹妹.png"
+      ],
+      "mode": "全能参考",
+      "original_filename": "S05_全屋新风.mp4",
+      "bytes": 15079573,
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S06": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-BS2wSJs8wW",
+      "duration_requested": 4,
+      "refs": [
+        "分镜6.png",
+        "哥哥妹妹.png",
+        "爸爸妈妈资产.png",
+        "客厅环境图.png"
+      ],
+      "mode": "全能参考",
+      "original_filename": "S06_秋日手作.mp4",
+      "bytes": 15341833,
+      "duration_actual": 4.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    },
+    "S07": {
+      "submissions": 1,
+      "status": "成功已下载并检查，采用原生成视频",
+      "node": "v-vOg4koAaKq",
+      "duration_requested": 6,
+      "refs": [
+        "分镜7.1.png",
+        "分镜7.2.png",
+        "爸爸妈妈资产.png",
+        "哥哥妹妹.png"
+      ],
+      "mode_note": "遵照用户后续明确指令，使用全能参考模式；7.1与7.2及人物资产共同绑定在同一任务，单条6秒，不使用首尾帧模式。",
+      "mode": "全能参考",
+      "original_filename": "S07_睡前陪伴新风收尾.mp4",
+      "bytes": 18539072,
+      "duration_actual": 6.0,
+      "resolution": "1246x1662",
+      "fps": 30,
+      "regenerations": 0
+    }
+  },
+  "success_count": 7,
+  "failure_count": 0,
+  "points_before": 11737,
+  "points_after": 10874,
+  "points_difference": 863,
+  "final_output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第三篇新风篇mini新风机/成片输出/璀璨Mini新风_秋日生活方式_V1.mp4",
+  "final_duration": 16,
+  "native_draft": "/Users/weipeilong/Downloads/JianyingPro Drafts/10月11日"
+}

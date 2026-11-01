@@ -1,0 +1,50 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 4750000,
+    "text": "第三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8875000,
+    "duration": 1625000,
+    "text": "家"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10625000,
+    "duration": 1125000,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11875000,
+    "duration": 3250000,
+    "text": "老人"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15250000,
+    "duration": 5375000,
+    "text": "孩子"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22875000,
+    "duration": 1375000,
+    "text": "该"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24375000,
+    "duration": 2250000,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26625000,
+    "duration": 3375000,
+    "text": "选"
+  }
+]

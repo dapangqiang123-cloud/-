@@ -1,0 +1,474 @@
+[
+  {
+    "file": "重阳节璀璨/output/01_手绘水彩分镜1/shot01_watercolor_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/01_手绘水彩分镜1/shot01_watercolor_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/01_手绘水彩分镜1/shot01_watercolor_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/01_手绘水彩分镜1/shot01_watercolor_v3.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/01_手绘水彩分镜1/shot01_watercolor_v4.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/02_手绘水彩分镜2/shot02_watercolor_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/02_手绘水彩分镜2/shot02_watercolor_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/02_手绘水彩分镜2/shot02_watercolor_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/02_手绘水彩分镜2/shot02_watercolor_v3.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/02_手绘水彩分镜2/shot02_watercolor_v4.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/03_客厅资产图/livingroom_asset_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/03_客厅资产图/livingroom_asset_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/03_客厅资产图/livingroom_asset_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/03_客厅资产图/livingroom_asset_v3.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/04_户外资产图/outdoor_asset_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/04_户外资产图/outdoor_asset_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/04_户外资产图/outdoor_asset_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/04_户外资产图/outdoor_asset_v3.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/05_爷爷资产图_户外/grandpa_outdoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/05_爷爷资产图_户外/grandpa_outdoor_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/05_爷爷资产图_户外/grandpa_outdoor_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/06_爷爷资产图_室内/grandpa_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/06_爷爷资产图_室内/grandpa_indoor_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/06_爷爷资产图_室内/grandpa_indoor_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/07_奶奶资产图_户外/grandma_outdoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/07_奶奶资产图_户外/grandma_outdoor_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/07_奶奶资产图_户外/grandma_outdoor_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/08_奶奶资产图_室内/grandma_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/08_奶奶资产图_室内/grandma_indoor_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/08_奶奶资产图_室内/grandma_indoor_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/09_孙女资产图/granddaughter_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/09_孙女资产图/granddaughter_indoor_v1.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/09_孙女资产图/granddaughter_indoor_v2.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/10_分镜3_户外登高望远/shot03_realistic_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/10_分镜3_户外登高望远/shot03_realistic_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/10_分镜3_户外登高望远/shot03_realistic_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/11_分镜4_户外享受好空气/shot04_realistic_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/11_分镜4_户外享受好空气/shot04_realistic_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/11_分镜4_户外享受好空气/shot04_realistic_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/12_分镜5_户外转室内/shot05_transition_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/12_分镜5_户外转室内/shot05_transition_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/12_分镜5_户外转室内/shot05_transition_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/13_分镜6_三人舒适家居远景/shot06_family_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/13_分镜6_三人舒适家居远景/shot06_family_v1.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/13_分镜6_三人舒适家居远景/shot06_family_v2.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/13_分镜6_三人舒适家居远景/shot06_family_v2_refined.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/granddaughter_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/grandma_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/grandma_outdoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/grandpa_indoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/grandpa_outdoor_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/livingroom_asset_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/outdoor_asset_selected.png",
+    "width": 1672,
+    "height": 941,
+    "expected": "16:9",
+    "ratio_error": 0.0009446215609869579,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot01_watercolor_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot02_watercolor_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot03_realistic_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot04_realistic_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot05_transition_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  },
+  {
+    "file": "重阳节璀璨/output/99_精选定稿/shot06_family_selected.png",
+    "width": 941,
+    "height": 1672,
+    "expected": "9:16",
+    "ratio_error": 0.00029904306220096544,
+    "ok": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 1875000,
+    "text": "第"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2875000,
+    "duration": 3250000,
+    "text": "四"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9250000,
+    "duration": 2000000,
+    "text": "秋"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11375000,
+    "duration": 3625000,
+    "text": "冬关"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15000000,
+    "duration": 1750000,
+    "text": "窗"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17000000,
+    "duration": 1750000,
+    "text": "怕"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18750000,
+    "duration": 4625000,
+    "text": "憋闷"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25500000,
+    "duration": 1625000,
+    "text": "该"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27250000,
+    "duration": 2375000,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29625000,
+    "duration": 3625000,
+    "text": "选"
+  }
+]

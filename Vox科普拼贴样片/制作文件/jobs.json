@@ -1,0 +1,200 @@
+{
+  "projectId": "8d9cc701-cc72-496d-9246-9702773e5522",
+  "budget": 928,
+  "reserved": 29,
+  "jobs": {
+    "room": {
+      "nodeId": "node_2tedpy13z2",
+      "submitId": "d2a01df8-812e-4785-90a8-7bae9ca2a7bf",
+      "prompt": "A single freestanding cutaway living room photographed straight-on with slight elevated view, like an exquisite real architectural physical scale model. Entire room box with thick cream ceiling slab and left and right side walls and pale oak floor fully visible, generous pure white #FFFFFF background around all sides. Room interior is photoreal high-end warm minimalist home: ivory curved sofa, walnut oval coffee table, small art book, bronze floor lamp, sheer curtain at right closed window, no view through windows. Long narrow black HVAC ventilation slot integrated at the upper back wall just below the ceiling. One coherent simple rectangular room, beautiful realistic material texture and soft sunlight. A crisp photographic magazine cutout, not cartoon illustration. No plants, no nature, no mountains, no human, no text, no labels, no arrows, no diagrams, no appliances elsewhere. Centered square architectural object with complete silhouette, no shadow on white background.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "202610310045375D8104092CC0E18C99D5",
+      "status": {
+        "operationRef": "d2a01df8-812e-4785-90a8-7bae9ca2a7bf",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "5d8f8f0b-6507-4190-866d-b081c0b4b5ac",
+            "state": "succeeded",
+            "width": 4096,
+            "height": 4096,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/room.png",
+      "resourceId": "5d8f8f0b-6507-4190-866d-b081c0b4b5ac"
+    },
+    "hand": {
+      "nodeId": "node_e8p5hb6fcg",
+      "submitId": "73223d5f-a515-4bfc-bd7b-cfa8d9f3eda1",
+      "prompt": "Isolated photographic cutout of one realistic elegant adult female right hand and forearm, index finger extended pointing horizontally to the left, other fingers naturally curled, palm slightly down. Forearm enters from right edge, beige knit sweater cuff. Warm light skin, natural fingernails without polish, anatomically correct five fingers, sharp photographic details. Pure white #FFFFFF background, no shadow outside the hand, no object, no text. Side-on view for high-end editorial collage, whole index fingertip and wrist fully visible, warm soft lighting, generous white margins above and below.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "2026103100453948E547012BEB4F9A2458",
+      "status": {
+        "operationRef": "73223d5f-a515-4bfc-bd7b-cfa8d9f3eda1",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "2db32acb-76d0-448a-8475-7c9f5ce2cceb",
+            "state": "succeeded",
+            "width": 5404,
+            "height": 3040,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/hand.png",
+      "resourceId": "2db32acb-76d0-448a-8475-7c9f5ce2cceb"
+    },
+    "vo1": {
+      "nodeId": "node_9p782cnk7w",
+      "submitId": "a33715a9-843d-4a51-8149-3dc948d9df2a",
+      "prompt": "空调开着，就在换气？",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031004541671175A40B6B279952B8",
+      "status": {
+        "operationRef": "a33715a9-843d-4a51-8149-3dc948d9df2a",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "6418cbbe-88f8-4a8b-9e7f-a40bfc0d26dc",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/vo1.mp3",
+      "resourceId": "6418cbbe-88f8-4a8b-9e7f-a40bfc0d26dc"
+    },
+    "vo2": {
+      "nodeId": "node_daa5s5mvzc",
+      "submitId": "3e38fee6-61e2-4af0-aa4e-e757076eb003",
+      "prompt": "普通空调，主要循环调温。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "2026103100454484AD9E7EC54EDB8BA205",
+      "status": {
+        "operationRef": "3e38fee6-61e2-4af0-aa4e-e757076eb003",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "8ed3b102-d899-4beb-aff1-c8fd4f2c81aa",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/vo2.mp3",
+      "resourceId": "8ed3b102-d899-4beb-aff1-c8fd4f2c81aa"
+    },
+    "vo3": {
+      "nodeId": "node_kyntzx5nxv",
+      "submitId": "aa1739a4-a32d-43e5-861b-3aac51a6e051",
+      "prompt": "新风系统，引入室外空气。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031004546A798B8A149EA6387FDAE",
+      "status": {
+        "operationRef": "aa1739a4-a32d-43e5-861b-3aac51a6e051",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "bc9ca917-8855-4359-94bd-20a376ee6544",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/vo3.mp3",
+      "resourceId": "bc9ca917-8855-4359-94bd-20a376ee6544"
+    },
+    "vo4": {
+      "nodeId": "node_523hhq4cd3",
+      "submitId": "32dacb44-259f-4e27-b681-45f0436309d3",
+      "prompt": "一个管冷暖，一个管换气。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031004548066FD94A49A46F99E7CB",
+      "status": {
+        "operationRef": "32dacb44-259f-4e27-b681-45f0436309d3",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "8a5312ac-250f-4dd5-8ddc-65a171562a4f",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/vo4.mp3",
+      "resourceId": "8a5312ac-250f-4dd5-8ddc-65a171562a4f"
+    },
+    "vo5": {
+      "nodeId": "node_kkcx0mm07m",
+      "submitId": "37815f6e-c34a-401f-ab96-b50d45608ef3",
+      "prompt": "璀璨 Mini 新风，让家自在呼吸。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031004551B47901538B9A149A12DB",
+      "status": {
+        "operationRef": "37815f6e-c34a-401f-ab96-b50d45608ef3",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "133fdbb9-ebcd-4fae-a9ef-394ae729bcee",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox科普拼贴样片/素材/vo5.mp3",
+      "resourceId": "133fdbb9-ebcd-4fae-a9ef-394ae729bcee"
+    }
+  }
+}

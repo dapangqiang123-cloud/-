@@ -1,0 +1,941 @@
+{
+  "ok": true,
+  "strict": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/多空间选型_20261023/完整视频工程/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 10,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target #scene-q1 .lead not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target  not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target #scene-q2 .lead not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target  not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target #scene-q3 .lead not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target  not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target #scene-q4 .lead not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target  not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target #scene-end .lead not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      },
+      {
+        "code": "console_warning",
+        "severity": "warning",
+        "message": "GSAP target  not found. https://gsap.com",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "tresor-film",
+          "data-width": "1080",
+          "data-height": "1920",
+          "data-start": "0",
+          "data-duration": "84"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0,
+        "url": "http://127.0.0.1:63920/",
+        "line": 9
+      }
+    ]
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 18,
+    "findings": [
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 5.329,
+        "selector": "#scene-open > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 423.03,
+          "bottom": 253,
+          "width": 351.03,
+          "height": 41
+        },
+        "containerSelector": "#scene-q1 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "TRESOR / 多空间选型",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 351.03,
+          "height": 41
+        },
+        "firstSeen": 5.329,
+        "lastSeen": 5.329,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 5.329,
+        "selector": "#scene-open > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 271,
+          "right": 532,
+          "bottom": 513.16,
+          "width": 460,
+          "height": 242.16
+        },
+        "containerSelector": "#scene-q1 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "text": "适合你家的 空气答案",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 271,
+          "width": 460,
+          "height": 242.16
+        },
+        "firstSeen": 5.329,
+        "lastSeen": 5.329,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 10.237,
+        "selector": "#scene-q1 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 286.84,
+          "bottom": 253,
+          "width": 214.84,
+          "height": 41
+        },
+        "containerSelector": "#scene-air > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "01 / 先看空间",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 214.84,
+          "height": 41
+        },
+        "firstSeen": 10.237,
+        "lastSeen": 10.237,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 16.267,
+        "selector": "#scene-air > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 286.84,
+          "bottom": 253,
+          "width": 214.84,
+          "height": 41
+        },
+        "containerSelector": "#scene-c2 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "01 / 看懂依据",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 214.84,
+          "height": 41
+        },
+        "firstSeen": 16.267,
+        "lastSeen": 16.267,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 19,
+        "selector": "div.product-stage.c2 > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -521.91,
+          "top": 102.2,
+          "right": 1378.6,
+          "bottom": 1605.97,
+          "width": 1900.51,
+          "height": 1503.78
+        },
+        "containerSelector": "div.product-stage.c2 > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 506.16,
+          "right": 1008,
+          "bottom": 1266.16,
+          "width": 936,
+          "height": 760
+        },
+        "overflow": {
+          "left": 593.91,
+          "right": 370.6,
+          "top": 403.96,
+          "bottom": 339.81
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -521.91,
+          "y": 102.2,
+          "width": 1900.51,
+          "height": 1503.78
+        },
+        "firstSeen": 19,
+        "lastSeen": 19,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 23.279,
+        "selector": "#scene-c2 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 385.84,
+          "bottom": 253,
+          "width": 313.84,
+          "height": 41
+        },
+        "containerSelector": "#scene-q2 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "01 / 客餐厅舒适方案",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 313.84,
+          "height": 41
+        },
+        "firstSeen": 23.279,
+        "lastSeen": 23.279,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 32.254,
+        "selector": "#scene-rooms > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 292.63,
+          "bottom": 253,
+          "width": 220.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-c3 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "02 / 系统能力",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 220.63,
+          "height": 41
+        },
+        "firstSeen": 32.254,
+        "lastSeen": 32.254,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 36.5,
+        "selector": "div.product-stage.c3 > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -6.05,
+          "top": 506.16,
+          "right": 1112.26,
+          "bottom": 1445.8,
+          "width": 1118.32,
+          "height": 939.65
+        },
+        "containerSelector": "div.product-stage.c3 > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 506.16,
+          "right": 1008,
+          "bottom": 1336.16,
+          "width": 936,
+          "height": 830
+        },
+        "overflow": {
+          "left": 78.05,
+          "right": 104.26,
+          "bottom": 109.64
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -6.05,
+          "y": 506.16,
+          "width": 1118.32,
+          "height": 939.65
+        },
+        "firstSeen": 36.5,
+        "lastSeen": 36.5,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 46.277,
+        "selector": "#scene-q3 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 292.63,
+          "bottom": 253,
+          "width": 220.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "03 / 关心家人",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 220.63,
+          "height": 41
+        },
+        "firstSeen": 46.277,
+        "lastSeen": 46.277,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 51.326,
+        "selector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 292.63,
+          "bottom": 253,
+          "width": 220.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-c3d > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "03 / 空气健康",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 220.63,
+          "height": 41
+        },
+        "firstSeen": 51.326,
+        "lastSeen": 51.326,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 51.326,
+        "selector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 271,
+          "right": 624,
+          "bottom": 513.16,
+          "width": 552,
+          "height": 242.16
+        },
+        "containerSelector": "#scene-c3d > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "text": "空气净化能力 是关键",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 271,
+          "width": 552,
+          "height": 242.16
+        },
+        "firstSeen": 51.326,
+        "lastSeen": 51.326,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 55.5,
+        "selector": "div.product-stage.c3d > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -32.41,
+          "top": 477.54,
+          "right": 1066.62,
+          "bottom": 1400.84,
+          "width": 1099.03,
+          "height": 923.3
+        },
+        "containerSelector": "div.product-stage.c3d > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 506.16,
+          "right": 1008,
+          "bottom": 1336.16,
+          "width": 936,
+          "height": 830
+        },
+        "overflow": {
+          "left": 104.41,
+          "right": 58.62,
+          "top": 28.62,
+          "bottom": 64.68
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -32.41,
+          "y": 477.54,
+          "width": 1099.03,
+          "height": 923.3
+        },
+        "firstSeen": 55.5,
+        "lastSeen": 55.5,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 60.301,
+        "selector": "#scene-c3d > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 358.63,
+          "bottom": 253,
+          "width": 286.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-q4 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "03 / 健康空气方案",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 286.63,
+          "height": 41
+        },
+        "firstSeen": 60.301,
+        "lastSeen": 60.301,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 60.301,
+        "selector": "#scene-c3d > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 271,
+          "right": 750.78,
+          "bottom": 400,
+          "width": 678.78,
+          "height": 129
+        },
+        "containerSelector": "#scene-q4 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "text": "璀璨 C3D 多联机",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 271,
+          "width": 678.78,
+          "height": 129
+        },
+        "firstSeen": 60.301,
+        "lastSeen": 60.301,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 60.301,
+        "selector": "#scene-c3d > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 420.16,
+          "right": 458.58,
+          "bottom": 470.16,
+          "width": 386.58,
+          "height": 50
+        },
+        "containerSelector": "#scene-q4 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "text": "Hi-nano Ultra 健康模块",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 420.16,
+          "width": 386.58,
+          "height": 50
+        },
+        "firstSeen": 60.301,
+        "lastSeen": 60.301,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 71.239,
+        "selector": "#scene-fresh > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 292.63,
+          "bottom": 253,
+          "width": 220.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-mini > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "04 / 换气能力",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 220.63,
+          "height": 41
+        },
+        "firstSeen": 71.239,
+        "lastSeen": 71.239,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 75,
+        "selector": "div.product-stage.mini > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 60.87,
+          "top": 473.11,
+          "right": 1052.17,
+          "bottom": 1464.42,
+          "width": 991.3,
+          "height": 991.3
+        },
+        "containerSelector": "div.product-stage.mini > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 506.16,
+          "right": 1008,
+          "bottom": 1266.16,
+          "width": 936,
+          "height": 760
+        },
+        "overflow": {
+          "left": 11.13,
+          "right": 44.17,
+          "top": 33.05,
+          "bottom": 198.26
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 60.87,
+          "y": 473.11,
+          "width": 991.3,
+          "height": 991.3
+        },
+        "firstSeen": 75,
+        "lastSeen": 75,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 78.25,
+        "selector": "#scene-mini > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 358.63,
+          "bottom": 253,
+          "width": 286.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-end > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "04 / 新鲜空气方案",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 286.63,
+          "height": 41
+        },
+        "firstSeen": 78.25,
+        "lastSeen": 78.25,
+        "occurrences": 1,
+        "heldMs": 0
+      }
+    ],
+    "duration": 84,
+    "samples": [
+      2.5,
+      7.5,
+      13,
+      19,
+      25,
+      29.5,
+      36.5,
+      43.5,
+      48.5,
+      55.5,
+      62.5,
+      68,
+      75,
+      81
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 18,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      2.5,
+      19,
+      36.5,
+      55.5,
+      81
+    ],
+    "checked": 59,
+    "passed": 59
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": true,
+    "files": [
+      "snapshots/frame-00-at-2.5s.png",
+      "snapshots/frame-01-at-19.0s.png",
+      "snapshots/frame-02-at-36.5s.png",
+      "snapshots/frame-03-at-55.5s.png",
+      "snapshots/frame-04-at-81.0s.png"
+    ],
+    "times": [
+      2.5,
+      19,
+      36.5,
+      55.5,
+      81
+    ],
+    "findingFiles": []
+  },
+  "_meta": {
+    "version": "0.8.96",
+    "latestVersion": "0.8.163",
+    "updateAvailable": true
+  }
+}

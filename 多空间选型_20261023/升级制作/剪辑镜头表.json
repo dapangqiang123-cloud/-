@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "at": 0,
+    "duration": 2,
+    "source": "talent17.mov",
+    "inPoint": 8,
+    "name": "客餐厅开场"
+  },
+  {
+    "id": 2,
+    "at": 2,
+    "duration": 3,
+    "source": "talent11.mov",
+    "inPoint": 88,
+    "name": "系列片头"
+  },
+  {
+    "id": 3,
+    "at": 5,
+    "duration": 5,
+    "source": "talent17.mov",
+    "inPoint": 67.2,
+    "name": "第一问",
+    "outPoint": 70.2,
+    "speed": 0.6
+  },
+  {
+    "id": 4,
+    "at": 10,
+    "duration": 3,
+    "source": "talent17.mov",
+    "inPoint": 51.2,
+    "name": "真实送风口"
+  },
+  {
+    "id": 5,
+    "at": 13,
+    "duration": 3,
+    "source": "talent15.mp4",
+    "inPoint": 54,
+    "name": "送风原理"
+  },
+  {
+    "id": 6,
+    "at": 16,
+    "duration": 7,
+    "source": "P01.mp4",
+    "inPoint": 0,
+    "name": "C2产品"
+  },
+  {
+    "id": 7,
+    "at": 23,
+    "duration": 4,
+    "source": "talent11.mov",
+    "inPoint": 88,
+    "name": "第二问",
+    "outPoint": 91,
+    "speed": 0.75
+  },
+  {
+    "id": 8,
+    "at": 27,
+    "duration": 5,
+    "source": "A02.mp4",
+    "inPoint": 1,
+    "name": "空间剖切"
+  },
+  {
+    "id": 9,
+    "at": 32,
+    "duration": 3,
+    "source": "P02.mp4",
+    "inPoint": 0,
+    "name": "C3微距"
+  },
+  {
+    "id": 10,
+    "at": 35,
+    "duration": 2,
+    "source": "talent20.mp4",
+    "inPoint": 66,
+    "name": "压缩机"
+  },
+  {
+    "id": 11,
+    "at": 37,
+    "duration": 2,
+    "source": "talent15.mp4",
+    "inPoint": 73.6,
+    "name": "液冷",
+    "outPoint": 74.8,
+    "speed": 0.6
+  },
+  {
+    "id": 12,
+    "at": 39,
+    "duration": 2,
+    "source": "P02.mp4",
+    "inPoint": 5,
+    "name": "C3全貌"
+  },
+  {
+    "id": 13,
+    "at": 41,
+    "duration": 3,
+    "source": "talent11.mov",
+    "inPoint": 118,
+    "name": "第三问"
+  },
+  {
+    "id": 14,
+    "at": 44,
+    "duration": 2,
+    "source": "talent11.mov",
+    "inPoint": 14,
+    "name": "儿童特写",
+    "outPoint": 15.6,
+    "speed": 0.8
+  },
+  {
+    "id": 15,
+    "at": 46,
+    "duration": 3,
+    "source": "talent15.mp4",
+    "inPoint": 48.2,
+    "name": "健康模块原理",
+    "outPoint": 50.6,
+    "speed": 0.8
+  },
+  {
+    "id": 16,
+    "at": 49,
+    "duration": 2,
+    "source": "talent11.mov",
+    "inPoint": 16,
+    "name": "亲子呼吸",
+    "outPoint": 17.7,
+    "speed": 0.85
+  },
+  {
+    "id": 17,
+    "at": 51,
+    "duration": 7,
+    "source": "P03.mp4",
+    "inPoint": 0,
+    "name": "C3D产品"
+  },
+  {
+    "id": 18,
+    "at": 58,
+    "duration": 2,
+    "source": "talent11.mov",
+    "inPoint": 119,
+    "name": "亲子阅读"
+  },
+  {
+    "id": 19,
+    "at": 60,
+    "duration": 2,
+    "source": "talent6.mp4",
+    "inPoint": 0.1,
+    "name": "秋日窗外",
+    "outPoint": 1.6,
+    "speed": 0.75
+  },
+  {
+    "id": 20,
+    "at": 62,
+    "duration": 3,
+    "source": "talent6.mp4",
+    "inPoint": 2.4,
+    "name": "关闭窗户"
+  },
+  {
+    "id": 21,
+    "at": 65,
+    "duration": 3,
+    "source": "talent17.mov",
+    "inPoint": 67.2,
+    "name": "室内舒适",
+    "outPoint": 70.2,
+    "speed": 1
+  },
+  {
+    "id": 22,
+    "at": 68,
+    "duration": 3,
+    "source": "A03.mp4",
+    "inPoint": 2,
+    "name": "过滤微距"
+  },
+  {
+    "id": 23,
+    "at": 71,
+    "duration": 2,
+    "source": "P04.mp4",
+    "inPoint": 0,
+    "name": "Mini管口细节"
+  },
+  {
+    "id": 24,
+    "at": 73,
+    "duration": 3,
+    "source": "mini",
+    "inPoint": 0,
+    "name": "Mini原始产品"
+  },
+  {
+    "id": 25,
+    "at": 76,
+    "duration": 2,
+    "source": "A03.mp4",
+    "inPoint": 6,
+    "name": "洁净空气"
+  },
+  {
+    "id": 26,
+    "at": 78,
+    "duration": 2,
+    "source": "talent11.mov",
+    "inPoint": 88,
+    "name": "生活收束"
+  },
+  {
+    "id": 27,
+    "at": 80,
+    "duration": 4,
+    "source": "talent17.mov",
+    "inPoint": 8,
+    "name": "品牌落版"
+  }
+]

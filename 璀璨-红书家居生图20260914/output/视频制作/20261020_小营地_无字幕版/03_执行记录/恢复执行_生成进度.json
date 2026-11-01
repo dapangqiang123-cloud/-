@@ -1,0 +1,15 @@
+{
+  "recordType": "历史早期单图参考试运行，不是最终状态",
+  "supersededBy": "最终执行清单.json",
+  "stage": "historical_S01_downloaded",
+  "successfulShots": [
+    "S01"
+  ],
+  "submitted": 1,
+  "creditsBefore": 8107,
+  "creditsAfter": 7963,
+  "observedCharge": 144,
+  "originalVideo": "/Users/weipeilong/Downloads/视频节点 1 (22).mp4",
+  "savedVideo": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914/output/视频制作/20261020_小营地_无字幕版/01_LibTV视频/S01_秋雨入窗.mp4",
+  "technicalRetryCount": 0
+}

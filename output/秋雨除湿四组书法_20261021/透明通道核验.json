@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_一场秋雨一场寒.png",
+    "width": 1867,
+    "height": 842,
+    "alpha": true,
+    "fullyTransparent": 709490,
+    "partialAlpha": 861988,
+    "opaque": 536,
+    "topInk": [
+      [
+        "96,55,28",
+        2350
+      ],
+      [
+        "95,54,27",
+        2202
+      ]
+    ],
+    "nativePixelsPreserved": true
+  },
+  {
+    "file": "02_除湿不减舒适.png",
+    "width": 1867,
+    "height": 842,
+    "alpha": true,
+    "fullyTransparent": 879746,
+    "partialAlpha": 690975,
+    "opaque": 1293,
+    "topInk": [
+      [
+        "94,54,26",
+        2932
+      ],
+      [
+        "95,55,27",
+        2881
+      ]
+    ],
+    "nativePixelsPreserved": true
+  },
+  {
+    "file": "03_40%-80%精准控湿.png",
+    "width": 1866,
+    "height": 843,
+    "alpha": true,
+    "fullyTransparent": 805669,
+    "partialAlpha": 766118,
+    "opaque": 1251,
+    "topInk": [
+      [
+        "98,62,35",
+        2806
+      ],
+      [
+        "98,62,34",
+        2308
+      ]
+    ],
+    "nativePixelsPreserved": true
+  },
+  {
+    "file": "04_璀璨中央空调C3D系列.png",
+    "width": 1866,
+    "height": 843,
+    "alpha": true,
+    "fullyTransparent": 508095,
+    "partialAlpha": 1064889,
+    "opaque": 54,
+    "topInk": [
+      [
+        "103,62,32",
+        1347
+      ],
+      [
+        "102,61,32",
+        1324
+      ]
+    ],
+    "nativePixelsPreserved": true
+  }
+]

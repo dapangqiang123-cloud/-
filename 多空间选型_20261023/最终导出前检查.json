@@ -1,0 +1,710 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/多空间选型_20261023/完整视频工程/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 17,
+    "findings": [
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "#scene-c2 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 385.84,
+          "bottom": 253,
+          "width": 313.84,
+          "height": 41
+        },
+        "containerSelector": "#scene-q2",
+        "text": "01 / 客餐厅舒适方案",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 313.84,
+          "height": 41
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "#scene-c2 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 271,
+          "right": 587.67,
+          "bottom": 400,
+          "width": 515.67,
+          "height": 129
+        },
+        "containerSelector": "#scene-q2",
+        "text": "璀璨 C2 艺境",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 271,
+          "width": 515.67,
+          "height": 129
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "#scene-c2 > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 420.16,
+          "right": 324,
+          "bottom": 470.16,
+          "width": 252,
+          "height": 50
+        },
+        "containerSelector": "#scene-q2",
+        "text": "客餐厅中央空调",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 420.16,
+          "width": 252,
+          "height": 50
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "div.big-stat > b:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 1322.16,
+          "right": 266.66,
+          "bottom": 1517.16,
+          "width": 194.66,
+          "height": 195
+        },
+        "containerSelector": "#scene-q2",
+        "text": "18",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 1322.16,
+          "width": 194.66,
+          "height": 195
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "div.big-stat > b:nth-of-type(1) > span:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 266.66,
+          "top": 1421.16,
+          "right": 320.81,
+          "bottom": 1494.16,
+          "width": 54.16,
+          "height": 73
+        },
+        "containerSelector": "#scene-q2",
+        "text": "m",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 266.66,
+          "y": 1421.16,
+          "width": 54.16,
+          "height": 73
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "div.big-stat > p:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 358.81,
+          "top": 1428.16,
+          "right": 554.81,
+          "bottom": 1497.16,
+          "width": 196,
+          "height": 69
+        },
+        "containerSelector": "#scene-q2",
+        "text": "超远送风",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 358.81,
+          "y": 1428.16,
+          "width": 196,
+          "height": 69
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "#scene-c2 > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 1542.16,
+          "right": 516,
+          "bottom": 1594.16,
+          "width": 444,
+          "height": 52
+        },
+        "containerSelector": "#scene-q2",
+        "text": "舒适，从客厅延伸到餐厅。",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 1542.16,
+          "width": 444,
+          "height": 52
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "#scene-c2 > div:nth-of-type(1) > p:nth-of-type(2)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 1632.66,
+          "right": 647,
+          "bottom": 1664.66,
+          "width": 575,
+          "height": 32
+        },
+        "containerSelector": "#scene-q2",
+        "text": "产品参数据品牌资料，实际效果受户型及安装条件影响。",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 1632.66,
+          "width": 575,
+          "height": 32
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 23.333,
+        "selector": "div.product-stage.c2 > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -521.91,
+          "top": 102.2,
+          "right": 1378.6,
+          "bottom": 1605.97,
+          "width": 1900.51,
+          "height": 1503.78
+        },
+        "containerSelector": "div.product-stage.c2 > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 506.16,
+          "right": 1008,
+          "bottom": 1266.16,
+          "width": 936,
+          "height": 760
+        },
+        "overflow": {
+          "left": 593.91,
+          "right": 370.6,
+          "top": 403.96,
+          "bottom": 339.81
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -521.91,
+          "y": 102.2,
+          "width": 1900.51,
+          "height": 1503.78
+        },
+        "firstSeen": 23.333,
+        "lastSeen": 23.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          23.333
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 32.667,
+        "selector": "div.product-stage.c3 > svg:nth-of-type(1) > image:nth-of-type(1)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -6.05,
+          "top": 510.39,
+          "right": 1112.26,
+          "bottom": 1450.04,
+          "width": 1118.32,
+          "height": 939.65
+        },
+        "containerSelector": "div.product-stage.c3 > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 510.39,
+          "right": 1008,
+          "bottom": 1340.39,
+          "width": 936,
+          "height": 830
+        },
+        "overflow": {
+          "left": 78.05,
+          "right": 104.26,
+          "bottom": 109.65
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -6.05,
+          "y": 510.39,
+          "width": 1118.32,
+          "height": 939.65
+        },
+        "firstSeen": 32.667,
+        "lastSeen": 32.667,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          32.667
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 212,
+          "right": 292.63,
+          "bottom": 253,
+          "width": 220.63,
+          "height": 41
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "03 / 空气健康",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 212,
+          "width": 220.63,
+          "height": 41
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 271,
+          "right": 624,
+          "bottom": 513.16,
+          "width": 552,
+          "height": 242.16
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "空气净化能力是关键",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 271,
+          "width": 552,
+          "height": 242.16
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "#scene-clean > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 533.31,
+          "right": 468,
+          "bottom": 583.31,
+          "width": 396,
+          "height": 50
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "关注甲醛、细菌和异味。",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 533.31,
+          "width": 396,
+          "height": 50
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "g.clean-core > text:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 461.33,
+          "top": 973.71,
+          "right": 618.67,
+          "bottom": 1028.17,
+          "width": 157.34,
+          "height": 54.47
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "三重净化",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 461.33,
+          "y": 973.71,
+          "width": 157.34,
+          "height": 54.47
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "g.clean-core > text:nth-of-type(2)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 452.79,
+          "top": 1046.33,
+          "right": 627.21,
+          "bottom": 1084.66,
+          "width": 174.43,
+          "height": 38.33
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "Hi-nano Ultra",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 452.79,
+          "y": 1046.33,
+          "width": 174.43,
+          "height": 38.33
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "#scene-clean > div:nth-of-type(1) > p:nth-of-type(1)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 1504.31,
+          "right": 553,
+          "bottom": 1556.31,
+          "width": 481,
+          "height": 52
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "让家里的空气，也得到照顾。",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 1504.31,
+          "width": 481,
+          "height": 52
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      },
+      {
+        "code": "text_occluded",
+        "severity": "info",
+        "time": 51.333,
+        "selector": "#scene-clean > div:nth-of-type(1) > p:nth-of-type(2)",
+        "message": "Text is hidden beneath an opaque element.",
+        "rect": {
+          "left": 72,
+          "top": 1594.81,
+          "right": 601,
+          "bottom": 1626.81,
+          "width": 529,
+          "height": 32
+        },
+        "containerSelector": "#scene-c3d",
+        "text": "净化过程为概念示意，不代表实测效率或净化速度。",
+        "fixHint": "Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.",
+        "coveredFraction": 1,
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 72,
+          "y": 1594.81,
+          "width": 529,
+          "height": 32
+        },
+        "firstSeen": 51.333,
+        "lastSeen": 51.333,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          51.333
+        ]
+      }
+    ],
+    "duration": 84,
+    "samples": [
+      4.667,
+      14,
+      23.333,
+      32.667,
+      42,
+      51.333,
+      60.667,
+      70,
+      79.333
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 17,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      4.667,
+      23.333,
+      42,
+      60.667,
+      79.333
+    ],
+    "checked": 53,
+    "passed": 53
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "8bbfe862-2bee-4ba6-b0db-234ba1377f4b",
+    "revision": null,
+    "report": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/多空间选型_20261023/完整视频工程/.hyperframes/artifacts/checks/8bbfe862-2bee-4ba6-b0db-234ba1377f4b.json",
+    "attribution": "unversioned"
+  },
+  "_meta": {
+    "version": "0.8.163",
+    "latestVersion": "0.8.185",
+    "updateAvailable": true
+  }
+}

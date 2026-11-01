@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_3jn98ty8e1",
+        "maxCredits": 42
+      },
+      {
+        "nodeId": "node_w9txcdr5vp",
+        "maxCredits": 42
+      },
+      {
+        "nodeId": "node_q9d88d1rnx",
+        "maxCredits": 42
+      },
+      {
+        "nodeId": "node_wapggnrq83",
+        "maxCredits": 42
+      }
+    ],
+    "totalMaxCredits": 168,
+    "draftVersion": 18,
+    "confirmable": true,
+    "confirmationRequired": true
+  },
+  "meta": {
+    "requestId": "2026102301451110E40A7FD8B835D18148"
+  }
+}

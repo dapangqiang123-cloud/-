@@ -1,0 +1,106 @@
+[
+  {
+    "file": "分镜1.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2648643,
+    "sha256": "0ae280d70f4b3cb50a719425d01b9c65a728863565ae40a771077336bd4c6856"
+  },
+  {
+    "file": "分镜2.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2681865,
+    "sha256": "7aab927c8b4918658d40375bde575aa194caee199bf0b78dbb76bc5f24fe77ba"
+  },
+  {
+    "file": "分镜3.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2173136,
+    "sha256": "70d4b78b657b5da0ccbe8c121f103c6fdf9041478c68fe21ee394a17030ab68d"
+  },
+  {
+    "file": "分镜4.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2179166,
+    "sha256": "cce505cb0e69077d5e399d85b72f58a544ee3548558ce0935fb3e1f626c00518"
+  },
+  {
+    "file": "分镜5.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2122712,
+    "sha256": "e616c33a76fa99aa6294bbad44fec2a7536e18cb56e1bedc278a578806121632"
+  },
+  {
+    "file": "分镜6.png",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "bytes": 2137251,
+    "sha256": "ba8f89fc79b88bc234b2e717df7376e383778837d2195e17b002920f2eceafab"
+  },
+  {
+    "file": "资产图-C3外机侧视图.jpg",
+    "width": 2560,
+    "height": 2151,
+    "mode": "RGB",
+    "bytes": 932665,
+    "sha256": "9ac4354bb9dff6bdaa90ed7194942afc427cd1880f04d8f9d17bb232c265b550"
+  },
+  {
+    "file": "资产图-C3外机正视图.jpg",
+    "width": 2560,
+    "height": 2151,
+    "mode": "RGB",
+    "bytes": 1091518,
+    "sha256": "7f7b8d6c3b6256b0655055853f36e8611de9afba4c11a6c7573f2593f2862668"
+  },
+  {
+    "file": "资产图-儿童、小狗.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "bytes": 1899586,
+    "sha256": "0781b7dbb3d6ef94895e444115e481520ac39efc05b46eb7c5322705a835c252"
+  },
+  {
+    "file": "资产图-客厅环境参考.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "bytes": 2403081,
+    "sha256": "afb95f1d98521458d3edbda602047a14e7e2bfffe506978e21b58c80390a4109"
+  },
+  {
+    "file": "资产图-爸爸妈妈.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "bytes": 1837560,
+    "sha256": "b79b1b34dd072318cd7b1394a0f8c5634ce47ab7c7939d7614d202c996d6dd0e"
+  },
+  {
+    "file": "资产图-线控器外观.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "bytes": 1000053,
+    "sha256": "cd8151b8931e9907fd26f3d7202b24ee32e44b28ee4e698981c5b9523159ba59"
+  },
+  {
+    "file": "资产图-线控器正面.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB",
+    "bytes": 1097878,
+    "sha256": "4ae610575449fef7f90ea7258d225cfa717196b550ed94c3333e3f2dbac564ad"
+  }
+]

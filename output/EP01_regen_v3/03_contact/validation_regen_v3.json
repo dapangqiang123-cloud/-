@@ -1,0 +1,113 @@
+{
+  "count": 11,
+  "all_9_16": true,
+  "files": [
+    {
+      "file": "EP01_00_card_Q_layengao_clean.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_00_card_Q_layengao_withtext.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_01_scene_livingroom_heightscale_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_02_scene_livingroom_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_03_diagram_biandiao_section_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_03_diagram_biandiao_section_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_05_scene_finished_open_livingdining_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_06_card_maidian_190mm_clean.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_06_card_maidian_190mm_withtext.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "ratio": 0.5625,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_07_scene_grand_ending_clean.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    },
+    {
+      "file": "EP01_07_scene_grand_ending_withtext.png",
+      "size": [
+        941,
+        1672
+      ],
+      "ratio": 0.562799,
+      "is_9_16": true
+    }
+  ],
+  "ending_pair_same_size": true,
+  "ending_diff_bbox": [
+    194,
+    1279,
+    744,
+    1451
+  ],
+  "ending_diff_confined_to_lower_region": true
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_304gqs0249",
+        "maxCredits": 90
+      },
+      {
+        "nodeId": "node_0khhqvghbk",
+        "maxCredits": 90
+      }
+    ],
+    "totalMaxCredits": 180,
+    "draftVersion": 7,
+    "confirmable": true,
+    "confirmationRequired": true
+  },
+  "meta": {
+    "requestId": "2026102802002628F533CC934F8A120329"
+  }
+}

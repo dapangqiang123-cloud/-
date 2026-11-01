@@ -1,0 +1,82 @@
+# Credentials and local authentication
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.aws/
+.ssh/
+.gnupg/
+credentials.json
+credentials-*.json
+client_secret*.json
+service-account*.json
+service_account*.json
+secrets.json
+secrets.yaml
+secrets.yml
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.npmrc
+.pypirc
+.netrc
+cookies*.json
+cookies*.txt
+storage-state*.json
+storageState*.json
+
+# Dependencies, environments and caches
+node_modules
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.npm/
+.next/
+.parcel-cache/
+.turbo/
+.film/cache/
+.transcode-cache/
+.playwright-mcp/
+logs/
+
+# Temporary files and operating-system metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+~$*
+*.log
+*.log.*
+*.mbtree
+*.pid
+*.part
+*.crdownload
+*.downloading
+
+# Local upload audit (may contain private local paths)
+/GitHub上传检查/
+
+# Duplicate archives containing macOS metadata; all useful entries were verified
+# against standalone project files by size and CRC before excluding these copies.
+/outputs/01a051d8-e56f-7941-819f-d16cb74c3c9b/分镜图_14镜每镜2张_4K.zip
+/小编穿越安装空调篇/人物服装参考/归档.zip
+/技能/璀璨红书家居.zip
+
+# Keep source assets, rendered sequences, finished outputs and editable projects.
+# Large binary files are tracked with Git LFS; they are not omitted.

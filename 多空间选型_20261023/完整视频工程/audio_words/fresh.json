@@ -1,0 +1,68 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 3875000,
+    "text": "重点"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4875000,
+    "duration": 2375000,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7500000,
+    "duration": 9125000,
+    "text": "新风换气"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18500000,
+    "duration": 1250000,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19750000,
+    "duration": 1875000,
+    "text": "开"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21625000,
+    "duration": 3250000,
+    "text": "窗"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27500000,
+    "duration": 1250000,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28750000,
+    "duration": 1375000,
+    "text": "能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30250000,
+    "duration": 4125000,
+    "text": "持续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34500000,
+    "duration": 3250000,
+    "text": "送入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38000000,
+    "duration": 8750000,
+    "text": "新鲜空气"
+  }
+]

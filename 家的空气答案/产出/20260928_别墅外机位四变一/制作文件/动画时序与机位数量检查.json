@@ -1,0 +1,251 @@
+{
+  "states": [
+    {
+      "time": 1.6,
+      "units": [
+        {
+          "id": "unit-a",
+          "opacity": 1
+        },
+        {
+          "id": "unit-b",
+          "opacity": 1
+        },
+        {
+          "id": "unit-c",
+          "opacity": 1
+        },
+        {
+          "id": "unit-d",
+          "opacity": 1
+        }
+      ],
+      "text": ""
+    },
+    {
+      "time": 2.55,
+      "units": [
+        {
+          "id": "unit-a",
+          "opacity": 0
+        },
+        {
+          "id": "unit-b",
+          "opacity": 0.89
+        },
+        {
+          "id": "unit-c",
+          "opacity": 1
+        },
+        {
+          "id": "unit-d",
+          "opacity": 1
+        }
+      ],
+      "text": ""
+    },
+    {
+      "time": 2.92,
+      "units": [
+        {
+          "id": "unit-a",
+          "opacity": 0
+        },
+        {
+          "id": "unit-b",
+          "opacity": 0
+        },
+        {
+          "id": "unit-c",
+          "opacity": 0.8015
+        },
+        {
+          "id": "unit-d",
+          "opacity": 1
+        }
+      ],
+      "text": ""
+    },
+    {
+      "time": 5.4,
+      "units": [
+        {
+          "id": "unit-a",
+          "opacity": 0
+        },
+        {
+          "id": "unit-b",
+          "opacity": 0
+        },
+        {
+          "id": "unit-c",
+          "opacity": 0
+        },
+        {
+          "id": "unit-d",
+          "opacity": 1
+        }
+      ],
+      "text": ""
+    }
+  ],
+  "tweens": [
+    {
+      "start": 0.15,
+      "end": 0.85,
+      "targets": [
+        "villa"
+      ],
+      "properties": [
+        "opacity",
+        "y",
+        "immediateRender",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.16,
+      "end": 0.9600000000000001,
+      "targets": [
+        "ground-shadow",
+        "ground"
+      ],
+      "properties": [
+        "opacity",
+        "immediateRender",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.28,
+      "end": 0.93,
+      "targets": [
+        "garden-back",
+        "garden-front"
+      ],
+      "properties": [
+        "opacity",
+        "scale",
+        "transformOrigin",
+        "immediateRender",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.42,
+      "end": 1.22,
+      "targets": [
+        "unit-a",
+        "unit-b",
+        "unit-c",
+        "unit-d"
+      ],
+      "properties": [
+        "opacity",
+        "scale",
+        "y",
+        "immediateRender",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2,
+      "end": 2.48,
+      "targets": [
+        "unit-a"
+      ],
+      "properties": [
+        "opacity",
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.32,
+      "end": 2.8,
+      "targets": [
+        "unit-b"
+      ],
+      "properties": [
+        "opacity",
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.64,
+      "end": 3.12,
+      "targets": [
+        "unit-c"
+      ],
+      "properties": [
+        "opacity",
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.25,
+      "end": 3.8,
+      "targets": [
+        "retained-accent"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.25,
+      "end": 4.15,
+      "targets": [
+        "final-outline"
+      ],
+      "properties": [
+        "strokeDashoffset",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.3,
+      "end": 4.1499999999999995,
+      "targets": [
+        "bay"
+      ],
+      "properties": [
+        "fillOpacity",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.25,
+      "end": 4.95,
+      "targets": [
+        "retained-accent"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay"
+      ]
+    }
+  ],
+  "method": "GSAP inspection and sampled screenshots"
+}

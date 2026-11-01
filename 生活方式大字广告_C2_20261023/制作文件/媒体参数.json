@@ -1,0 +1,46 @@
+[
+  {
+    "key": "lounge",
+    "source": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/素材/05_客厅_Seedance2Fast_唯一一次.mp4",
+    "streams": [
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "duration": "6.080000"
+      },
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1112,
+        "height": 834,
+        "r_frame_rate": "60/1",
+        "duration": "6.016667"
+      }
+    ]
+  },
+  {
+    "key": "dining",
+    "source": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/生活方式大字广告_C2_20261023/素材/06_餐厅_Seedance2Fast_唯一一次.mp4",
+    "streams": [
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "duration": "6.080000"
+      },
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1112,
+        "height": 834,
+        "r_frame_rate": "60/1",
+        "duration": "6.016667"
+      }
+    ]
+  }
+]

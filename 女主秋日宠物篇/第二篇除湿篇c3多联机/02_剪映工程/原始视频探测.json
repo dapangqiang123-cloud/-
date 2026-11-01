@@ -1,0 +1,98 @@
+{
+  "S01.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "16641280"
+    }
+  },
+  "S02.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "18365269"
+    }
+  },
+  "S03.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "16299974"
+    }
+  },
+  "S04.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "15845091"
+    }
+  },
+  "S05.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "15778669"
+    }
+  },
+  "S06.mp4": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1246,
+        "height": 1662,
+        "r_frame_rate": "30/1"
+      }
+    ],
+    "format": {
+      "duration": "5.000000",
+      "size": "17839838"
+    }
+  }
+}

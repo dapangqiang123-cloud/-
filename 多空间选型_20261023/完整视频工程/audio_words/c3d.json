@@ -1,0 +1,98 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 5000000,
+    "text": "璀璨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6250000,
+    "duration": 1625000,
+    "text": "C"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7875000,
+    "duration": 2250000,
+    "text": "3"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10125000,
+    "duration": 1500000,
+    "text": "D"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11625000,
+    "duration": 1250000,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13000000,
+    "duration": 5250000,
+    "text": "联机"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21375000,
+    "duration": 4125000,
+    "text": "搭载"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25750000,
+    "duration": 5875000,
+    "text": "Hi-nano"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31750000,
+    "duration": 4750000,
+    "text": "Ultra"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36750000,
+    "duration": 3750000,
+    "text": "健康"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40625000,
+    "duration": 4750000,
+    "text": "模块"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48000000,
+    "duration": 3875000,
+    "text": "有效"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52000000,
+    "duration": 5500000,
+    "text": "除醛"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59125000,
+    "duration": 5375000,
+    "text": "除菌"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66250000,
+    "duration": 2375000,
+    "text": "除"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68750000,
+    "duration": 4375000,
+    "text": "异味"
+  }
+]

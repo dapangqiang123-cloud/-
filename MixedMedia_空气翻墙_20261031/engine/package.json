@@ -1,0 +1,12 @@
+{
+  "name": "cuican-air-through-wall",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "record": "node record.mjs",
+    "preview": "npx --yes serve -l 5177 ."
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

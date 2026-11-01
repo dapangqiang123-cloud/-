@@ -1,0 +1,38 @@
+[
+  {
+    "time": 0,
+    "pure_black_pixels": 0
+  },
+  {
+    "time": 0.5,
+    "pure_black_pixels": 0
+  },
+  {
+    "time": 1,
+    "pure_black_pixels": 1
+  },
+  {
+    "time": 1.5,
+    "pure_black_pixels": 0
+  },
+  {
+    "time": 2,
+    "pure_black_pixels": 1
+  },
+  {
+    "time": 2.5,
+    "pure_black_pixels": 1
+  },
+  {
+    "time": 3,
+    "pure_black_pixels": 1
+  },
+  {
+    "time": 3.5,
+    "pure_black_pixels": 2
+  },
+  {
+    "time": 3.966,
+    "pure_black_pixels": 4
+  }
+]

@@ -1,0 +1,29 @@
+<!doctype html><html lang="zh"><head><meta charset="utf-8"><script src="gsap.min.js"></script><style>
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#F4EDE4}
+#root{width:1080px;height:1920px;position:relative}.scene-content{width:100%;height:100%;padding:0;display:flex;flex-direction:column;gap:0}
+#plate{display:block;width:100%;height:100%;object-fit:fill}#air{position:absolute;inset:0;width:100%;height:100%;overflow:hidden}
+.ribbon{fill:none;stroke:#fff;stroke-width:38;opacity:.18;stroke-linecap:round}.rail{fill:none;stroke:#fff;stroke-width:1.3;opacity:.36}
+.streak{fill:none;stroke:#fff;stroke-width:14;opacity:.42;stroke-linecap:round;stroke-dasharray:190 390;filter:blur(1.6px)}.arrow{fill:#fff;opacity:0}
+</style></head><body><div id="root" data-composition-id="main" data-start="0" data-duration="7" data-width="1080" data-height="1920">
+<div id="scene" class="clip scene-content" data-start="0" data-duration="7" data-track-index="0"><img id="plate" src="clean-plate.png"></div>
+<svg id="air" viewBox="0 0 941 1672" aria-hidden="true"><defs>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="white" stop-opacity=".65"/><stop offset=".08" stop-color="white"/><stop offset=".77" stop-color="white"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+<mask id="fieldmask" maskUnits="userSpaceOnUse" x="195" y="190" width="520" height="1120"><rect x="195" y="190" width="520" height="1120" fill="url(#fade)"/></mask>
+<clipPath id="reveal"><rect id="revealrect" x="195" y="190" width="520" height="1120"/></clipPath>
+</defs><g id="wind" mask="url(#fieldmask)" clip-path="url(#reveal)"><g id="ribbons"></g><g id="streaks"></g><g id="arrows"></g></g></svg></div>
+<script>
+const ns="http://www.w3.org/2000/svg",paths=[];
+function el(tag,attrs,parent){let e=document.createElementNS(ns,tag);for(const [k,v]of Object.entries(attrs))e.setAttribute(k,v);document.getElementById(parent).appendChild(e);return e}
+for(let i=0;i<13;i++){const u=i/12,sx=355+225*u,ex=249+435*u,d='M '+sx+' 190 C '+sx+' 380 '+ex+' 590 '+ex+' 1300';
+el('path',{d,class:'ribbon'},'ribbons');el('path',{d,class:'rail'},'ribbons');paths.push(el('path',{d,class:'streak',id:'flow'+i},'streaks'));}
+const tl=gsap.timeline({paused:true});tl.from('#wind',{opacity:0,duration:.55,ease:'sine.out'},.15);
+tl.from('#revealrect',{scaleY:0,svgOrigin:'195 190',duration:2.05,ease:'power1.out'},.2);
+for(let i=0;i<13;i++)tl.fromTo('#flow'+i,{strokeDashoffset:Math.abs(i-6)*8},{strokeDashoffset:Math.abs(i-6)*8-2900,duration:6.8,ease:'none'},.2);
+for(const idx of [1,4,6,8,11]){const p=paths[idx],len=p.getTotalLength();for(let j=0;j<7;j++){
+ const id='arrow'+idx+'_'+j,a=el('path',{id,class:'arrow',d:'M -11 -13 L 0 -7 L 11 -13 L 0 13 Z'},'arrows');
+ const start=.28+j*.96+(idx%3)*.09,travel=2.5,coords=[];
+ for(let k=0;k<=45;k++){const q=p.getPointAtLength(len*k/45),q2=p.getPointAtLength(Math.min(len,len*k/45+2));coords.push({x:q.x,y:q.y,rotation:Math.atan2(q2.y-q.y,q2.x-q.x)*180/Math.PI-90,duration:k===0?0:travel/45,ease:'none'});}
+ tl.to(a,{keyframes:coords,ease:'none'},start);tl.to(a,{opacity:.88,duration:.14,ease:'power2.out'},start);tl.to(a,{opacity:0,duration:.35,ease:'sine.in'},start+travel-.35);
+}}
+window.__timelines={main:tl};window.seek=t=>{tl.seek(t,false)};tl.seek(0);
+</script></body></html>

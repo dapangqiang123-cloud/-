@@ -1,0 +1,74 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 3375000,
+    "text": "中央"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4500000,
+    "duration": 4125000,
+    "text": "空调"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8875000,
+    "duration": 2250000,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11125000,
+    "duration": 3500000,
+    "text": "选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20250000,
+    "duration": 3500000,
+    "text": "四个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23875000,
+    "duration": 5000000,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31500000,
+    "duration": 1625000,
+    "text": "理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33125000,
+    "duration": 1750000,
+    "text": "清"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35125000,
+    "duration": 1250000,
+    "text": "你"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36375000,
+    "duration": 1750000,
+    "text": "家"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38125000,
+    "duration": 875000,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39125000,
+    "duration": 5500000,
+    "text": "需求"
+  }
+]

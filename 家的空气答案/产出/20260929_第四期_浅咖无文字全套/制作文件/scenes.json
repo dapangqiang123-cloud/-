@@ -1,0 +1,68 @@
+[
+  {
+    "key": "镜2_A",
+    "id": 2,
+    "variant": "A",
+    "title": "大空间，要看三项能力",
+    "duration": 6,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜2_A",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜2_A_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜2_A_浅咖无文字UI_1080.mp4",
+    "reused": false
+  },
+  {
+    "key": "镜2_B",
+    "id": 2,
+    "variant": "B",
+    "title": "大空间，要看三项能力",
+    "duration": 6,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜2_B",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜2_B_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜2_B_浅咖无文字UI_1080.mp4",
+    "reused": false
+  },
+  {
+    "key": "镜5_A",
+    "id": 5,
+    "variant": "A",
+    "title": "让大空间，循环起来",
+    "duration": 7,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜5_A",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜5_A_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜5_A_浅咖无文字UI_1080.mp4",
+    "reused": true
+  },
+  {
+    "key": "镜5_B",
+    "id": 5,
+    "variant": "B",
+    "title": "让大空间，循环起来",
+    "duration": 7,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜5_B",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜5_B_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜5_B_浅咖无文字UI_1080.mp4",
+    "reused": false
+  },
+  {
+    "key": "镜6_A",
+    "id": 6,
+    "variant": "A",
+    "title": "一台，兼顾大客餐厅",
+    "duration": 7,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜6_A",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜6_A_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜6_A_浅咖无文字UI_1080.mp4",
+    "reused": false
+  },
+  {
+    "key": "镜6_B",
+    "id": 6,
+    "variant": "B",
+    "title": "一台，兼顾大客餐厅",
+    "duration": 7,
+    "dir": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/HyperFrames工程/镜6_B",
+    "v4": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/4K成片/镜6_B_浅咖无文字UI_4K.mp4",
+    "v1": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_浅咖无文字全套/1080预览/镜6_B_浅咖无文字UI_1080.mp4",
+    "reused": false
+  }
+]

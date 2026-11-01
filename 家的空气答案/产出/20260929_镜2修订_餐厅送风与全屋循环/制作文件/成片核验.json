@@ -1,0 +1,20 @@
+[
+  {
+    "key": "镜2_A",
+    "width": 2160,
+    "height": 3840,
+    "fps": "60/1",
+    "duration": 6,
+    "checkOK": true,
+    "distinctMovingFrames": true
+  },
+  {
+    "key": "镜2_B",
+    "width": 2160,
+    "height": 3840,
+    "fps": "60/1",
+    "duration": 6,
+    "checkOK": true,
+    "distinctMovingFrames": true
+  }
+]

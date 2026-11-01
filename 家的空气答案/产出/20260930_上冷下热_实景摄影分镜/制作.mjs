@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import {createRequire} from 'node:module';
+const require=createRequire('/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260929_第四期_木质大宽厅双方案/制作文件/final-qa.mjs');
+const sharp=require('sharp');
+const root="/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20260930_上冷下热_实景摄影分镜";
+const src='/Users/weipeilong/.codex/generated_images/01a0a5c8-b904-7e91-bfc1-ec819f67dbed/exec-40274e3d-4844-4446-b41d-e1333d04a8d7.png';
+await fs.copyFile(src,root+'/镜3_上冷下热_实景摄影感_原尺寸.png');
+const meta=await sharp(src).metadata();
+await sharp(src).resize(2160,3840,{fit:'cover'}).png().toFile(root+'/镜3_上冷下热_实景摄影感_4K放大版.png');
+console.log(JSON.stringify({native:[meta.width,meta.height],delivery:[2160,3840],root}));

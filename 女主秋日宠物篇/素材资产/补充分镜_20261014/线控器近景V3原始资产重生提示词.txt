@@ -1,0 +1,12 @@
+生成方式：内置 imagegen，基于原始资产全新生成。
+原始参考：线控器正视图.png；女主形象资产.png；客厅资产图.png。
+未使用旧版多轮修改结果作为底图；未锐化或放大。图像实际尺寸以文件为准，提示词中的期望输出尺寸不代表工具实际输出。
+确认要求：小线控器、产品对焦、虚化女主在前景且不遮挡产品、手指刚离开面板。
+采用文件：补镜02_线控器近景_V3_原始资产重生.png。
+
+完整采用提示词：
+Create ONE NEW photorealistic 3:4 portrait storyboard from ORIGINAL refs ONLY. Image1: sharp TRESOR controller. Image2: woman identity and cream knit wardrobe. Image3: original autumn living room and wallpapered pillar. Do not revise any previous generated image.
+MOST IMPORTANT COMPOSITION: a SMALL wall controller in a looser over-shoulder near shot. Controller occupies ONLY 8-10% of TOTAL IMAGE WIDTH and is only about ONE FIFTH the width of the wallpapered pillar front face. At 1086px wide its square measures about 100px, NOT 180 or 220px. Keep it physically small. Do not enlarge for typography. Camera stands farther back to show more wall and surrounding interior. Wall pillar front spans roughly x=30%-74% of frame. Controller centered around x=50%, y=37%. Lots of clear wallpaper around it. The woman is foreground on rightmost 25%, defocused dark hair, partial cheek, shoulder and cream cardigan, never overlaps panel. Background left shows original black-framed windows, ivory sheer, golden autumn trees and dining chairs; walnut background on far right; quiet cream luxury interior.
+Action: her right hand has just released power button and is starting to withdraw. Index fingertip sits 3cm DOWN AND RIGHT of panel bottom-right corner, clear visible empty gap, no fingertip touching panel or edge. Natural relaxed other fingers, connected arm, no anatomy errors. Show hand at about same wall distance as controller. ONLY woman foreground is intentionally out of focus. Product and nearby hand/wall are sharp focus.
+Product faithfully matches sharp original Image1: white square rounded panel, TRESOR wordmark, gray-green LCD 26.5°C, reference original icons and black printed Chinese 2x4 buttons. Crisp casing outline, clean print and segmented digits, precise realistic small-object detail. NOT a melted texture, NOT painterly. Render native maximum available resolution with fresh product detail, no upscale or sharpening effects. Request native 2304x3072 if possible.
+Lighting and photographic finish match original room: autumn afternoon sunlight from left, cream ivory beige walnut, natural soft shadows, 70mm photographic realism. One frame, not collage. No overlays, captions, watermark, icons or airflow. Keep controller truly small while in sharp focus; do not substitute a product macro. Fresh generation using only original assets.

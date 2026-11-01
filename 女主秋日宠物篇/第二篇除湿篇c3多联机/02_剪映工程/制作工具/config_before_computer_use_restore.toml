@@ -1,0 +1,149 @@
+notify = ["/Users/weipeilong/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/SkyComputerUseClient.app/Contents/MacOS/SkyComputerUseClient", "turn-ended"]
+model = "gpt-6-astra"
+model_reasoning_effort = "low"
+personality = "pragmatic"
+
+[desktop]
+followUpQueueMode = "queue"
+realtimeVoiceScreenContextEnabled = true
+conversationDetailMode = "STEPS_COMMANDS"
+appearanceTheme = "system"
+appearanceLightCodeThemeId = "everforest"
+selected-avatar-id = "fireball"
+
+[desktop.appearanceLightChromeTheme]
+accent = "#93b259"
+contrast = 45
+ink = "#5c6a72"
+opaqueWindows = false
+surface = "#fdf6e3"
+
+[desktop.appearanceLightChromeTheme.fonts]
+
+[desktop.appearanceLightChromeTheme.semanticColors]
+diffAdded = "#8da101"
+diffRemoved = "#f85552"
+skill = "#df69ba"
+
+[marketplaces.openai-bundled]
+source_type = "local"
+source = "/Users/weipeilong/.codex/.tmp/bundled-marketplaces/openai-bundled"
+
+[marketplaces.openai-primary-runtime]
+source_type = "local"
+source = "/Users/weipeilong/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime"
+
+[plugins."visualize@openai-bundled"]
+enabled = true
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."pdf@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."template-creator@openai-primary-runtime"]
+enabled = true
+
+[plugins."codex-app-tools@openai-bundled"]
+enabled = true
+
+[features]
+js_repl = false
+
+[shell_environment_policy.set]
+NODE_REPL_TRUSTED_BROWSER_CLIENT_SHA256S = "9230e2bd8b24b7ac7a0ba6774c64bf0d78ecdabbdd91d0ed627b02a587bae2df"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-07-24/realtime-voice-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-07-24/new-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/.codex/.chatgpt-projects/g-p-69de605489d88191a3b05ef055f681ba"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-07-27/nen"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-07-29/new-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-07-31/ni-h"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-08-12/realtime-voice-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/.codex/.chatgpt-projects/g-p-6a03035cb7648191a4c78ecacea437c9"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/.codex/.chatgpt-projects/g-p-6a2e63a9c81881919bdb498709952c01"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/海信空调世界杯倒计时篇"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-08-26/neng"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/拆机视频"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/入秋视频"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-09-01/users-weipeilong-desktop"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/海信空调二十四节气/海信空调风效"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/海信空调二十四节气"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-09-06/new-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-09-06/ni-h"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-09-06/new-chat-2"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Documents/Codex/2026-09-13/new-chat"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/瑾儿学姐"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/璀璨-红书家居生图20260914"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/3d项目"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/Claude迁移_20260928"]
+trust_level = "trusted"
+
+[projects."/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/生活助手"]
+trust_level = "trusted"
+
+[mcp_servers.cua_repl]
+command = "/Applications/ChatGPT.app/Contents/MacOS/ChatGPT"
+enabled = false

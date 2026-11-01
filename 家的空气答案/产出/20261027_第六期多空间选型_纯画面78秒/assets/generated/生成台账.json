@@ -1,0 +1,105 @@
+{
+  "cap_conservative_image_plus_video_generations": 8,
+  "image_calls": 3,
+  "video_calls": 1,
+  "jimeng_new_credits": 24,
+  "entries": [
+    {
+      "id": "G03_kf_v1",
+      "type": "ChatGPT_builtin_image",
+      "status": "not_approved_requires_revision",
+      "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v1_审阅.png",
+      "native_size": [
+        941,
+        1672
+      ],
+      "prompt_file": "G03_三房剖切_首帧提示词_v1.txt",
+      "issues": [
+        "主体上边界约14%/下边界约84%，未满足20%–75%安全区",
+        "右下角存在疑似竖向散热格栅/设备，必须移除",
+        "多处风口偏宽，必须缩成侧面极窄横缝",
+        "书刊可见图案需去除以防人脸或文字"
+      ]
+    },
+    {
+      "id": "G03_kf_v2",
+      "type": "ChatGPT_builtin_image",
+      "status": "rejected_by_user_too_dark",
+      "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v2_待确认.png",
+      "native_size": [
+        941,
+        1672
+      ],
+      "sha256": "0c994039d1cf35ff6df670133f1092f3392bde539a60c6fb9f84bd1e3e173389",
+      "prompt_file": "G03_三房剖切_首帧提示词_v2.txt",
+      "references": [
+        "../reference/H1_官方住宅_123s.png"
+      ],
+      "inspection": {
+        "look": "家具、织物、石材、门窗细节比代码测试更接近已确认风格；交用户确认，不自动视为已满意",
+        "layout": "主卧、次卧、书房，客餐厅和厨房；概念住宅，不是官方施工图",
+        "equipment": "未发现室外机/挂机/柜机/暖气片；高处水平隐蔽风口，无设备内部",
+        "text_face": "未发现可读文字、数字、水印或人脸",
+        "framing": "手工估算建筑主体纵向约18.5%–77.2%；接近用户约20%–75%留白，最终入片需再微调，未宣称精确安全区验收",
+        "pure_RGB_zero_pixels": 15,
+        "black_pixel_note": "原生成图15个阴影像素为纯黑；另存咖色暗部调色预览后为0，非重新生成"
+      },
+      "note": "原生941×1672，接近9:16；未放大或锐化，不是4K/1080成片。即梦仍未提交。",
+      "graded_candidate_file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v2_咖色暗部_待确认.png",
+      "user_feedback": "太黑了，不符合璀璨的配色风格"
+    },
+    {
+      "id": "G03_kf_v3",
+      "type": "ChatGPT_builtin_image",
+      "status": "approved_by_user_for_G03_video",
+      "file": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/assets/generated/G03_三房剖切_首帧_v3_明亮米白浅木_待确认.png",
+      "native_size": [
+        941,
+        1671
+      ],
+      "sha256": "bb313746ec37ea9686b1ae5cbaea4ffa4be8a933f3b82c59f060527990d7ba34",
+      "prompt_file": "G03_三房剖切_首帧提示词_v3_明亮版.txt",
+      "references": [
+        {
+          "path": "G03_三房剖切_首帧_v2_待确认.png",
+          "role": "清晰未调色图，仅锁定户型与机位，不继承暗色曝光"
+        },
+        {
+          "path": "../reference/H1_官方住宅_123s.png",
+          "role": "原始清晰官方帧，家具材质与细节参考"
+        }
+      ],
+      "inspection": {
+        "palette": "米白背景/墙体、浅暖木、大面积浅石材与亚麻，灰绿少量点缀，柔和晨光；待用户评价",
+        "layout": "保留上一版主卧、次卧、书房、客餐厅及走廊位置关系",
+        "prohibited": "未发现人脸、可读文字、额外空调设备或室外机；不含产品内部",
+        "pure_RGB_zero_pixels": 0
+      },
+      "note": "仅生图，不生成音频；原生尺寸如上，不放大或锐化，不提交即梦",
+      "user_confirmation": "用户回复“可以”，确认明亮米白浅木版"
+    },
+    {
+      "id": "G03_video_once",
+      "type": "Seedance_2.0_Fast_720p",
+      "status": "success_review_output_ready_awaiting_user_confirmation",
+      "nodeId": "node_fsr3thrzj0",
+      "submitId": "7b2e8061-b6f8-4e18-b51c-764a91309f5f",
+      "imageNodeId": "node_na52j7sq2x",
+      "duration_seconds": 4,
+      "count": 1,
+      "authorized_ceiling": 24,
+      "note": "这里只记录提交与上限，不把受理写成生成成功或最终净扣费。",
+      "resourceId": "68251d21-5b1c-46ef-9c8f-7c59ced4fd1e",
+      "creditsAmount": 24,
+      "review_sample": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_纯画面78秒/阶段2_样片/样片/G03_明亮三房_4秒_1080x1920_30fps_无声_交审版.mp4",
+      "raw_source": "video/G03_明亮三房_Seedance_720p_唯一原片.mp4",
+      "source_has_AAC_audio": true,
+      "review_audio_tracks": 0
+    }
+  ],
+  "remaining_calls_conservative": 4,
+  "jimeng_authorized_credit_ceiling_this_round": 24,
+  "jimeng_budget_reservation_including_history": 540,
+  "credit_record_kind": "nominal generated resource creditsAmount; final account settlement not verified",
+  "remaining_budget_conservative": 60
+}

@@ -1,0 +1,36 @@
+{
+  "version": "EP01_regen_v3",
+  "final_png_count": 11,
+  "regenerated_home_assets": [
+    "EP01_01",
+    "EP01_02",
+    "EP01_05",
+    "EP01_07"
+  ],
+  "vent_spec": "靠墙局部吊顶的竖向立面；横向细长矩形；内部仅沿长边贯通的均匀细密横百叶；无竖格、方格、单黑缝。",
+  "style_direction": "参考暖白矿物墙面、暖木、中古现代混搭、人字拼地板、自然侧光和真实居住感；所有户型与家具组合重新设计。",
+  "vent_qc": {
+    "EP01_01": "通过；单风口，吊顶立面，横向细百叶。",
+    "EP01_02": "通过；单风口，吊顶立面，横向细百叶。",
+    "EP01_05": "通过；单风口，吊顶立面，横向细百叶。",
+    "EP01_07": "首轮出现疑似第二风口，未收录；重跑1次后通过。"
+  },
+  "text_rule": "EP01_07 withtext由本轮接受的clean底图直接叠字，背景像素未独立生成。",
+  "older_versions_preserved": [
+    "output/EP01",
+    "output/EP01_grille_v2"
+  ],
+  "files": [
+    "EP01_00_card_Q_layengao_clean.png",
+    "EP01_00_card_Q_layengao_withtext.png",
+    "EP01_01_scene_livingroom_heightscale_clean.png",
+    "EP01_02_scene_livingroom_clean.png",
+    "EP01_03_diagram_biandiao_section_clean.png",
+    "EP01_03_diagram_biandiao_section_withtext.png",
+    "EP01_05_scene_finished_open_livingdining_clean.png",
+    "EP01_06_card_maidian_190mm_clean.png",
+    "EP01_06_card_maidian_190mm_withtext.png",
+    "EP01_07_scene_grand_ending_clean.png",
+    "EP01_07_scene_grand_ending_withtext.png"
+  ]
+}

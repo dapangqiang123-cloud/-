@@ -1,0 +1,6 @@
+interface:
+  display_name: "璀璨红书家居视觉"
+  short_description: "调用家居与风口图库，先规划真实松弛、有留白的小红书家居场景"
+  default_prompt: "用 $tresor-home-lifestyle 读取匹配家居参考，按这次文案先给我场景方案，确认后再生图。"
+policy:
+  allow_implicit_invocation: true

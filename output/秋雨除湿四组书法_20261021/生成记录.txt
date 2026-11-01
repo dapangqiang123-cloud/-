@@ -1,0 +1,64 @@
+工具：内置 image_gen；四张分别使用同一原始参考生成，保留原始PNG透明通道。
+参考图片：codex-clipboard-f49efe16-9646-4b6c-876e-ddf3f103935a.png
+咖色目标：#72543A，较参考原字色 #4C2F18 更浅；第二行白色，柔和咖色阴影。
+已人工核对四张文案和行数，检查含透明背景，无放大、锐化或多轮退化编辑。
+
+图1最终提示词：
+Use case: text-localization / Chinese calligraphic title design. Create ONE finished typography overlay PNG, strictly using the attached reference as the calligraphy and shadow style master. This is one asset, not a collage of alternatives.
+
+Use exactly the same flowing Chinese running-cursive BRUSH HANDWRITING character as the reference: graceful dynamic diagonals, dramatic long tapered brush exits, irregular natural handwritten rhythm, lively light-heavy stroke variation, connected gestures, plenty of white space within the strokes, no printed Kaiti/Song/Hei type, no generic modern font, no heavy black ink block letters. Two horizontal lines only, centered as a cohesive wide title. The first line is larger warm MEDIUM COFFEE BROWN (target #72543A, lighter and softer than the dark brown in the source; must not look black, chocolate-black, or very dark). The second line is PURE WHITE. Match the reference's soft warm brown offset drop shadows and diffuse shadow edges, especially behind the white text; shadows stay soft and feathered, do not become a solid panel. Keep the floating calligraphic typography appearance. Color and shadow treatment must be consistent between both lines.
+
+Wide canvas aspect ratio about 1200:541 with transparent margins; use the same overall two-line proportions as the reference. Adapt the character spacing and lettering size for the exact text so every character and long stroke is present and uncropped. Each given line remains ONE horizontal line; do not add third or fourth lines. Render Latin letters, numerals, percent signs and hyphen in the same handwritten brush spirit when present, clearly legible and exact.
+
+Genuine transparent-background PNG, with transparency everywhere except the two lines of calligraphy and their warm brown soft shadows. The irregular WHITE backing patch in the reference is NOT a requested background: do not copy that patch, any white sheet, opaque brown panel or colored plaque. No baked-in checkerboard. No old reference wording. No extra punctuation, quotes, logos, borders, frames, or decoration. The only visible text is the exact pair of lines below.
+
+EXACT COPY FOR ASSET 1 (render verbatim, without line numbers or quotation marks):
+FIRST LINE (medium coffee brown): 一场秋雨 一场寒
+SECOND LINE (white): 潮意悄然入室 舒适不该将就
+
+Proofread every character. In particular preserve this exact spelling and capitalization and the ordinary ASCII hyphen when present: 一场秋雨 一场寒.
+
+图2最终提示词：
+Use case: text-localization / Chinese calligraphic title design. Create ONE finished typography overlay PNG, strictly using the attached reference as the calligraphy and shadow style master. This is one asset, not a collage of alternatives.
+
+Use exactly the same flowing Chinese running-cursive BRUSH HANDWRITING character as the reference: graceful dynamic diagonals, dramatic long tapered brush exits, irregular natural handwritten rhythm, lively light-heavy stroke variation, connected gestures, plenty of white space within the strokes, no printed Kaiti/Song/Hei type, no generic modern font, no heavy black ink block letters. Two horizontal lines only, centered as a cohesive wide title. The first line is larger warm MEDIUM COFFEE BROWN (target #72543A, lighter and softer than the dark brown in the source; must not look black, chocolate-black, or very dark). The second line is PURE WHITE. Match the reference's soft warm brown offset drop shadows and diffuse shadow edges, especially behind the white text; shadows stay soft and feathered, do not become a solid panel. Keep the floating calligraphic typography appearance. Color and shadow treatment must be consistent between both lines.
+
+Wide canvas aspect ratio about 1200:541 with transparent margins; use the same overall two-line proportions as the reference. Adapt the character spacing and lettering size for the exact text so every character and long stroke is present and uncropped. Each given line remains ONE horizontal line; do not add third or fourth lines. Render Latin letters, numerals, percent signs and hyphen in the same handwritten brush spirit when present, clearly legible and exact.
+
+Genuine transparent-background PNG, with transparency everywhere except the two lines of calligraphy and their warm brown soft shadows. The irregular WHITE backing patch in the reference is NOT a requested background: do not copy that patch, any white sheet, opaque brown panel or colored plaque. No baked-in checkerboard. No old reference wording. No extra punctuation, quotes, logos, borders, frames, or decoration. The only visible text is the exact pair of lines below.
+
+EXACT COPY FOR ASSET 2 (render verbatim, without line numbers or quotation marks):
+FIRST LINE (medium coffee brown): 除湿不减舒适
+SECOND LINE (white): 照顾小小世界的每一份自在
+
+Proofread every character. In particular preserve this exact spelling and capitalization and the ordinary ASCII hyphen when present: 除湿不减舒适.
+
+图3最终提示词：
+Use case: text-localization / Chinese calligraphic title design. Create ONE finished typography overlay PNG, strictly using the attached reference as the calligraphy and shadow style master. This is one asset, not a collage of alternatives.
+
+Use exactly the same flowing Chinese running-cursive BRUSH HANDWRITING character as the reference: graceful dynamic diagonals, dramatic long tapered brush exits, irregular natural handwritten rhythm, lively light-heavy stroke variation, connected gestures, plenty of white space within the strokes, no printed Kaiti/Song/Hei type, no generic modern font, no heavy black ink block letters. Two horizontal lines only, centered as a cohesive wide title. The first line is larger warm MEDIUM COFFEE BROWN (target #72543A, lighter and softer than the dark brown in the source; must not look black, chocolate-black, or very dark). The second line is PURE WHITE. Match the reference's soft warm brown offset drop shadows and diffuse shadow edges, especially behind the white text; shadows stay soft and feathered, do not become a solid panel. Keep the floating calligraphic typography appearance. Color and shadow treatment must be consistent between both lines.
+
+Wide canvas aspect ratio about 1200:541 with transparent margins; use the same overall two-line proportions as the reference. Adapt the character spacing and lettering size for the exact text so every character and long stroke is present and uncropped. Each given line remains ONE horizontal line; do not add third or fourth lines. Render Latin letters, numerals, percent signs and hyphen in the same handwritten brush spirit when present, clearly legible and exact.
+
+Genuine transparent-background PNG, with transparency everywhere except the two lines of calligraphy and their warm brown soft shadows. The irregular WHITE backing patch in the reference is NOT a requested background: do not copy that patch, any white sheet, opaque brown panel or colored plaque. No baked-in checkerboard. No old reference wording. No extra punctuation, quotes, logos, borders, frames, or decoration. The only visible text is the exact pair of lines below.
+
+EXACT COPY FOR ASSET 3 (render verbatim, without line numbers or quotation marks):
+FIRST LINE (medium coffee brown): 40%-80%精准控湿
+SECOND LINE (white): 潮气霉味 一键退场
+
+Proofread every character. In particular preserve this exact spelling and capitalization and the ordinary ASCII hyphen when present: 40%-80%精准控湿.
+
+图4最终提示词：
+Use case: text-localization / Chinese calligraphic title design. Create ONE finished typography overlay PNG, strictly using the attached reference as the calligraphy and shadow style master. This is one asset, not a collage of alternatives.
+
+Use exactly the same flowing Chinese running-cursive BRUSH HANDWRITING character as the reference: graceful dynamic diagonals, dramatic long tapered brush exits, irregular natural handwritten rhythm, lively light-heavy stroke variation, connected gestures, plenty of white space within the strokes, no printed Kaiti/Song/Hei type, no generic modern font, no heavy black ink block letters. Two horizontal lines only, centered as a cohesive wide title. The first line is larger warm MEDIUM COFFEE BROWN (target #72543A, lighter and softer than the dark brown in the source; must not look black, chocolate-black, or very dark). The second line is PURE WHITE. Match the reference's soft warm brown offset drop shadows and diffuse shadow edges, especially behind the white text; shadows stay soft and feathered, do not become a solid panel. Keep the floating calligraphic typography appearance. Color and shadow treatment must be consistent between both lines.
+
+Wide canvas aspect ratio about 1200:541 with transparent margins; use the same overall two-line proportions as the reference. Adapt the character spacing and lettering size for the exact text so every character and long stroke is present and uncropped. Each given line remains ONE horizontal line; do not add third or fourth lines. Render Latin letters, numerals, percent signs and hyphen in the same handwritten brush spirit when present, clearly legible and exact.
+
+Genuine transparent-background PNG, with transparency everywhere except the two lines of calligraphy and their warm brown soft shadows. The irregular WHITE backing patch in the reference is NOT a requested background: do not copy that patch, any white sheet, opaque brown panel or colored plaque. No baked-in checkerboard. No old reference wording. No extra punctuation, quotes, logos, borders, frames, or decoration. The only visible text is the exact pair of lines below.
+
+EXACT COPY FOR ASSET 4 (render verbatim, without line numbers or quotation marks):
+FIRST LINE (medium coffee brown): 璀璨中央空调C3D系列
+SECOND LINE (white): 湿度拉满 家的舒适更要在线
+
+Proofread every character. In particular preserve this exact spelling and capitalization and the ordinary ASCII hyphen when present: 璀璨中央空调C3D系列.

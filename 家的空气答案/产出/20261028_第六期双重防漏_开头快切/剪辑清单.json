@@ -1,0 +1,106 @@
+[
+  {
+    "name": "01_风口旁泡顶起皮",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 7.0,
+    "duration": 1.2,
+    "crop": [
+      608,
+      1080,
+      850,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/01_风口旁泡顶起皮.mp4"
+  },
+  {
+    "name": "02_吊顶水渍霉斑",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 19.7,
+    "duration": 0.75,
+    "crop": [
+      608,
+      1080,
+      650,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/02_吊顶水渍霉斑.mp4"
+  },
+  {
+    "name": "03_受损细节冲击",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 21.0,
+    "duration": 0.55,
+    "crop": [
+      540,
+      960,
+      1050,
+      120
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/03_受损细节冲击.mp4"
+  },
+  {
+    "name": "04_拆装风口检修",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/工人安装出风口素材1.MP4",
+    "source_in": 1.2,
+    "duration": 1.2,
+    "crop": [
+      1216,
+      2160,
+      1100,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/04_拆装风口检修.mp4"
+  },
+  {
+    "name": "05_风口操作特写",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/产品素材片段/工人安装出风口素材2.MP4",
+    "source_in": 3.6,
+    "duration": 0.85,
+    "crop": [
+      1000,
+      1778,
+      1580,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/05_风口操作特写.mp4"
+  },
+  {
+    "name": "06_吊顶修复施工",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 9.1,
+    "duration": 0.95,
+    "crop": [
+      540,
+      960,
+      100,
+      30
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/06_吊顶修复施工.mp4"
+  },
+  {
+    "name": "07_受损墙面铲除",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 12.9,
+    "duration": 1.5,
+    "crop": [
+      608,
+      1080,
+      260,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/07_受损墙面铲除.mp4"
+  },
+  {
+    "name": "08_泡顶后果落点",
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/资料&客户提供/视频:达人素材/产品视频/11个卖点口播短视频/03.防漏水双重保护 男1-净版.mov",
+    "source_in": 21.4,
+    "duration": 1.0,
+    "crop": [
+      608,
+      1080,
+      920,
+      0
+    ],
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期双重防漏_开头快切/剪映分镜/08_泡顶后果落点.mp4"
+  }
+]

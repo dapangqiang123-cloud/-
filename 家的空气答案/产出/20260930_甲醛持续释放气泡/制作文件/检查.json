@@ -1,0 +1,151 @@
+{
+  "ok": false,
+  "strict": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 2.35,
+    "samples": [
+      0.131,
+      0.392,
+      0.653,
+      0.914,
+      1.175,
+      1.436,
+      1.697,
+      1.958,
+      2.219
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": false,
+    "errorCount": 2,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "contrast_aa_failure",
+        "severity": "error",
+        "message": "Contrast is 2.83:1; WCAG AA requires 3:1.",
+        "text": "甲醛",
+        "fg": "rgb(255,245,223)",
+        "bg": "rgb(158,146,120)",
+        "ratio": 2.83,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(74,71,65)",
+        "large": true,
+        "selector": "div > div > div:nth-of-type(31) > div:nth-of-type(2)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 709.856689453125,
+          "y": 1601.8614501953125,
+          "width": 133.63818359375,
+          "height": 133.63818359375
+        },
+        "time": 0.653
+      },
+      {
+        "code": "contrast_aa_failure",
+        "severity": "warning",
+        "message": "Contrast is 1.97:1; WCAG AA requires 3:1.",
+        "text": "HCHO",
+        "fg": "rgb(255,245,223)",
+        "bg": "rgb(184,176,170)",
+        "ratio": 1.97,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(98,94,86)",
+        "large": true,
+        "selector": "div > div > div:nth-of-type(29) > div:nth-of-type(2)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 440.1257019042969,
+          "y": 1506.4732666015625,
+          "width": 76.33920288085938,
+          "height": 76.3392333984375
+        },
+        "time": 2.219
+      },
+      {
+        "code": "contrast_aa_failure",
+        "severity": "error",
+        "message": "Contrast is 2.53:1; WCAG AA requires 3:1.",
+        "text": "甲醛",
+        "fg": "rgb(255,245,223)",
+        "bg": "rgb(161,155,153)",
+        "ratio": 2.53,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(81,78,71)",
+        "large": true,
+        "selector": "div > div > div:nth-of-type(31) > div:nth-of-type(2)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 747.8438110351562,
+          "y": 1316.263671875,
+          "width": 149.9727783203125,
+          "height": 149.9727783203125
+        },
+        "time": 2.219
+      }
+    ],
+    "enabled": true,
+    "samples": [
+      0.131,
+      0.653,
+      1.175,
+      1.697,
+      2.219
+    ],
+    "checked": 39,
+    "passed": 36
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "_meta": {
+    "version": "0.8.90",
+    "latestVersion": "0.8.96",
+    "updateAvailable": true
+  }
+}

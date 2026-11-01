@@ -1,0 +1,16 @@
+[
+ {"id":"open","start":0,"end":5,"voice":"中央空调怎么选？四个问题，理清你家的需求。","type":"intro"},
+ {"id":"q1","start":5,"end":10,"voice":"第一，客餐厅大空间，该怎么选？","type":"home"},
+ {"id":"air","start":10,"end":16,"voice":"别只看匹数，还要看内机风量和送风距离。","type":"air"},
+ {"id":"c2","start":16,"end":23,"voice":"璀璨C2艺境，十八米超远送风，让舒适覆盖客餐厅。","type":"product"},
+ {"id":"q2","start":23,"end":27,"voice":"第二，全屋都想装，该怎么选？","type":"family"},
+ {"id":"rooms","start":27,"end":32,"voice":"多房间一起用，品质和稳定性更重要。","type":"rooms"},
+ {"id":"c3","start":32,"end":41,"voice":"璀璨C3多联机，日系压缩机搭配液冷科技，高温稳定运行，守护全家舒适。","type":"product"},
+ {"id":"q3","start":41,"end":46,"voice":"第三，家有老人孩子，该怎么选？","type":"elders"},
+ {"id":"clean","start":46,"end":51,"voice":"空气净化是关键，甲醛、细菌和异味，都要关注。","type":"clean"},
+ {"id":"c3d","start":51,"end":60,"voice":"璀璨C3D多联机，搭载Hi-nano Ultra健康模块，有效除醛、除菌、除异味。","type":"product"},
+ {"id":"q4","start":60,"end":65,"voice":"第四，秋冬关窗怕憋闷，该怎么选？","type":"window"},
+ {"id":"fresh","start":65,"end":71,"voice":"重点看新风换气，不开窗，也能持续送入新鲜空气。","type":"fresh"},
+ {"id":"mini","start":71,"end":78,"voice":"璀璨Mini新风，层层过滤，三百五十立方米每小时大新风量。","type":"product"},
+ {"id":"end","start":78,"end":84,"voice":"璀璨中央空调，让每一种舒适，都选得恰到好处。","type":"outro"}
+]

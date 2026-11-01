@@ -1,0 +1,29 @@
+{
+  "method": "STFT正向谱通量自相关，仅作节拍估计，未完成听觉审查",
+  "source": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/女主秋日宠物篇/第二篇除湿篇c3多联机/02_剪映工程/音乐候选/03_柔和电子_SeedMusic30s.mp3",
+  "duration": 30.040816326530614,
+  "peak_dBFS": 3.0726683139801025,
+  "rms_dBFS": -10.697890281677246,
+  "tempo_candidates": [
+    {
+      "bpm": 90.67,
+      "correlation": 0.8189
+    },
+    {
+      "bpm": 68.91,
+      "correlation": 0.2105
+    },
+    {
+      "bpm": 129.2,
+      "correlation": 0.1958
+    },
+    {
+      "bpm": 112.35,
+      "correlation": 0.1948
+    },
+    {
+      "bpm": 74.9,
+      "correlation": 0.1676
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "durationSeconds": 84,
+  "integratedLUFS": -16.78,
+  "truePeakDBTP": -2.73,
+  "loudnessRangeLU": 4,
+  "tracks": [
+    "01_女声配音.wav",
+    "02_配乐.wav",
+    "03_音效.wav"
+  ],
+  "musicDucking": "以配音为侧链降低配乐",
+  "auditoryReview": "未完成听觉审查，仅文件/响度/峰值/时间线验证"
+}

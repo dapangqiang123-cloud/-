@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "check": "hyperframes check . --at-transitions",
+    "render": "hyperframes render . --fps 60 --quality high --workers 1 --output ../别墅外机位_四变一_无文字.mp4"
+  }
+}

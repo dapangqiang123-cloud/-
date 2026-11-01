@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1",
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "nodeId": "node_3jn98ty8e1",
+        "submitId": "082fa667-c38f-47fa-b1cc-b34fd6d51e7b",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "27bef415-1693-41fa-b6bd-93bbfeee6d70"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_w9txcdr5vp",
+        "submitId": "13dce2bb-6f0b-4e8e-8898-59837523dab9",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "ae7d0c4b-ae73-4b86-926c-204fbdc24b7a"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_q9d88d1rnx",
+        "submitId": "38860cc1-07e0-47cb-a2c6-45fadb551511",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "37997cf3-e63b-447f-b3e2-71081fb9cdcf"
+          }
+        ]
+      },
+      {
+        "nodeId": "node_wapggnrq83",
+        "submitId": "d6d71db4-deef-4c7a-a270-c1a11f33c002",
+        "state": "accepted",
+        "resources": [
+          {
+            "resourceId": "f6bd710e-8114-46e7-b8cc-66320eae73c8"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "requestId": "202610230145287B5619714B2FD9CEB3BC"
+  }
+}

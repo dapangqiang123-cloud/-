@@ -1,0 +1,4 @@
+interface:
+  display_name: "古装人物"
+  short_description: "创建可辨识的古装人物，融合自然五官、明制穿搭与东方电影光影"
+  default_prompt: "使用 $guzhuang-renwu（古装人物），根据我的人物与服装参考制作古装形象，保留五官辨识度，并按用途选择定妆照或电影分镜。"

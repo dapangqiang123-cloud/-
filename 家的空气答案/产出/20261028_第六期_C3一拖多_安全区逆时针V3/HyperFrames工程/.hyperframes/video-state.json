@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "historyId": "ac2bfab9-684b-40de-8eb1-db4283e92b51",
+  "currentRevision": "96af6f0e-6270-4398-98e4-df6994fe0264",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "CLAUDE.md": {
+      "hash": "fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/fd/fd0ea55029dfc62c31614321d782f47476d3d5daaaa4116b56318ed501911f1b"
+    },
+    "DESIGN.md": {
+      "hash": "a0435ba40f6635f659be50a4cd5d56e56285ce435dc00f0d33b3d31fa4460175",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/a0/a0435ba40f6635f659be50a4cd5d56e56285ce435dc00f0d33b3d31fa4460175"
+    },
+    "assets/gsap.min.js": {
+      "hash": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/c1/c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "8e90ecb371c37ab38d3b515c89a986eebad9c715ef8d83ab8d4116bc9d8c269a",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/8e/8e90ecb371c37ab38d3b515c89a986eebad9c715ef8d83ab8d4116bc9d8c269a"
+    },
+    "meta.json": {
+      "hash": "a1f5ec871b1ccd9258355f31bed3ec29259fc0f0c80782e88d67beef1d0418f2",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/a1/a1f5ec871b1ccd9258355f31bed3ec29259fc0f0c80782e88d67beef1d0418f2"
+    },
+    "package.json": {
+      "hash": "17200f7b303d210cee8c4c5f775d60416239f9967a383e03653a04409901a934",
+      "content": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/17/17200f7b303d210cee8c4c5f775d60416239f9967a383e03653a04409901a934"
+    }
+  },
+  "revisions": {
+    "96af6f0e-6270-4398-98e4-df6994fe0264": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793162624562,
+      "endedAt": 1793162624563,
+      "files": {
+        "package.json": {
+          "before": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/28/28248dee5ea4c82a4dde9c33f886a678c14398503aac1649b81c3c8758e254be",
+          "after": "/Users/weipeilong/.cache/hyperframes/history/ac2bfab9-684b-40de-8eb1-db4283e92b51/blobs/17/17200f7b303d210cee8c4c5f775d60416239f9967a383e03653a04409901a934"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": {
+      "revision": null,
+      "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-5"
+    },
+    "revisions": {},
+    "unversioned": [
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-0",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-00-at-1.1s.png",
+        "time": 1.1,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "7a2f057c429d354bc30b8e11a4d4dfe8abf736d2ae72f59d80290c0179f796cc",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-1",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-01-at-1.2s.png",
+        "time": 1.2,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "f62574c730777e49149be89a41595441b860b375a1eb2a9248f53e57e59d326b",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-2",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-02-at-4.2s.png",
+        "time": 4.2,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "13b407b282e234e365f6b0fa84e824902a6e739848285aabbd2c9d0dee521e79",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-3",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-03-at-5.95s.png",
+        "time": 5.95,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "951635a16b5e1068a7fcb48a61496a836ce4e997f0963de65ed22ec838618fe0",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-4",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-04-at-7.4s.png",
+        "time": 7.4,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "2023e156e29223bd3922a324f24fafce25436575ff5541942c63cf43549afc2d",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "0f0d98c9-0619-493a-a4d0-bfa5f331f2f0-5",
+        "image": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/检查/抽帧/frame-05-at-7.76s.png",
+        "time": 7.76,
+        "metadata": {
+          "width": 1080,
+          "height": 1920,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793162566606,
+        "contentHash": "84b3e954024b2f59609f68ad5f439bebd8a793edae2357b6d8fb5ee927bae967",
+        "revision": null,
+        "inputFingerprint": "e29d5d7e22e4051ec8a69433e00123423338894583499c9723ce5bf3dcd6c915",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "renders": {
+    "latest": {
+      "id": "de568268-e2ef-4308-aef5-5a89f29acb1d",
+      "completedAt": 1793162631628,
+      "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261028_第六期_C3一拖多_安全区逆时针V3/C3一拖多_安全区逆时针V3_1080x1920_8s.mp4",
+      "status": "completed",
+      "revision": "96af6f0e-6270-4398-98e4-df6994fe0264"
+    },
+    "retainedRevisions": [
+      "96af6f0e-6270-4398-98e4-df6994fe0264"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

@@ -1,0 +1,341 @@
+{
+  "projectId": "721c8a46-7d95-4d63-b843-f04857486e51",
+  "budget": 1000,
+  "reserved": 72,
+  "jobs": {
+    "mountain": {
+      "nodeId": "node_g7atzzzxkp",
+      "submitId": "679bc304-5870-47c5-a0cd-8d5a40dc74f7",
+      "prompt": "Editorial photographic collage source asset. A majestic rugged limestone mountain massif and layered rolling hills with Mediterranean olive-green grass, tiny dark pine trees, warm taupe stone and a few golden grassy slopes. Straight-on landscape view, broad panoramic skyline at varying heights, sharp realistic photographic rock detail, like a carefully hand-cut National Geographic magazine photograph. Entire mountains fully inside the canvas with generous empty margins. Isolated on perfectly pure white #FFFFFF background, no blue sky, no clouds, no frame, no text, no paper border, no drop shadow. The mountain occupies the lower 70 percent. Natural sunny warm light, muted elegant earthy palette. NOT an illustration, NOT a miniature toy, NOT CGI. High-end editorial art direction, fine restrained photographic grain.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "20261031002456E6A896813A968E9ABB18",
+      "status": {
+        "operationRef": "679bc304-5870-47c5-a0cd-8d5a40dc74f7",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "0ad9c993-0fbc-4775-bde5-eee5eb200d32",
+            "state": "succeeded",
+            "width": 5404,
+            "height": 3040,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/mountain.png",
+      "resourceId": "0ad9c993-0fbc-4775-bde5-eee5eb200d32"
+    },
+    "forest": {
+      "nodeId": "node_7s7wyd386m",
+      "submitId": "0c2265f2-d90c-4943-81fd-61d4485e83b2",
+      "prompt": "Single photographic cutout asset: a broad rolling forest-covered hill, dense olive-green and sage-green trees, rocky taupe outcrops, one tiny meandering pathway through golden meadow. Eye-level view from distance, lower foreground evergreen branch on right. Wide low silhouette, hill fully visible within frame. Isolated on pure white #FFFFFF background, generous white margins, no sky, no text, no border, no shadow. Real photographic detail, sunny warm late-afternoon natural light, sophisticated muted earthy colors, magazine cutout, crisp tree foliage. NOT watercolor, NOT illustration, NOT 3D render.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "20261031002458147C897CAFD780873362",
+      "status": {
+        "operationRef": "0c2265f2-d90c-4943-81fd-61d4485e83b2",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "b5ff74d6-bd0e-47db-9e81-3af9dcc2ceec",
+            "state": "succeeded",
+            "width": 5404,
+            "height": 3040,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/forest.png",
+      "resourceId": "b5ff74d6-bd0e-47db-9e81-3af9dcc2ceec"
+    },
+    "room": {
+      "nodeId": "node_4w68fe0eja",
+      "submitId": "0921b8e1-58c3-426d-a85b-a8742d7b61a9",
+      "prompt": "Luxury architectural editorial photograph, warm modern Chinese home, 16:9 horizontal composition, eye-level wide angle 28mm. Cream plaster walls, pale oak, rounded ivory linen sofa low in the frame, sculptural walnut coffee table, one art book and ceramic tea cup, floor lamp, olive tree, beautiful full height windows with sheer linen curtains to the RIGHT, subtle long narrow integrated ceiling ventilation slot above the window on the upper wall. Daylight and soft sun shadows from right. Calm cozy inhabited room but no people. Restrained beige champagne warm gray sage palette, very high detail upholstery and architecture. Main sofa near bottom center, clean large wall upper left for later graphics. Beautiful believable high-end interior photography, natural optics, no surreal shapes, no letters, no logos, no frame, no visible appliances, no floating objects, no busy decoration.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "202610310025003EBDA6A020BDD599EC2F",
+      "status": {
+        "operationRef": "0921b8e1-58c3-426d-a85b-a8742d7b61a9",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "c62b69f1-7398-4706-a3bf-84f6fbf5f73c",
+            "state": "succeeded",
+            "width": 5404,
+            "height": 3040,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/room.png",
+      "resourceId": "c62b69f1-7398-4706-a3bf-84f6fbf5f73c"
+    },
+    "chair": {
+      "nodeId": "node_kp7gsef9gn",
+      "submitId": "088b4ff6-a425-47ed-bd71-e15fc9ac24ca",
+      "prompt": "One isolated full-body photographic lifestyle cutout for sophisticated mixed-media editorial animation. A stylish Chinese woman around 30 with natural realistic face, wearing a cream knit sweater and taupe trousers, seated comfortably sideways in a rounded warm ivory boucle lounge chair, calmly reading a small book. Bare feet resting on a matching low ottoman. Slim dark bronze floor reading lamp to her right. Entire woman chair ottoman and lamp fully visible, generous margins on all sides. Pure white #FFFFFF seamless background, no floor line, no shadows outside subject. Natural soft sunlight, authentic lived-in candid expression, premium furniture editorial photograph, sharp details, sophisticated beige and warm brown palette, no lettering or watermarks, no extra fingers, no plastic skin.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "2026103100250200CC9B4FA0541D8CE268",
+      "status": {
+        "operationRef": "088b4ff6-a425-47ed-bd71-e15fc9ac24ca",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "5da16a5f-b791-43e3-abef-98ae183fbb65",
+            "state": "succeeded",
+            "width": 4096,
+            "height": 4096,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/chair.png",
+      "resourceId": "5da16a5f-b791-43e3-abef-98ae183fbb65"
+    },
+    "leaf": {
+      "nodeId": "node_txph9c1v8z",
+      "submitId": "d81fdbae-8cf2-4a79-ae9b-025eec4c496d",
+      "prompt": "A single elegant large ginkgo leaf, pale champagne gold with olive green base, clearly visible fine veins, delicate fan shape, slender curved stem, side-lit natural macro photograph, isolated in the center on pure white #FFFFFF background. Whole leaf visible, plenty of white space, no other objects, no shadow, no text, no illustration. Luxury botanical editorial photography.",
+      "reserved": 12,
+      "submitted": "accepted",
+      "requestId": "202610310025042B156089C89D2A990735",
+      "status": {
+        "operationRef": "d81fdbae-8cf2-4a79-ae9b-025eec4c496d",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "1a9f099c-6549-4c48-9630-29bf0b0837e1",
+            "state": "succeeded",
+            "width": 4096,
+            "height": 4096,
+            "format": "jpeg"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/leaf.png",
+      "resourceId": "1a9f099c-6549-4c48-9630-29bf0b0837e1"
+    },
+    "vo1": {
+      "nodeId": "node_qkx3e1dr5z",
+      "submitId": "527b8804-b74c-4c39-80aa-e76379ad3cf4",
+      "prompt": "家的好风景，只在眼前吗？",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "202610310027192495AFA3B549388D20ED",
+      "status": {
+        "operationRef": "527b8804-b74c-4c39-80aa-e76379ad3cf4",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "2d045891-ad81-4cf4-afc5-6cec1f164fd4",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo1.mp3",
+      "resourceId": "2d045891-ad81-4cf4-afc5-6cec1f164fd4"
+    },
+    "vo2": {
+      "nodeId": "node_4802xzrzfh",
+      "submitId": "34070e95-f859-4859-8a08-972d228273ea",
+      "prompt": "让清新，翻山越岭。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031002722F1BCF382FE56178CB77C",
+      "status": {
+        "operationRef": "34070e95-f859-4859-8a08-972d228273ea",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "a3679e93-9b89-4aa5-aa66-4c71206821bc",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo2.mp3",
+      "resourceId": "a3679e93-9b89-4aa5-aa66-4c71206821bc"
+    },
+    "vo3": {
+      "nodeId": "node_6qnxf5rr84",
+      "submitId": "3edcac18-66c0-46e5-b606-5d74ff6f2ad7",
+      "prompt": "不开窗，也能换一口新鲜空气。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "2026103100272580A175C41EBD45A54B1D",
+      "status": {
+        "operationRef": "3edcac18-66c0-46e5-b606-5d74ff6f2ad7",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "32072892-6c53-4894-9990-428ca004a557",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo3.mp3",
+      "resourceId": "32072892-6c53-4894-9990-428ca004a557"
+    },
+    "vo4": {
+      "nodeId": "node_deqym402x5",
+      "submitId": "795bc80e-5fb6-417d-8ec3-8de032cc5370",
+      "prompt": "璀璨 Mini 新风系统。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "20261031002729816A6FCE418D928F8A0D",
+      "status": {
+        "operationRef": "795bc80e-5fb6-417d-8ec3-8de032cc5370",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "5c1f02a5-852a-4c01-bec9-8b1541928028",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo4.mp3",
+      "resourceId": "5c1f02a5-852a-4c01-bec9-8b1541928028"
+    },
+    "vo5": {
+      "nodeId": "node_7gy8pknjd1",
+      "submitId": "1cf6539a-fd5f-4a57-ac31-4ddcb8b46fde",
+      "prompt": "让家自在呼吸，让生活慢下来。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "202610310027333048D59595BBB8884BF8",
+      "status": {
+        "operationRef": "1cf6539a-fd5f-4a57-ac31-4ddcb8b46fde",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "10c183d4-0ce7-48bb-94a9-8a3db510edf3",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo5.mp3",
+      "resourceId": "10c183d4-0ce7-48bb-94a9-8a3db510edf3"
+    },
+    "vo6": {
+      "nodeId": "node_nxr9xqn5py",
+      "submitId": "850c2724-1a12-45b9-a016-3b8e96fcb5a0",
+      "prompt": "理想空气，源自璀璨。",
+      "kind": "audio",
+      "reserved": 1,
+      "submitted": "accepted",
+      "requestId": "202610310027363C34AAFC38C97F8D1D04",
+      "status": {
+        "operationRef": "850c2724-1a12-45b9-a016-3b8e96fcb5a0",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "f50e7029-1acd-4e58-b438-6db8fb14cbec",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/vo6.mp3",
+      "resourceId": "f50e7029-1acd-4e58-b438-6db8fb14cbec"
+    },
+    "music": {
+      "nodeId": "node_je5hhe4jxc",
+      "submitId": "92907643-1eeb-45a7-a929-9089dabda64e",
+      "prompt": "30秒高端家居品牌摄影拼贴动画配乐，纯器乐，不要人声。聪明、轻盈、温暖、有探索感，像精致Vox mixed media商业解释片而非煽情广告。100 BPM，温暖短音原声钢琴、木质马林巴、轻拨弦、低调圆润贝斯、极轻干爽刷鼓和木质敲击，富有小而巧的切分律动，和声高级。前2秒一个清晰轻巧引子，3-12秒渐进律动，12秒轻巧切换，16-22秒温暖展开，23-25秒自然落在温暖完整和弦并留下尾韵。声音清洁有呼吸感，旋律少留出旁白空间，不要爵士独奏，不要口哨，不要鸟叫，不要音效，不要史诗弦乐，不要强烈电子舞曲。",
+      "kind": "audio",
+      "reserved": 6,
+      "submitted": "accepted",
+      "requestId": "202610310027391A854DAC37235F86FE8C",
+      "status": {
+        "operationRef": "92907643-1eeb-45a7-a929-9089dabda64e",
+        "state": "succeeded",
+        "resources": [
+          {
+            "resourceId": "6733af7a-9549-4889-a844-335719d5f4b9",
+            "state": "succeeded"
+          }
+        ],
+        "submission": {
+          "state": "completed",
+          "resubmittable": false,
+          "adviceCode": "submission_accepted",
+          "advice": "The service accepted this submission. Continue with operation status/wait and do not resubmit; a new submission would run and charge credits again."
+        }
+      },
+      "downloaded": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/Vox拼贴风格测试/素材/music.mp3",
+      "resourceId": "6733af7a-9549-4889-a844-335719d5f4b9"
+    }
+  }
+}

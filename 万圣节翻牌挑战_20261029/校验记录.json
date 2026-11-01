@@ -1,0 +1,57 @@
+[
+  {
+    "frame": 0,
+    "reveal": null,
+    "MAE": 2.874
+  },
+  {
+    "frame": 10,
+    "reveal": 5,
+    "MAE": 2.879
+  },
+  {
+    "frame": 21,
+    "reveal": 2,
+    "MAE": 2.905
+  },
+  {
+    "frame": 32,
+    "reveal": 8,
+    "MAE": 2.887
+  },
+  {
+    "frame": 43,
+    "reveal": 4,
+    "MAE": 2.884
+  },
+  {
+    "frame": 54,
+    "reveal": 1,
+    "MAE": 2.889
+  },
+  {
+    "frame": 65,
+    "reveal": 9,
+    "MAE": 2.917
+  },
+  {
+    "frame": 76,
+    "reveal": 3,
+    "MAE": 2.88
+  },
+  {
+    "frame": 87,
+    "reveal": 7,
+    "MAE": 2.915
+  },
+  {
+    "frame": 98,
+    "reveal": 6,
+    "MAE": 2.883
+  },
+  {
+    "frame": 119,
+    "reveal": null,
+    "MAE": 2.871
+  }
+]

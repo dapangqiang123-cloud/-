@@ -1,0 +1,114 @@
+[
+  {
+    "id": "open",
+    "raw_seconds": 5.04,
+    "speed": 1.1004366812227073,
+    "audio_start": 0.2,
+    "audio_end": 4.762291666666667,
+    "scene_end": 5
+  },
+  {
+    "id": "q1",
+    "raw_seconds": 3.552,
+    "speed": 1,
+    "audio_start": 5.2,
+    "audio_end": 8.730666666666668,
+    "scene_end": 10
+  },
+  {
+    "id": "air",
+    "raw_seconds": 4.488,
+    "speed": 1,
+    "audio_start": 10.2,
+    "audio_end": 14.666666666666666,
+    "scene_end": 16
+  },
+  {
+    "id": "c2",
+    "raw_seconds": 5.712,
+    "speed": 1,
+    "audio_start": 16.2,
+    "audio_end": 21.890666666666668,
+    "scene_end": 23
+  },
+  {
+    "id": "q2",
+    "raw_seconds": 3.312,
+    "speed": 1,
+    "audio_start": 23.2,
+    "audio_end": 26.490666666666666,
+    "scene_end": 27
+  },
+  {
+    "id": "rooms",
+    "raw_seconds": 4.032,
+    "speed": 1,
+    "audio_start": 27.2,
+    "audio_end": 31.210666666666665,
+    "scene_end": 32
+  },
+  {
+    "id": "c3",
+    "raw_seconds": 8.112,
+    "speed": 1,
+    "audio_start": 32.2,
+    "audio_end": 40.29066666666667,
+    "scene_end": 41
+  },
+  {
+    "id": "q3",
+    "raw_seconds": 3.576,
+    "speed": 1,
+    "audio_start": 41.2,
+    "audio_end": 44.75466666666667,
+    "scene_end": 46
+  },
+  {
+    "id": "clean",
+    "raw_seconds": 5.088,
+    "speed": 1.1109170305676856,
+    "audio_start": 46.2,
+    "audio_end": 50.76266666666667,
+    "scene_end": 51
+  },
+  {
+    "id": "c3d",
+    "raw_seconds": 7.896,
+    "speed": 1,
+    "audio_start": 51.2,
+    "audio_end": 59.07466666666667,
+    "scene_end": 60
+  },
+  {
+    "id": "q4",
+    "raw_seconds": 3.888,
+    "speed": 1,
+    "audio_start": 60.2,
+    "audio_end": 64.06666666666666,
+    "scene_end": 65
+  },
+  {
+    "id": "fresh",
+    "raw_seconds": 5.232,
+    "speed": 1,
+    "audio_start": 65.2,
+    "audio_end": 70.41066666666667,
+    "scene_end": 71
+  },
+  {
+    "id": "mini",
+    "raw_seconds": 6.216,
+    "speed": 1,
+    "audio_start": 71.2,
+    "audio_end": 77.39466666666667,
+    "scene_end": 78
+  },
+  {
+    "id": "end",
+    "raw_seconds": 4.944,
+    "speed": 1,
+    "audio_start": 78.2,
+    "audio_end": 83.12266666666667,
+    "scene_end": 84
+  }
+]

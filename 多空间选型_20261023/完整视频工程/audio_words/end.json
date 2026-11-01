@@ -1,0 +1,62 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 4500000,
+    "text": "璀璨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5750000,
+    "duration": 3000000,
+    "text": "中央"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8875000,
+    "duration": 5500000,
+    "text": "空调"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16500000,
+    "duration": 1625000,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18250000,
+    "duration": 2000000,
+    "text": "每"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20250000,
+    "duration": 2875000,
+    "text": "一种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23250000,
+    "duration": 5125000,
+    "text": "舒适"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30250000,
+    "duration": 1750000,
+    "text": "都"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32000000,
+    "duration": 2750000,
+    "text": "选得"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35000000,
+    "duration": 8500000,
+    "text": "恰到好处"
+  }
+]

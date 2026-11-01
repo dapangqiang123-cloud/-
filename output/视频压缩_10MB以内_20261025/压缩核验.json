@@ -1,0 +1,47 @@
+[
+  {
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/璀璨日常整理留存/10月/视频/家的空气答案2 省电篇.mp4",
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/output/视频压缩_10MB以内_20261025/家的空气答案2 省电篇_10MB以内.mp4",
+    "source_bytes": 137307787,
+    "output_bytes": 9520517,
+    "size_MB": 9.521,
+    "duration": "51.547007",
+    "width": 720,
+    "height": 1280,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "full_decode_check": "passed",
+    "elapsed_seconds": 64.7
+  },
+  {
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/璀璨日常整理留存/10月/视频/家的空气答案3 选多联机单元机.mp4",
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/output/视频压缩_10MB以内_20261025/家的空气答案3 选多联机单元机_10MB以内.mp4",
+    "source_bytes": 193448643,
+    "output_bytes": 9529079,
+    "size_MB": 9.529,
+    "duration": "71.146009",
+    "width": 720,
+    "height": 1280,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "full_decode_check": "passed",
+    "elapsed_seconds": 66.5
+  },
+  {
+    "source": "/Users/weipeilong/Desktop/璀璨中央空调/璀璨日常整理留存/10月/视频/家的空气答案50m²篇4.mp4",
+    "output": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/output/视频压缩_10MB以内_20261025/家的空气答案50m²篇4_10MB以内.mp4",
+    "source_bytes": 170794513,
+    "output_bytes": 9516389,
+    "size_MB": 9.516,
+    "duration": "63.158005",
+    "width": 720,
+    "height": 1282,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "full_decode_check": "passed",
+    "elapsed_seconds": 62.9
+  }
+]

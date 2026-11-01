@@ -1,0 +1,4 @@
+interface:
+  display_name: "三视图"
+  short_description: "直接生成全身照与三角度上半身特写，无需先出母图，保留真实光线和人物辨识度"
+  default_prompt: "使用 $san-shi-tu，按我的角色和穿搭直接生成三视图，只输出一张全身照加三张上半身特写的形象板。"

@@ -1,0 +1,27 @@
+生成方式：内置 imagegen，参考本项目原始素材生成，3:4竖版静态分镜。
+用途：客户反馈后的宠物篇补镜。新增分镜接续“宠物居家需求→操作线控器→出风净化→宠物居家效果→品牌落版”。这两张是静态分镜素材，尚未生成动态视频。
+画面暂不嵌入标题、卖点icon与气流特效，留给后期统一设计。线控器沿用参考资产外观；实机净化操作方式仍需以产品资料为准，不能由画面推定“一键净化”功能。
+
+【补镜02 手指操作线控器】
+Use case: ads-marketing. Asset type: single photorealistic storyboard keyframe for TRESOR central AC autumn pets film, vertical aspect ratio 3:4.
+Primary request: Create the missing close shot that clearly shows the heroine's RIGHT INDEX FINGER physically pressing the existing wall controller's lower-right power button. This is a new camera shot in exactly the referenced room.
+Input images: image 1 existing controller scene for wall texture, window placement and autumn lighting; image 2 front product reference is authoritative for exact controller shape, logo, LCD and all eight button positions; image 3 heroine reference is authoritative for cream knit sleeve, skin and hair; image 4 room reference for architectural continuity.
+Composition: tight close-up, wall controller at eye level in upper-middle, white square panel occupies about 38 percent of image width, enough surrounding beige patterned wall and blurred window on left to establish same room. A single anatomically correct female right hand and cream knit forearm enter naturally from lower right. Fingertip contacts ONLY lower-right power symbol, other fingers naturally curled without blocking the LCD. No face or second hand. Bottom third largely the arm and softly lit wall, suitable for later typography. Match realistic physical controller size, perspective and installation, do not enlarge to a tablet.
+Product: match image 2 precisely: white rounded-square TRESOR casing, gray-green monochrome LCD with 26.5 °C, Wi-Fi and A icons, original Chinese button labels 模式 风量 upward arrow 功能 / 定时 风向 downward arrow power. Retain brand exactly as reference. No added pet mode, touchscreen menus or invented purification status.
+Lighting/style: high-end natural architectural lifestyle photography, warm autumn afternoon window light, beige ivory walnut palette, fine wallpaper texture, shallow but not excessive depth of field, 70mm lens, sharp controller and fingertip. Same calm cinematic realism as references.
+Constraints: one seamless full-frame image only, vertical 3:4. No advertising title, no caption, no icon overlay, no extra watermark, no diagram, no collage, no blue airflow, no glow on screen, no oversized controller. Do not reproduce seated woman using a phone: the required action is an actual finger pressing the mounted controller.
+
+参考素材：分镜3c1女人开启线控器特写.png；线控器正视图.png；女主形象资产.png；客厅资产图.png。
+建议动态：固定机位或极轻推近，手指短暂按下后松开；面板结构和数字保持稳定，不生成虚构菜单。接下一镜出风口。
+
+【补镜03 客厅出风口近景】
+Use case: ads-marketing. Asset type: single photorealistic storyboard keyframe for the same TRESOR autumn pets advertisement, vertical aspect ratio 3:4.
+Primary request: create a missing close architectural shot of the concealed central air conditioning linear outlet in the EXACT living room reference, immediately after the controller is turned on. Provide a clean plate for later subtle airflow and three purification icons in post production.
+Input images: image 1 room layout is authoritative for ceiling, horizontal black-slot outlet, ivory dropped soffit and warm recessed cove lighting, window left, cream curtains, beige textured central column and walnut dining cabinetry right; image 2 existing lifestyle scene is authoritative for photographic finish and late afternoon autumn light.
+Composition/framing: camera is standing in the living room looking slightly upwards toward the left-to-right linear ceiling outlet. Outlet is the clear hero, fills roughly upper-middle 70-85 percent of frame width, black multiple slim horizontal slots in a narrow champagne/ivory surround, no wall-mounted AC box. Use the same straight ceiling edge, warm cove light just above, a fragment of black-frame window and soft white curtain left, subtly visible upper central beige patterned column and walnut background right/below. Lower 35 percent should remain simple pale architectural space for typography. Natural 50mm architectural lens, vertical lines straight, no fisheye; real dimensional ceiling and outlet with sharp grille detail, gently softened background.
+Lighting: same warm autumn afternoon sunlight entering from left, creamy beige and walnut palette, very restrained warm LED strip, realistic shadow gradients, polished residential interior photography, sophisticated calm cinematic realism, match reference room rather than inventing a new interior.
+Constraints: SINGLE image, portrait 3:4. No people or animals needed in this tight shot. NO text, NO logo overlay, NO product packshot, NO icons, NO mist, smoke, visible wind, particles, leaves indoors, blue sci-fi effects, no oversized ducts, no square ceiling cassette, no new furniture or random ornament. Output is a physically plausible clean architectural plate; airflow will be added later.
+
+参考素材：客厅资产图.png；分镜3c女人开启线控器.png。
+建议动态：极轻推近或保持稳定，窗帘微动；后期添加少量透明气流与Hi-nano Ultra三重净化卖点。避免生成白雾、强风或室内飘叶。
+

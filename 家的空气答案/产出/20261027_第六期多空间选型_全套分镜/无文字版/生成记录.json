@@ -1,0 +1,184 @@
+[
+  {
+    "id": "01",
+    "title": "开篇_装修选型",
+    "time": "0-4s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-e67ae730-bd8b-474f-b22a-90762c613ff9.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/01_开篇_装修选型.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/01_开篇_装修选型_无字.png"
+  },
+  {
+    "id": "02",
+    "title": "问题一_大客餐厅",
+    "time": "4-9s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-80db0e9b-26ab-4694-a3bd-a2edcb352821.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/02_问题一_大客餐厅.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/02_问题一_大客餐厅_无字.png"
+  },
+  {
+    "id": "03",
+    "title": "判断一_风量与送风距离",
+    "time": "9-17s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-9848e4a7-9afa-434e-a57c-0eb37bfa8a92.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/03_判断一_风量与送风距离.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/03_判断一_风量与送风距离_无字.png"
+  },
+  {
+    "id": "04",
+    "title": "答案一_C2艺境18米送风",
+    "time": "17-22s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-5b23c93e-12d4-4751-8fdb-4a19605d7ba0.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/04_答案一_C2艺境18米送风.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      940,
+      1673
+    ],
+    "file": "分镜图/04_答案一_C2艺境18米送风_无字.png"
+  },
+  {
+    "id": "05",
+    "title": "问题二_全屋多空间",
+    "time": "22-27s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-5b7bc701-cb16-401c-824d-fb013b9d240b.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/05_问题二_全屋多空间.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/05_问题二_全屋多空间_无字.png"
+  },
+  {
+    "id": "06",
+    "title": "判断二_各房独立运行",
+    "time": "27-35s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-d1f3b15b-b659-450d-8a9a-cc88ef22d40d.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/06_判断二_各房独立运行.png",
+    "prompt": "Edit this exact image into a completely text-free version. Remove all four Chinese room labels, the shutdown badge, bottom subtitle, AND the tiny gold brand wordmark at top-right of the small brown outdoor unit on the lower-left balcony. Leave that metal area plain brown with no gold strokes at all. Remove any letters on books or papers. Keep the same image composition, precise apartment architecture, people, furniture, TWO outdoor fans, copper pipes, active air streams and dark inactive study. Preserve fine detail and clarity. No new text, logos or watermarks anywhere. One full-bleed portrait image.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/06_判断二_各房独立运行_无字.png"
+  },
+  {
+    "id": "07",
+    "title": "答案二_C3知境多联机",
+    "time": "35-40s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-5210d0f7-63a8-4a95-888d-a0436acf775f.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/07_答案二_C3知境多联机.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/07_答案二_C3知境多联机_无字.png"
+  },
+  {
+    "id": "08",
+    "title": "问题三_老人孩子",
+    "time": "40-45s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-bde15ea5-d4c5-4626-ac0a-b0fea76139f8.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/08_问题三_老人孩子.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/08_问题三_老人孩子_无字.png"
+  },
+  {
+    "id": "09",
+    "title": "判断三_空气污染与净化",
+    "time": "45-54s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-3b4669c0-8f13-4f30-8018-dacc35d4e4ee.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/09_判断三_空气污染与净化.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1671
+    ],
+    "file": "分镜图/09_判断三_空气污染与净化_无字.png"
+  },
+  {
+    "id": "10",
+    "title": "答案三_C3D健康模块",
+    "time": "54-60s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-ccce4a65-6f24-4472-8b2b-3e71c48900b7.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/10_答案三_C3D健康模块.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/10_答案三_C3D健康模块_无字.png"
+  },
+  {
+    "id": "11",
+    "title": "问题四_秋冬关窗憋闷",
+    "time": "60-65s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-a61077fd-627a-4ffb-83a8-8ba3631e28ea.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/11_问题四_秋冬关窗憋闷.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/11_问题四_秋冬关窗憋闷_无字.png"
+  },
+  {
+    "id": "12",
+    "title": "判断四_不开窗持续换气",
+    "time": "65-73s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-4b704ee2-b4da-4829-a148-7184f7a080ce.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/12_判断四_不开窗持续换气.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/12_判断四_不开窗持续换气_无字.png"
+  },
+  {
+    "id": "13",
+    "title": "答案四_Mini新风系统",
+    "time": "73-78s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-823b36bc-e3b3-4d42-9866-f5c0c4d0bd02.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/13_答案四_Mini新风系统.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1671
+    ],
+    "file": "分镜图/13_答案四_Mini新风系统_无字.png"
+  },
+  {
+    "id": "14",
+    "title": "收口_四种需求四个答案",
+    "time": "78-84s",
+    "source": "/Users/weipeilong/.codex/generated_images/01a17de3-2273-7c21-97c9-2a354fed3ce7/exec-47632e81-d548-4937-bb74-ac9fc7791fb4.png",
+    "edit_target": "/Users/weipeilong/Desktop/Aaaaaaa/AI工作台/06_codex项目/璀璨codex任务/家的空气答案/产出/20261027_第六期多空间选型_全套分镜/分镜图/14_收口_四种需求四个答案.png",
+    "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a loose style reference. Create a completely text-free clean plate of this exact existing portrait storyboard. Make ONLY local text removal edits; preserve the entire original image composition, camera position, perspective, crop, furniture, architecture, people identities, faces, hands, poses, clothing, product forms, fan count, grille geometry, lighting, shadows, materials, and original crisp detail. Remove EVERY Chinese or Latin letter, word, digit, title, subtitle, room label, technical label, percentage, small disclaimer, watermark, logo and brand wordmark, including lettering physically printed on HVAC products. Remove text on books, papers and decor too; leave illustrated books with pictures only and floorplan linework with no letters/numbers. Seamlessly reconstruct the correct unlettered surface underneath with matching texture and shadows, no blur, no smeared paint, no blank patch. Remove text-only leader callouts and text badge/pill outlines if present, but KEEP meaningful airflow streamlines, directional airflow arrows, refrigerant pipes, cutaway details and scientific particle visualizations. No new text or pseudo-text anywhere. Do not redesign the scene, do not add or remove people or furniture, do not alter machines beyond deleting lettering. Maintain sharp faces, architectural edges and fan grille wires. Full-bleed vertical 9:16, same exact framing. Output ONE image, no collage.",
+    "size": [
+      941,
+      1672
+    ],
+    "file": "分镜图/14_收口_四种需求四个答案_无字.png"
+  }
+]

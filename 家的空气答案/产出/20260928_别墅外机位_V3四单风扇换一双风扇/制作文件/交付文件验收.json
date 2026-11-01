@@ -1,0 +1,63 @@
+[
+  {
+    "file": "别墅外机位_四变一_无文字.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "60/1",
+        "duration": "6.000000"
+      }
+    ],
+    "format": {
+      "duration": "6.000000",
+      "size": "668480"
+    }
+  },
+  {
+    "file": "别墅外机位_四变一_无文字_4K.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 2160,
+        "height": 3840,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "60/1",
+        "duration": "6.000000"
+      }
+    ],
+    "format": {
+      "duration": "6.000000",
+      "size": "1658146"
+    }
+  },
+  {
+    "file": "别墅外机位_四变一_透明.mov",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "prores",
+        "width": 1080,
+        "height": 1920,
+        "pix_fmt": "yuva444p12le",
+        "r_frame_rate": "60/1",
+        "duration": "6.000000"
+      }
+    ],
+    "format": {
+      "duration": "6.000000",
+      "size": "108759895"
+    },
+    "alpha": {
+      "min": 0,
+      "max": 255
+    }
+  }
+]

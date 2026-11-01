@@ -1,0 +1,104 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 5125000,
+    "text": "璀璨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6375000,
+    "duration": 1750000,
+    "text": "C"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8125000,
+    "duration": 2250000,
+    "text": "3"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10375000,
+    "duration": 1250000,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11750000,
+    "duration": 5125000,
+    "text": "联机"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20250000,
+    "duration": 3125000,
+    "text": "日系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23500000,
+    "duration": 6500000,
+    "text": "压缩机"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31000000,
+    "duration": 3750000,
+    "text": "搭配"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34750000,
+    "duration": 1625000,
+    "text": "液"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36375000,
+    "duration": 1500000,
+    "text": "冷"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38000000,
+    "duration": 5125000,
+    "text": "科技"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46000000,
+    "duration": 3750000,
+    "text": "高温"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50000000,
+    "duration": 3625000,
+    "text": "稳定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53750000,
+    "duration": 5125000,
+    "text": "运行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61125000,
+    "duration": 4500000,
+    "text": "守护"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65875000,
+    "duration": 3875000,
+    "text": "全家"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69875000,
+    "duration": 5500000,
+    "text": "舒适"
+  }
+]

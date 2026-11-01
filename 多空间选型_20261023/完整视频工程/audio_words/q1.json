@@ -1,0 +1,50 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1000000,
+    "duration": 4500000,
+    "text": "第一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8250000,
+    "duration": 1875000,
+    "text": "客"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10250000,
+    "duration": 3625000,
+    "text": "餐厅"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14125000,
+    "duration": 1375000,
+    "text": "大"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15500000,
+    "duration": 5125000,
+    "text": "空间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22625000,
+    "duration": 1500000,
+    "text": "该"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24250000,
+    "duration": 2375000,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26625000,
+    "duration": 3250000,
+    "text": "选"
+  }
+]
